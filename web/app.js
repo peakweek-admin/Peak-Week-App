@@ -225,11 +225,6 @@ const markdownToHtml = (sectionBody) => {
   return output.join('\n');
 };
 
-const isExpandableTitle = (title) =>
-  title.startsWith('Mechanisms:') ||
-  title.startsWith('Deep Dive:') ||
-  title.startsWith('Why It Matters');
-
 const renderContentSections = (content) => {
   const sections = content.split('\n## ').map((section, index) => {
     if (index === 0) {
@@ -243,17 +238,6 @@ const renderContentSections = (content) => {
     .map((section) => {
       if (!section.title) {
         return `<div class="content-body">${markdownToHtml(section.body)}</div>`;
-      }
-
-      if (isExpandableTitle(section.title)) {
-        return `
-          <details class="content-detail">
-            <summary>${section.title}</summary>
-            <div class="content-detail__body">
-              ${markdownToHtml(section.body)}
-            </div>
-          </details>
-        `;
       }
 
       return `

@@ -117,6 +117,23 @@ Pharmacology discussions often ignore long-term outcomes. Endocrine disruption c
 - Recovery from suppression can be slow and uncertain.
 - Dysregulation affects mood, energy, and recovery.
 
+
+## Mechanisms: Peptide Signaling Pathways
+
+**Core idea:** Peptides act as signaling molecules that bind to receptors and modulate cellular behavior. Their effects depend on receptor distribution, signal transduction cascades, and downstream gene expression.
+
+- Many peptides act through G-protein-coupled receptors, triggering cascades like cAMP or MAPK.
+- Tissue-specific receptor density determines where effects are strongest.
+- Signal duration and clearance rates influence magnitude of response.
+
+## Mechanisms: Growth Factors and Repair Signaling
+
+**Core idea:** Some peptides influence growth factor pathways, which can affect collagen synthesis, tissue repair, or metabolic regulation. These effects are context-dependent and vary across tissues.
+
+- Growth factor signaling can alter connective tissue remodeling.
+- Local tissue environment changes the response magnitude.
+- The same signaling pathway can have different outcomes in different tissues.
+
 ## Mechanisms: Systemic Risk Profiles
 
 **Core idea:** Pharmacology affects multiple systems, not just muscle.
