@@ -26,6 +26,16 @@ This project is 100% free to use locally without any payment or gated services. 
 
 The command creates `data/peak-week.db` with the schema and seed data loaded.
 
+### Preview the Web App (Free)
+
+You can preview a simple web UI locally without deploying it:
+
+```bash
+./scripts/preview_web.sh
+```
+
+Then open `http://localhost:4173/web/` in your browser to browse modules and load lesson markdown.
+
 ## Suggested Next Steps
 
 - Add additional studies and link them to lessons in `lesson_studies`.
