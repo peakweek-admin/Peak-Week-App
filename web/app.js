@@ -15,6 +15,9 @@ const moduleList = document.getElementById('module-list');
 const lessonPreview = document.getElementById('lesson-preview');
 const toggleThemeButton = document.getElementById('toggle-theme');
 
+const completionKey = 'peak-week-completions';
+const storedCompletion = JSON.parse(localStorage.getItem(completionKey) || '{}');
+
 const applyTheme = (theme) => {
   document.documentElement.classList.toggle('light', theme === 'light');
   localStorage.setItem('theme', theme);
@@ -29,6 +32,11 @@ toggleThemeButton.addEventListener('click', () => {
   const isLight = document.documentElement.classList.contains('light');
   applyTheme(isLight ? 'dark' : 'light');
 });
+
+const saveCompletion = (moduleId, isComplete) => {
+  storedCompletion[moduleId] = isComplete;
+  localStorage.setItem(completionKey, JSON.stringify(storedCompletion));
+};
 
 const renderModules = (modules) => {
   moduleList.innerHTML = '';
@@ -51,13 +59,77 @@ const renderModules = (modules) => {
       <span>Topics: ${module.topics.join(', ')}</span>
     `;
 
+    const status = document.createElement('span');
+    status.className = storedCompletion[module.id] ? 'badge badge--complete' : 'badge';
+    status.textContent = storedCompletion[module.id] ? 'Completed' : 'In progress';
+
     const button = document.createElement('button');
     button.textContent = 'Open module';
     button.addEventListener('click', () => loadModule(module.id, module.title));
 
-    card.append(title, summary, meta, button);
+    card.append(title, summary, meta, status, button);
     moduleList.append(card);
   });
+};
+
+const renderQuiz = (moduleId, quiz) => {
+  if (!quiz || quiz.length === 0) {
+    return '<p class="muted">No quiz available.</p>';
+  }
+
+  return quiz
+    .map((item, index) => {
+      const options = item.options
+        .map(
+          (option, optIndex) => `
+            <label class="quiz-option">
+              <input type="radio" name="quiz-${moduleId}-${index}" value="${optIndex}" />
+              <span>${option}</span>
+            </label>
+          `
+        )
+        .join('');
+
+      return `
+        <div class="quiz-question" data-answer="${item.answer}" data-explanation="${item.explanation}">
+          <h4>Question ${index + 1}</h4>
+          <p>${item.question}</p>
+          <div class="quiz-options">${options}</div>
+          <p class="quiz-feedback muted"></p>
+        </div>
+      `;
+    })
+    .join('');
+};
+
+const evaluateQuiz = (container) => {
+  const questions = container.querySelectorAll('.quiz-question');
+  let correct = 0;
+
+  questions.forEach((question) => {
+    const answer = Number(question.dataset.answer);
+    const explanation = question.dataset.explanation;
+    const selected = question.querySelector('input:checked');
+    const feedback = question.querySelector('.quiz-feedback');
+
+    if (!selected) {
+      feedback.textContent = 'Please choose an answer.';
+      feedback.classList.add('error');
+      return;
+    }
+
+    const chosen = Number(selected.value);
+    if (chosen === answer) {
+      correct += 1;
+      feedback.textContent = `Correct. ${explanation}`;
+      feedback.classList.remove('error');
+    } else {
+      feedback.textContent = `Not quite. ${explanation}`;
+      feedback.classList.add('error');
+    }
+  });
+
+  return { correct, total: questions.length };
 };
 
 const loadModule = async (moduleId, moduleTitle) => {
@@ -68,12 +140,81 @@ const loadModule = async (moduleId, moduleTitle) => {
   }
 
   try {
-    const response = await fetch(`../${path}`);
-    if (!response.ok) {
+    const [moduleResponse, structureResponse] = await Promise.all([
+      fetch(`../${path}`),
+      fetch('../data/module-structure.json'),
+    ]);
+
+    if (!moduleResponse.ok || !structureResponse.ok) {
       throw new Error('Unable to load module');
     }
-    const content = await response.text();
-    lessonPreview.innerHTML = `<h3>${moduleTitle}</h3><pre>${content}</pre>`;
+
+    const content = await moduleResponse.text();
+    const structure = await structureResponse.json();
+    const moduleStructure = structure[moduleId];
+
+    const lessonList = moduleStructure
+      ? moduleStructure.lessons
+          .map(
+            (lesson) => `
+              <li>
+                <strong>${lesson.title}</strong>
+                <span class="muted">${lesson.summary}</span>
+              </li>
+            `
+          )
+          .join('')
+      : '<li class="muted">No lesson list available.</li>';
+
+    const quizMarkup = moduleStructure ? renderQuiz(moduleId, moduleStructure.quiz) : '';
+
+    lessonPreview.innerHTML = `
+      <div class="lesson-header">
+        <div>
+          <h3>${moduleTitle}</h3>
+          <p class="muted">Use the checklist and quiz to track completion.</p>
+        </div>
+        <button class="ghost" id="mark-complete">
+          ${storedCompletion[moduleId] ? 'Mark incomplete' : 'Mark complete'}
+        </button>
+      </div>
+      <div class="lesson-columns">
+        <div>
+          <h4>Module outline</h4>
+          <ul class="lesson-list">${lessonList}</ul>
+        </div>
+        <div>
+          <h4>Module content</h4>
+          <pre>${content}</pre>
+        </div>
+      </div>
+      <div class="quiz-panel">
+        <div class="quiz-header">
+          <h4>Knowledge check</h4>
+          <button id="check-answers">Check answers</button>
+        </div>
+        ${quizMarkup}
+        <p id="quiz-score" class="muted"></p>
+      </div>
+    `;
+
+    const markButton = document.getElementById('mark-complete');
+    markButton.addEventListener('click', () => {
+      const nextState = !storedCompletion[moduleId];
+      saveCompletion(moduleId, nextState);
+      markButton.textContent = nextState ? 'Mark incomplete' : 'Mark complete';
+      loadCatalog();
+    });
+
+    const quizButton = document.getElementById('check-answers');
+    if (quizButton) {
+      quizButton.addEventListener('click', () => {
+        const quizPanel = document.querySelector('.quiz-panel');
+        const results = evaluateQuiz(quizPanel);
+        const score = document.getElementById('quiz-score');
+        score.textContent = `Score: ${results.correct} / ${results.total}`;
+      });
+    }
   } catch (error) {
     lessonPreview.innerHTML = '<p class="muted">Unable to load module content. Make sure you are running a local server.</p>';
   }
