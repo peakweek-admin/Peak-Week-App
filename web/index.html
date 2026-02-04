@@ -16,7 +16,9 @@
             alt="Peak Week"
           />
           <div class="header__actions">
-            <button id="modules-toggle-header" class="ghost modules-toggle">Show Modules</button>
+            <button id="modules-menu-toggle" class="ghost modules-menu-toggle" aria-expanded="false" aria-controls="module-menu-panel">
+              ☰ Modules
+            </button>
             <button id="toggle-theme" class="ghost">Toggle Theme</button>
           </div>
         </div>
@@ -29,18 +31,19 @@
         </div>
       </header>
 
-      <main class="app__main">
-        <section class="panel panel--modules">
-          <div class="panel__header panel__header--collapsible">
-            <button id="modules-toggle" class="ghost panel__toggle" type="button" aria-expanded="true">
-              Modules
-              <span class="chevron">▾</span>
-            </button>
-            <p>Loaded from <code>data/catalog.json</code>.</p>
+      <div class="module-menu">
+        <div id="module-menu-panel" class="module-menu-panel" hidden>
+          <div class="module-menu-header">
+            <h2>Modules</h2>
+            <button id="modules-menu-close" class="ghost" type="button">Close</button>
           </div>
+          <p class="module-menu-meta">Loaded from <code>data/catalog.json</code>.</p>
           <div id="module-list" class="module-list"></div>
-        </section>
+        </div>
+        <div id="module-menu-backdrop" class="module-menu-backdrop" hidden></div>
+      </div>
 
+      <main class="app__main">
         <section class="panel">
           <div class="panel__header">
             <h2>Lesson Preview</h2>

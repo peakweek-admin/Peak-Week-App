@@ -8,14 +8,15 @@ const MODULE_PATHS = {
   'module-thermogenesis': 'content/modules/07-thermogenesis.md',
   'module-recovery-monitoring': 'content/modules/08-recovery-monitoring.md',
   'module-ergogenics': 'content/modules/09-ergogenics.md',
-  'module-pharmacology': 'content/modules/10-pharmacology.md',
 };
 
 const moduleList = document.getElementById('module-list');
 const lessonPreview = document.getElementById('lesson-preview');
 const toggleThemeButton = document.getElementById('toggle-theme');
-const modulesToggle = document.getElementById('modules-toggle');
-const modulesToggleHeader = document.getElementById('modules-toggle-header');
+const modulesMenuToggle = document.getElementById('modules-menu-toggle');
+const modulesMenuPanel = document.getElementById('module-menu-panel');
+const modulesMenuClose = document.getElementById('modules-menu-close');
+const modulesMenuBackdrop = document.getElementById('module-menu-backdrop');
 const appRoot = document.querySelector('.app');
 
 const completionKey = 'peak-week-completions';
@@ -41,36 +42,50 @@ const saveCompletion = (moduleId, isComplete) => {
   localStorage.setItem(completionKey, JSON.stringify(storedCompletion));
 };
 
-const setModulesCollapsed = (isCollapsed) => {
+const setModulesMenuOpen = (isOpen) => {
   if (!appRoot) {
     return;
   }
 
-  appRoot.classList.toggle('app--modules-collapsed', isCollapsed);
+  appRoot.classList.toggle('app--menu-open', isOpen);
 
-  if (modulesToggle) {
-    modulesToggle.setAttribute('aria-expanded', String(!isCollapsed));
+  if (modulesMenuPanel) {
+    modulesMenuPanel.hidden = !isOpen;
   }
 
-  const label = isCollapsed ? 'Show Modules' : 'Hide Modules';
-  if (modulesToggleHeader) {
-    modulesToggleHeader.textContent = label;
+  if (modulesMenuBackdrop) {
+    modulesMenuBackdrop.hidden = !isOpen;
+  }
+
+  if (modulesMenuToggle) {
+    modulesMenuToggle.setAttribute('aria-expanded', String(isOpen));
   }
 };
 
-if (modulesToggle) {
-  modulesToggle.addEventListener('click', () => {
-    const isCollapsed = appRoot.classList.contains('app--modules-collapsed');
-    setModulesCollapsed(!isCollapsed);
+if (modulesMenuToggle) {
+  modulesMenuToggle.addEventListener('click', () => {
+    const isOpen = appRoot.classList.contains('app--menu-open');
+    setModulesMenuOpen(!isOpen);
   });
 }
 
-if (modulesToggleHeader) {
-  modulesToggleHeader.addEventListener('click', () => {
-    const isCollapsed = appRoot.classList.contains('app--modules-collapsed');
-    setModulesCollapsed(!isCollapsed);
+if (modulesMenuClose) {
+  modulesMenuClose.addEventListener('click', () => {
+    setModulesMenuOpen(false);
   });
 }
+
+if (modulesMenuBackdrop) {
+  modulesMenuBackdrop.addEventListener('click', () => {
+    setModulesMenuOpen(false);
+  });
+}
+
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape') {
+    setModulesMenuOpen(false);
+  }
+});
 
 const renderModules = (modules) => {
   moduleList.innerHTML = '';
@@ -336,6 +351,7 @@ const loadModule = async (moduleId, moduleTitle) => {
       });
     }
 
+    setModulesMenuOpen(false);
   } catch (error) {
     lessonPreview.innerHTML = '<p class="muted">Unable to load module content. Make sure you are running a local server.</p>';
   }
@@ -354,5 +370,4 @@ const loadCatalog = async () => {
   }
 };
 
-setModulesCollapsed(false);
 loadCatalog();

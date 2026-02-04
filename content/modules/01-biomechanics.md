@@ -157,3 +157,22 @@ When you push or pull against resistance, the direction of that resistance matte
 - **Joint health:** align force vectors with joint structure to reduce irritation.
 
 **Takeaway:** Mechanics are the “why” behind exercise selection. When you understand torque and stability, you can target muscle growth without unnecessary joint stress.
+
+When you apply force to a barbell, your joints do not care about the absolute load as much as they care about the torque that load creates. That torque is the product of force and moment arm, which is why a small change in bar position can dramatically change difficulty. As the moment arm lengthens across the range of motion, the joint torque requirement spikes, forcing more motor units to engage. This is the real reason certain lifts have predictable sticking points: the joint torque demand exceeds what the muscles can produce at that specific angle.
+
+Leverage is personal, not universal. Two lifters with different femur lengths experience different hip and knee moments, even with identical loads. This is why "ideal" technique is a myth; the goal is the most stable, repeatable line of force for your structure. When stability demands are high, the nervous system allocates more effort to keep you safe, which reduces available force for the prime movers. This is also why machines can feel more hypertrophy-friendly: they reduce stabilization cost and let you push local muscle fatigue more directly.
+
+Range of motion matters because of length-tension mechanics. Most muscles produce higher passive tension when lengthened, which amplifies mechanosensitive signaling. That is why full ROM often produces a stronger hypertrophy signal than partials, even at the same load. Partials still have a role, but their benefit is targeted overload at specific joint angles rather than full-length loading. The mechanism behind exercise selection is simple: you are choosing a torque profile and length-tension profile for the muscles you want to grow.
+
+## Applications and Examples
+
+Exercise selection should follow your leverages and the torque profile you want to emphasize. A high-bar squat shifts the moment arm toward the knees, which is great for quad bias, while a low-bar squat increases the hip moment arm and shifts the load toward the posterior chain. If your goal is glute growth, choose variations that keep hip torque high through the mid-range, like a low-bar squat or hip-dominant split squat.
+
+Use stability demands as a dial. If your back or shoulders fatigue before the target muscle, reduce stabilization cost with machines or supported variations. For example, a chest-supported row lets you load the lats harder than a bent-over barbell row when spinal endurance is limiting. This is not “cheating,” it is prioritizing the local muscle you want to train.
+
+Long-length loading is a deliberate choice. Romanian deadlifts, lengthened leg curls, and deep overhead triceps extensions all place the muscle under tension in its lengthened position, which the literature consistently links to stronger hypertrophy signals. Pair these with partials in the shortened range when joint comfort or fatigue demands it, and you have a complete tension profile.
+
+**Example application**
+- **Goal: bigger quads** → high-bar squat + heel-elevated split squat + leg extension partials at long length.
+- **Goal: stronger pulling** → chest-supported row + lat pulldown with controlled stretch + isometric pauses at sticking points.
+- **Goal: joint-friendly pressing** → machine press + cable fly with longer ROM + moderate loads for stable tension.

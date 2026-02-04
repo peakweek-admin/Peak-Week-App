@@ -143,3 +143,22 @@ HRV is best used as a trend, not a single-day verdict. A short-term dip might re
 - **Data-informed decisions** keep progress steady.
 
 **Takeaway:** Monitoring recovery turns guesswork into strategy.
+
+Monitoring recovery is about trend recognition. HRV and resting heart rate reflect autonomic balance, but the key is direction over time, not a single reading. When multiple markers trend downward together, the body is signaling that recovery capacity is falling.
+
+Workload ratios exist because the body adapts to gradual change but breaks under sudden spikes. Acute load that far exceeds chronic load raises injury risk and reduces performance. Progressive overload works best when it is steady, not abrupt.
+
+Deloads are physiological resets. Reducing volume decreases fatigue and restores movement quality while keeping neural patterns intact. This is why experienced lifters build deloads into plans rather than waiting for breakdown.
+
+## Applications and Examples
+
+Recovery monitoring is most valuable when you combine objective and subjective inputs. If HRV trends down, resting heart rate trends up, and perceived effort climbs, the signal is clear: your recovery capacity is dipping. When only one metric changes, look for external factors like poor sleep or travel before making big training changes.
+
+Load management is about avoiding sudden spikes. The literature on acute:chronic workload ratios shows that rapid jumps in volume increase injury risk. Increase sets or intensity in small increments, and use deloads to keep fatigue from accumulating indefinitely.
+
+Use readiness data to guide micro-adjustments, not to abandon the plan. A low-readiness day might mean reducing load by 5–10% or dropping one accessory exercise, while still performing the primary movement pattern.
+
+**Example application**
+- **HRV down for 3 days** → reduce volume by 25%, keep technique work.
+- **Sudden workload spike** → add a recovery day or shift to lower-impact accessories.
+- **Travel week** → maintain frequency but cut volume and focus on sleep hygiene.

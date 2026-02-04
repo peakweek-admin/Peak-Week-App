@@ -143,3 +143,22 @@ Some joints are built for stability and others for mobility. Training should res
 - **Individual anatomy** drives variation choice.
 
 **Takeaway:** Anatomy dictates mechanics. When you respect structure, training becomes safer and more productive.
+
+Anatomy sets the boundaries for movement. Joints are built with specific shapes, and those shapes determine safe motion. A hinge joint like the knee is stable by design, which is why forcing excessive rotation is risky. Ball-and-socket joints offer more mobility, but even they have structural limits based on socket depth and orientation.
+
+Muscle function depends on synergy. Prime movers create force, but stabilizers keep joints aligned so that force can be expressed safely. When stabilizers are weak, the body compensates with other tissues, which often increases joint stress. This is why movement quality matters: it reflects whether the system is sharing load efficiently.
+
+Fascial lines connect movement across the body. Posterior chain dominance, lateral chain stability, and rotational control are not training buzzwords—they are the architecture of force transfer. When you train anatomy with respect for these systems, you build movement that is both powerful and resilient.
+
+## Applications and Examples
+
+Anatomy should inform exercise selection and range of motion. If a client has limited shoulder external rotation, pressing with a neutral grip and a slightly reduced range can be safer while maintaining stimulus. If hip anatomy limits deep squats, a box squat or heel elevation may allow safer depth and better tension.
+
+Stabilizers are often the missing link. Weak serratus or lower traps can compromise overhead work, so adding wall slides, carries, or landmine presses can improve pressing mechanics without grinding the shoulders. For knees, strengthening the glute medius and adductors improves tracking and stability.
+
+Literature on movement screening suggests that asymmetries are common; the goal is not perfect symmetry but predictable, pain-free patterns. Use simple screens (single-leg squat, overhead reach) to guide variation choice rather than to label someone “broken.”
+
+**Example application**
+- **Shoulder discomfort** → swap barbell bench for dumbbell press and cable fly with controlled depth.
+- **Hip limitations** → use split squats and leg press with foot placement that respects hip structure.
+- **Core stability** → add carries and anti-rotation work to improve force transfer in heavy lifts.

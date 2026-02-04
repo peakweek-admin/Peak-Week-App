@@ -31,10 +31,6 @@ This course map links the database schema to practical learning modules.
 9. **Supplementation and Ergogenic Aids**
    - Creatine, caffeine, evidence tiers
    - Related tables: `studies`, `lesson_studies`
-10. **Peptides, SARMs, and Pharmacology (Educational Only)**
-    - Endocrine impacts, regulation, harm reduction
-    - Related tables: `studies`, `lesson_sections`
-
 ## Evidence Integration
 
 - Each lesson can link to studies via the `lesson_studies` table.

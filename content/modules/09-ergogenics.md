@@ -139,3 +139,22 @@ Not all supplements work the same for everyone. Genetics, sleep, and training st
 - **Consistency** determines real-world impact.
 
 **Takeaway:** Supplements are a small layer on top of sleep, training, and nutrition.
+
+Supplements are a small part of performance, but the mechanisms matter. Caffeine improves performance through adenosine receptor antagonism, increasing alertness and power output. Creatine increases phosphocreatine stores, improving ATP regeneration during short, intense efforts. These mechanisms are why the evidence remains consistent across studies.
+
+Effect size determines practical value. A small effect can matter to advanced lifters, but only if the evidence is repeatable. Supplement decisions should be based on consistent outcomes across controlled trials, not marketing claims.
+
+Safety is part of mechanism understanding. Contamination risks and high-dose side effects are real physiological consequences. Third-party testing and conservative dosing are how you protect both performance and health.
+
+## Applications and Examples
+
+Supplement use should be evidence-first and goal-specific. Creatine monohydrate remains the highest-value supplement for strength and hypertrophy, typically at 3–5 g/day. Caffeine can improve performance when taken 30–60 minutes before training, but tolerance builds quickly, so cycling intake matters.
+
+Micronutrients are supplements only when food intake is insufficient. Deficiencies in vitamin D, iron, or magnesium can blunt training adaptation, which is why blood work is more valuable than guessing. The literature favors targeted supplementation over broad “stacks.”
+
+Risk management is part of the application. Third-party testing reduces contamination risk, and conservative dosing reduces side effects like sleep disruption or GI distress. If a supplement harms sleep, it often harms performance more than it helps.
+
+**Example application**
+- **Strength focus** → creatine daily + caffeine on heavy days only.
+- **Endurance or long sessions** → caffeine + sodium/electrolytes to maintain output.
+- **Sleep-sensitive athlete** → reduce caffeine cutoff time, prioritize magnesium-rich foods first.

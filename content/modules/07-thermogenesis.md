@@ -143,3 +143,22 @@ Thermogenesis affects how hard dieting feels. When energy expenditure drops, hun
 - **Fuel partitioning** affects how your body uses calories.
 
 **Takeaway:** Thermogenesis explains why energy needs shift over time. Managing it is key to sustainable results.
+
+Thermogenesis is the engine behind energy expenditure. Every calorie you burn comes from one of three sources: exercise, NEAT, or digestion. Protein has the highest thermic effect, which is why it supports fat loss and muscle retention at the same time. NEAT is the biggest wild card; it can drop dramatically during dieting and quietly erase your deficit.
+
+Adaptive metabolism is the body's defense mechanism. When energy intake stays low, hormones like leptin decline, appetite rises, and energy expenditure falls. These shifts are not signs of failure; they are predictable adaptations. Diet breaks work because they temporarily reverse these signals, restoring performance and adherence.
+
+Fuel partitioning determines whether calories support muscle or fat. Resistance training, protein intake, and sleep quality all shift partitioning toward muscle. Poor sleep and high stress shift it in the opposite direction. The mechanism is straightforward: better recovery creates better nutrient use.
+
+## Applications and Examples
+
+Thermogenesis is easiest to manage when you track both intake and output. NEAT is the hidden variable: steps drop, posture shifts, and overall movement shrinks during dieting. Adding structured walks or step goals keeps energy expenditure stable without requiring more intense training.
+
+Diet breaks and refeeds are tools to reverse adaptive suppression. A short return to maintenance calories can restore leptin and training output, making the next deficit phase more effective. The literature supports breaks especially during long deficits, when performance and adherence start to drop.
+
+Fuel partitioning improves with resistance training and adequate sleep. If you are seeing more fat gain during a surplus, check sleep quality and training consistency before slashing calories—those are often the actual limiting factors.
+
+**Example application**
+- **Fat-loss phase** → 8–12k daily steps, high protein, maintain lifting intensity.
+- **Plateau in deficit** → 7–10 day diet break at maintenance, then resume with a smaller deficit.
+- **Lean bulk** → modest surplus, 3–5 lifting sessions/week, prioritize sleep to improve partitioning.

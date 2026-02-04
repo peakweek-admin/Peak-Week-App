@@ -39,8 +39,7 @@ INSERT INTO modules (id, domain_id, title, summary, level, estimated_minutes) VA
   (6, 1, 'Applied Anatomy and Movement Physiology', 'Study joint anatomy and stabilization for exercise selection.', 'intermediate', 150),
   (7, 3, 'Energy Systems, Thermogenesis, and Metabolism', 'Explain ATP systems, thermogenesis, and metabolic adaptation.', 'advanced', 140),
   (8, 4, 'Recovery Monitoring and Load Management', 'Use HRV and readiness data to manage fatigue.', 'advanced', 140),
-  (9, 6, 'Supplementation and Ergogenic Aids', 'Review evidence-backed supplementation strategies.', 'advanced', 130),
-  (10, 6, 'Peptides, SARMs, and Pharmacology (Educational Only)', 'Provide an evidence-informed overview of pharmacology and risks.', 'advanced', 150);
+  (9, 6, 'Supplementation and Ergogenic Aids', 'Review evidence-backed supplementation strategies.', 'advanced', 130);
 
 INSERT INTO lessons (id, module_id, title, summary, order_index, learning_objectives) VALUES
   (1, 1, 'Moment Arms and Torque Curves', 'Relate joint angles to torque and perceived difficulty.', 1, 'Explain how moment arms change across ROM; map torque curves to exercise feel.'),
@@ -78,11 +77,7 @@ INSERT INTO lessons (id, module_id, title, summary, order_index, learning_object
   (33, 9, 'Evidence Tiers and Research Quality', 'Evaluate supplement research quality.', 1, 'Compare effect sizes and quality.'),
   (34, 9, 'Core Supplements', 'Review high-evidence supplements.', 2, 'Apply dosing strategies.'),
   (35, 9, 'Micronutrients and Deficiency', 'Address common deficiencies.', 3, 'Use labs to guide interventions.'),
-  (36, 9, 'Safety, Purity, and Compliance', 'Avoid contamination and overuse.', 4, 'Select third-party tested products.'),
-  (37, 10, 'Endocrine System Overview', 'Review hormone regulation basics.', 1, 'Explain feedback loops and suppression risk.'),
-  (38, 10, 'Peptides and Growth Pathways', 'Survey peptide mechanisms and risks.', 2, 'Assess evidence and unknowns.'),
-  (39, 10, 'SARMs and Selective Signaling', 'Explain SARM mechanisms and risks.', 3, 'Understand systemic impacts.'),
-  (40, 10, 'Harm Reduction and Ethics', 'Focus on health-first decisions.', 4, 'List safer alternatives and warning signs.');
+  (36, 9, 'Safety, Purity, and Compliance', 'Avoid contamination and overuse.', 4, 'Select third-party tested products.');
 
 INSERT INTO lesson_tags (lesson_id, tag_id) VALUES
   (1, 1), (2, 1), (3, 5), (4, 1),
@@ -93,8 +88,7 @@ INSERT INTO lesson_tags (lesson_id, tag_id) VALUES
   (21, 5), (22, 5), (23, 5), (24, 5),
   (25, 7), (26, 7), (27, 7), (28, 7),
   (29, 10), (30, 10), (31, 10), (32, 10),
-  (33, 8), (34, 8), (35, 8), (36, 8),
-  (37, 9), (38, 9), (39, 9), (40, 9);
+  (33, 8), (34, 8), (35, 8), (36, 8);
 
 INSERT INTO studies (id, title, authors, year, journal, study_type, key_findings, doi) VALUES
   (1, 'Resistance Training Volume Enhances Muscle Hypertrophy', 'Schoenfeld et al.', 2017, 'Journal of Strength and Conditioning Research', 'Meta-analysis', 'Higher training volumes are associated with greater hypertrophy.', '10.1519/JSC.0000000000001867'),

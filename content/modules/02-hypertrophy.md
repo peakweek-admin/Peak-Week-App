@@ -157,3 +157,22 @@ Hypertrophy involves multiple signaling pathways (mTOR, MAPK, and mechanosensiti
 - **Appropriate volume** determines how much growth stimulus you can sustain.
 
 **Takeaway:** Growth is not just “hard work.” It is a predictable outcome of tension, recovery, and cellular adaptation.
+
+Hypertrophy is a cellular negotiation between stimulus and recovery. Mechanical tension activates mechanosensitive pathways like mTOR, while volume-dependent signals (such as MAPK) respond to cumulative strain. These pathways trigger protein synthesis, but only if the muscle has the resources to rebuild. That is why protein intake and energy availability are not secondary; they are the substrates that allow the signals to become tissue.
+
+Satellite cells matter because they expand long-term growth capacity. Each myonucleus supports a limited volume of cytoplasm, so a growing muscle must add nuclei to sustain larger size. Mechanical overload and appropriate recovery activate satellite cells, which donate nuclei to muscle fibers. This is the hidden reason consistent training produces durable size gains: you are expanding the muscle's cellular infrastructure.
+
+Fatigue determines whether growth signals accumulate or cancel out. If fatigue is too high, the number of high-quality sets you can perform drops, and growth potential declines. The most effective hypertrophy programs are not the ones that destroy you; they are the ones that deliver repeated, high-tension sets while keeping recovery intact. The mechanism is straightforward: stimulus creates signals, recovery converts them into tissue.
+
+## Applications and Examples
+
+Hypertrophy outcomes improve when training variables and nutrition reinforce each other. The literature consistently supports moderate-to-high weekly volume (often 10–20 hard sets per muscle) paired with progressive overload. That volume only translates to growth if you can repeat it with good execution, which makes recovery and protein intake non-negotiable.
+
+The simplest application is the “quality set” rule: chase hard sets in the 6–15 rep range that keep tension high and technique stable. If you are losing reps or form by week two, the plan is too aggressive. Instead, reduce sets slightly and increase frequency or exercise variety to maintain quality.
+
+Nutrition is the substrate for signal conversion. Aim for protein around 1.6–2.2 g/kg/day, spread across meals, and ensure a slight calorie surplus when growth is the priority. Carbs support training quality by restoring glycogen, and consistent energy availability helps keep the mTOR response robust over time.
+
+**Example application**
+- **Beginner hypertrophy block** → 3–4 exercises per session, 2–3 working sets each, 3–4 sessions/week.
+- **Intermediate** → 12–16 weekly sets per muscle, split across 2–3 days, with one heavy and one volume-focused day.
+- **Advanced** → rotate intensity blocks (heavy/moderate) to manage fatigue while preserving weekly volume.

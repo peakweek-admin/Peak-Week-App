@@ -158,3 +158,22 @@ The thermic effect of food (TEF) is the energy used to digest and process meals.
 - **Consistent fueling** keeps training quality high.
 
 **Takeaway:** Nutrition success is driven by energy balance, macronutrient distribution, and adaptation management.
+
+Nutrition drives the biochemical environment that training adapts to. Energy balance determines whether your body has resources to build new tissue or must conserve energy. Over time, the body adapts to deficits by reducing NEAT and lowering resting metabolic rate. This is why diet plateaus are common: energy expenditure quietly drops, even if intake stays the same.
+
+Protein is the structural currency of muscle. Adequate protein provides amino acids for synthesis, but its timing matters because muscle protein synthesis is transient. Spreading protein across the day creates multiple synthesis spikes, which improves net muscle retention. Carbohydrates matter because glycogen is the fuel for high-intensity work. When glycogen is low, training volume and power drop, which reduces the hypertrophy stimulus.
+
+The most sustainable nutrition strategy respects adaptation. Surplus phases support growth, deficits support fat loss, and maintenance phases restore performance. Diet breaks are not a shortcut—they are a mechanism to reverse adaptive suppression so training quality stays high. When nutrition is consistent, training outputs become consistent, and that consistency is what produces long-term results.
+
+## Applications and Examples
+
+Nutrition choices should be practical, repeatable, and aligned with training demands. For hypertrophy, a modest surplus (roughly 200–300 calories above maintenance) is usually enough to support growth without excessive fat gain. For fat loss, a 300–500 calorie deficit paired with high protein preserves muscle while reducing body fat.
+
+Meal timing is a performance tool, not a superstition. A pre-training meal with carbs and protein improves training quality, while a post-training meal replenishes glycogen and supports muscle protein synthesis. Spreading protein across 3–5 meals per day creates multiple synthesis spikes that support retention and growth.
+
+Literature on protein consistently shows benefits around 1.6 g/kg/day, with additional benefit up to roughly 2.2 g/kg/day for lean mass goals. Pair protein with fiber-rich carbs and healthy fats so energy remains stable and appetite is manageable.
+
+**Example application**
+- **Training day** → protein + carbs pre-workout, carb-heavy post-workout meal, balanced dinner with vegetables and fats.
+- **Diet break** → return to maintenance calories for 7–14 days to restore NEAT and performance.
+- **Cutting phase** → keep protein high, reduce fats last, and preserve carbs around training to maintain output.

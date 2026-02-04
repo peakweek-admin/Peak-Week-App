@@ -120,17 +120,66 @@ button.ghost {
 }
 
 .app__main {
-  display: grid;
-  grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.5fr);
-  gap: 3rem;
+  display: block;
 }
 
-.app--modules-collapsed .app__main {
-  grid-template-columns: 1fr;
+.module-menu {
+  position: relative;
+  z-index: 20;
 }
 
-.app--modules-collapsed .panel--modules {
-  display: none;
+.modules-menu-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+}
+
+.module-menu-panel {
+  position: fixed;
+  top: 5.5rem;
+  right: clamp(1.5rem, 5vw, 3rem);
+  width: min(440px, 90vw);
+  max-height: 75vh;
+  overflow: auto;
+  background: #ffffff;
+  border-radius: 1.5rem;
+  border: 1px solid var(--border);
+  padding: 1.5rem;
+  box-shadow: 0 25px 60px -30px rgba(15, 23, 42, 0.8);
+}
+
+.module-menu-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.module-menu-header h2 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.module-menu-meta {
+  margin: 0 0 1.25rem;
+  color: var(--muted);
+}
+
+.module-menu-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(4px);
+}
+
+.app--menu-open .module-menu-backdrop {
+  display: block;
+}
+
+.app--menu-open .module-menu-panel {
+  display: block;
 }
 
 .panel {
@@ -219,7 +268,7 @@ button.ghost {
 
 .lesson-columns {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.7fr);
   gap: 2rem;
   margin-top: 1.5rem;
 }
