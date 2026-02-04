@@ -36,21 +36,6 @@ You can preview a simple web UI locally without deploying it:
 
 Then open `http://localhost:4173/web/` in your browser to browse modules and load lesson markdown.
 
-## Vercel Hosting (Kid-Friendly Steps)
-
-This project is already a static site. Vercel can host it for free with no server setup.
-
-1. Create a free GitHub account (ask a grown-up to help).
-2. Upload this project to GitHub as a new repository.
-3. Go to https://vercel.com and sign in with your GitHub account.
-4. Click **Add New → Project**.
-5. Pick the repository you just created.
-6. Vercel will auto-detect this as a static site. Click **Deploy**.
-7. When it finishes, click the link Vercel shows you.
-8. You should see the preview app right away.
-
-If you want a direct link to the preview UI, use: `https://your-project.vercel.app/web/`.
-
 ## Suggested Next Steps
 
 - Add additional studies and link them to lessons in `lesson_studies`.
