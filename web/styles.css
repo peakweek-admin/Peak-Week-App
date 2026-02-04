@@ -105,6 +105,14 @@ button.ghost {
   gap: 24px;
 }
 
+.app--modules-collapsed .app__main {
+  grid-template-columns: 1fr;
+}
+
+.app--modules-collapsed .panel--modules {
+  display: none;
+}
+
 .panel {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -218,50 +226,51 @@ button.ghost {
   gap: 6px;
 }
 
-.accordion {
+.content-flow {
+  display: grid;
+  gap: 16px;
+}
+
+.content-section {
+  background: var(--content-bg);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
   display: grid;
   gap: 12px;
 }
 
-.accordion-section {
+.content-section h3 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.content-detail {
   border: 1px solid var(--border);
-  border-radius: 12px;
-  overflow: hidden;
+  border-radius: 14px;
   background: var(--content-bg);
+  padding: 4px 8px;
 }
 
-.accordion-toggle {
-  width: 100%;
-  background: transparent;
-  color: var(--text);
-  padding: 12px 16px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border: none;
-  border-bottom: 1px solid transparent;
-  font-size: 0.95rem;
+.content-detail summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 10px 12px;
+  list-style: none;
 }
 
-.accordion-toggle:hover {
-  box-shadow: none;
-  transform: none;
+.content-detail summary::-webkit-details-marker {
+  display: none;
 }
 
-.accordion-content {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease;
-  padding: 0 16px;
+.content-detail[open] summary {
+  border-bottom: 1px solid var(--border);
 }
 
-.accordion-section.open .accordion-content {
-  max-height: 1200px;
-  padding-bottom: 16px;
-}
-
-.accordion-section.open .chevron {
-  transform: rotate(180deg);
+.content-detail__body {
+  padding: 12px;
+  display: grid;
+  gap: 12px;
 }
 
 .chevron {

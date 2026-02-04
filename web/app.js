@@ -14,6 +14,9 @@ const MODULE_PATHS = {
 const moduleList = document.getElementById('module-list');
 const lessonPreview = document.getElementById('lesson-preview');
 const toggleThemeButton = document.getElementById('toggle-theme');
+const modulesToggle = document.getElementById('modules-toggle');
+const modulesToggleHeader = document.getElementById('modules-toggle-header');
+const appRoot = document.querySelector('.app');
 
 const completionKey = 'peak-week-completions';
 const storedCompletion = JSON.parse(localStorage.getItem(completionKey) || '{}');
@@ -37,6 +40,37 @@ const saveCompletion = (moduleId, isComplete) => {
   storedCompletion[moduleId] = isComplete;
   localStorage.setItem(completionKey, JSON.stringify(storedCompletion));
 };
+
+const setModulesCollapsed = (isCollapsed) => {
+  if (!appRoot) {
+    return;
+  }
+
+  appRoot.classList.toggle('app--modules-collapsed', isCollapsed);
+
+  if (modulesToggle) {
+    modulesToggle.setAttribute('aria-expanded', String(!isCollapsed));
+  }
+
+  const label = isCollapsed ? 'Show Modules' : 'Hide Modules';
+  if (modulesToggleHeader) {
+    modulesToggleHeader.textContent = label;
+  }
+};
+
+if (modulesToggle) {
+  modulesToggle.addEventListener('click', () => {
+    const isCollapsed = appRoot.classList.contains('app--modules-collapsed');
+    setModulesCollapsed(!isCollapsed);
+  });
+}
+
+if (modulesToggleHeader) {
+  modulesToggleHeader.addEventListener('click', () => {
+    const isCollapsed = appRoot.classList.contains('app--modules-collapsed');
+    setModulesCollapsed(!isCollapsed);
+  });
+}
 
 const renderModules = (modules) => {
   moduleList.innerHTML = '';
@@ -152,6 +186,11 @@ const markdownToHtml = (sectionBody) => {
   lines.forEach((line) => {
     const trimmed = line.trim();
 
+    if (trimmed.startsWith('### ')) {
+      output.push(`<h4>${formatInline(escapeHtml(trimmed.slice(4)))}</h4>`);
+      return;
+    }
+
     if (trimmed.startsWith('- ')) {
       if (!listOpen) {
         output.push('<ul>');
@@ -186,57 +225,45 @@ const markdownToHtml = (sectionBody) => {
   return output.join('\n');
 };
 
-const buildAccordion = (content) => {
+const isExpandableTitle = (title) =>
+  title.startsWith('Mechanisms:') ||
+  title.startsWith('Deep Dive:') ||
+  title.startsWith('Why It Matters');
+
+const renderContentSections = (content) => {
   const sections = content.split('\n## ').map((section, index) => {
     if (index === 0) {
-      return { title: 'Overview', body: section.trim() };
+      return { title: null, body: section.trim() };
     }
     const [titleLine, ...rest] = section.split('\n');
     return { title: titleLine.trim(), body: rest.join('\n').trim() };
   });
 
   return sections
-    .map(
-      (section, index) => `
-        <div class="accordion-section ${index === 0 ? 'open' : ''}">
-          <button class="accordion-toggle" type="button">
-            <span>${section.title}</span>
-            <span class="chevron">▾</span>
-          </button>
-          <div class="accordion-content">
-            <div class="content-body">${markdownToHtml(section.body)}</div>
-          </div>
-        </div>
-      `
-    )
+    .map((section) => {
+      if (!section.title) {
+        return `<div class="content-body">${markdownToHtml(section.body)}</div>`;
+      }
+
+      if (isExpandableTitle(section.title)) {
+        return `
+          <details class="content-detail">
+            <summary>${section.title}</summary>
+            <div class="content-detail__body">
+              ${markdownToHtml(section.body)}
+            </div>
+          </details>
+        `;
+      }
+
+      return `
+        <section class="content-section">
+          <h3>${section.title}</h3>
+          ${markdownToHtml(section.body)}
+        </section>
+      `;
+    })
     .join('');
-};
-
-const bindAccordion = (container) => {
-  const toggles = container.querySelectorAll('.accordion-toggle');
-  toggles.forEach((toggle) => {
-    toggle.addEventListener('click', () => {
-      const section = toggle.closest('.accordion-section');
-      section.classList.toggle('open');
-    });
-  });
-
-  const expandAll = container.querySelector('#expand-all');
-  const collapseAll = container.querySelector('#collapse-all');
-
-  if (expandAll && collapseAll) {
-    expandAll.addEventListener('click', () => {
-      container.querySelectorAll('.accordion-section').forEach((section) => {
-        section.classList.add('open');
-      });
-    });
-
-    collapseAll.addEventListener('click', () => {
-      container.querySelectorAll('.accordion-section').forEach((section) => {
-        section.classList.remove('open');
-      });
-    });
-  }
 };
 
 const loadModule = async (moduleId, moduleTitle) => {
@@ -274,7 +301,7 @@ const loadModule = async (moduleId, moduleTitle) => {
       : '<li class="muted">No lesson list available.</li>';
 
     const quizMarkup = moduleStructure ? renderQuiz(moduleId, moduleStructure.quiz) : '';
-    const accordionMarkup = buildAccordion(content);
+    const contentMarkup = renderContentSections(content);
 
     lessonPreview.innerHTML = `
       <div class="lesson-header">
@@ -283,8 +310,6 @@ const loadModule = async (moduleId, moduleTitle) => {
           <p class="muted">Use the checklist and quiz to track completion.</p>
         </div>
         <div class="lesson-actions">
-          <button class="ghost" id="expand-all">Expand all</button>
-          <button class="ghost" id="collapse-all">Collapse all</button>
           <button class="ghost" id="mark-complete">
             ${storedCompletion[moduleId] ? 'Mark incomplete' : 'Mark complete'}
           </button>
@@ -297,7 +322,7 @@ const loadModule = async (moduleId, moduleTitle) => {
         </div>
         <div>
           <h4>Module content</h4>
-          <div class="accordion">${accordionMarkup}</div>
+          <div class="content-flow">${contentMarkup}</div>
         </div>
       </div>
       <div class="quiz-panel">
@@ -315,19 +340,6 @@ const loadModule = async (moduleId, moduleTitle) => {
       const nextState = !storedCompletion[moduleId];
       saveCompletion(moduleId, nextState);
       markButton.textContent = nextState ? 'Mark incomplete' : 'Mark complete';
-      
-const modulesToggle = document.getElementById('modules-toggle');
-if (modulesToggle) {
-  const modulePanel = modulesToggle.closest('.panel');
-  const moduleListEl = modulePanel.querySelector('.module-list');
-  modulesToggle.addEventListener('click', () => {
-    const isCollapsed = moduleListEl.classList.toggle('is-collapsed');
-    modulesToggle.setAttribute('aria-expanded', String(!isCollapsed));
-    modulePanel.classList.toggle('is-collapsed', isCollapsed);
-  });
-}
-
-loadCatalog();
     });
 
     const quizButton = document.getElementById('check-answers');
@@ -340,7 +352,6 @@ loadCatalog();
       });
     }
 
-    bindAccordion(lessonPreview);
   } catch (error) {
     lessonPreview.innerHTML = '<p class="muted">Unable to load module content. Make sure you are running a local server.</p>';
   }
@@ -359,16 +370,5 @@ const loadCatalog = async () => {
   }
 };
 
-
-const modulesToggle = document.getElementById('modules-toggle');
-if (modulesToggle) {
-  const modulePanel = modulesToggle.closest('.panel');
-  const moduleListEl = modulePanel.querySelector('.module-list');
-  modulesToggle.addEventListener('click', () => {
-    const isCollapsed = moduleListEl.classList.toggle('is-collapsed');
-    modulesToggle.setAttribute('aria-expanded', String(!isCollapsed));
-    modulePanel.classList.toggle('is-collapsed', isCollapsed);
-  });
-}
-
+setModulesCollapsed(false);
 loadCatalog();
