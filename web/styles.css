@@ -147,6 +147,7 @@ button.ghost {
   border: 1px solid var(--border);
   padding: 1.5rem;
   box-shadow: 0 25px 60px -30px rgba(15, 23, 42, 0.8);
+  z-index: 40;
 }
 
 .module-menu-header {
@@ -172,6 +173,7 @@ button.ghost {
   inset: 0;
   background: rgba(15, 23, 42, 0.55);
   backdrop-filter: blur(4px);
+  z-index: 30;
 }
 
 .app--menu-open .module-menu-backdrop {
