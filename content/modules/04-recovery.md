@@ -112,119 +112,35 @@ Even small, repeated sleep losses accumulate. Sleep debt reduces reaction time, 
 
 **Action step:** Build recovery into your calendar, not just your intentions.
 
-## Field Notes: Recovery Log
 
-Use a simple log to connect recovery habits with performance outcomes.
+## Mechanisms: Sleep Architecture and Recovery Signaling
 
-- Sleep hours and quality (1–5 scale).
-- Stress rating (1–5 scale).
-- Training performance rating (1–5 scale).
+**Core idea:** Deep sleep supports tissue repair and hormone regulation. REM sleep supports neural recovery and learning.
 
-## Recovery Tool Examples
+- Growth hormone release is highest during deep sleep.
+- Inconsistent sleep disrupts cortisol patterns and recovery.
+- Sleep debt increases perceived effort and decreases performance.
 
-- **Sleep:** consistent wake time, magnesium if approved by a clinician.
-- **Movement:** 20–30 minute walks on rest days.
-- **Mindset:** short breathwork sessions before bed.
+## Mechanisms: Stress and Autonomic Balance
 
-## Glossary
+**Core idea:** Chronic stress elevates sympathetic drive, reducing recovery capacity and increasing fatigue.
 
-- **HRV:** heart rate variability.
-- **CNS fatigue:** central nervous system exhaustion.
-- **Deload:** planned reduction in volume to restore performance.
+- Elevated cortisol impairs muscle protein synthesis over time.
+- Persistent stress lowers HRV and increases resting heart rate.
+- Recovery quality determines whether training stimulus becomes adaptation.
 
-## Self-Test Prompts
+## Mechanisms: Recovery as a System
 
-- Did you sleep 7–9 hours most nights this week?
-- Are you feeling motivated to train or dreading sessions?
-- Do you notice performance improving after deloads?
+**Core idea:** Training adaptation requires a system of sleep, nutrition, and workload management. No single tool replaces fundamentals.
 
-## Case Studies: Recovery Adjustments
+- Recovery tools are multipliers, not substitutes.
+- Deloads reduce cumulative fatigue and restore performance.
+- Energy availability interacts with sleep to regulate hormones.
 
-- **Persistent soreness:** reduce volume and add active recovery.
-- **Low motivation:** prioritize sleep and reduce stressors.
-- **Joint irritation:** swap to joint-friendly variations.
+## Why It Matters: Training Outcomes
 
-## Coaching Cues Library
+- **Better sleep** improves strength, coordination, and mood.
+- **Reduced stress** improves consistency and volume tolerance.
+- **Planned recovery** preserves long-term progress.
 
-- “Sleep is training” to reinforce recovery priority.
-- “Back off before breakdown” to prevent overreach.
-- “Consistency beats intensity” for long-term progress.
-
-## Reflection Questions
-
-- Do you feel your best after 2–3 nights of quality sleep?
-- Are you scheduling recovery the same way you schedule training?
-- Which recovery tool has the biggest impact for you?
-
-## Quick Recap
-
-- Sleep is the biggest recovery lever.
-- Stress management protects progress.
-- Recovery tools are secondary to basics.
-- Plan deloads before burnout.
-
-## Mini Assignment
-
-- Track bedtime and wake time for 7 days.
-- Add one recovery habit (walks or mobility).
-- Note changes in mood and training quality.
-
-## Further Reading Prompts
-
-- Which recovery habit improves your readiness most?
-- How does stress change your training performance?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Recovery is the difference between stimulus and adaptation.

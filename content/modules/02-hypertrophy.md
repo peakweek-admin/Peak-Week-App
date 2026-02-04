@@ -125,119 +125,35 @@ Hypertrophy involves multiple signaling pathways (mTOR, MAPK, and mechanosensiti
 
 **Action step:** Track weekly sets per muscle and adjust every 2–3 weeks based on performance and recovery.
 
-## Field Notes: Stimulus to Fatigue Ratio
 
-Great programs maximize stimulus while minimizing unnecessary fatigue.
+## Mechanisms: mTOR, MAPK, and Mechanical Signaling
 
-- Use compound lifts for high stimulus early.
-- Use machines for local fatigue late.
-- Cut sets when technique breaks down.
+**Core idea:** Hypertrophy depends on mechanical and metabolic signaling. Mechanical tension activates mTOR and mechanosensitive pathways, while metabolic stress contributes to cellular swelling and growth-related gene expression.
 
-## Exercise Selection Examples
+- mTOR is highly sensitive to tension and amino acid availability.
+- MAPK pathways respond to mechanical strain and volume load.
+- Metabolic stress augments growth when paired with sufficient tension.
 
-- **Chest:** dumbbell press + cable fly for stretch.
-- **Back:** pull-up + chest-supported row for stability.
-- **Quads:** squat + leg extension for lengthened tension.
+## Mechanisms: Myonuclei and Long-Term Growth Capacity
 
-## Glossary
+**Core idea:** Satellite cells donate myonuclei that expand a fiber’s capacity to grow. This supports long-term hypertrophy rather than short-term size changes alone.
 
-- **MPS:** muscle protein synthesis.
-- **RIR:** reps in reserve.
-- **mTOR:** key growth signaling pathway.
+- Myonuclear accretion increases protein synthesis capacity.
+- Consistent overload promotes satellite cell activation.
+- Adequate protein and sleep support remodeling.
 
-## Self-Test Prompts
+## Mechanisms: Fatigue, Recovery, and Net Growth
 
-- Are you getting stronger in the 6–12 rep range over time?
-- Do your target muscles feel the work or do joints take over?
-- Is weekly volume rising without sacrificing sleep or motivation?
+**Core idea:** Hypertrophy is a balance between stimulus and recoverability. Excessive fatigue reduces effective training volume over time.
 
-## Case Studies: Volume Progression
+- High volumes drive growth but increase systemic fatigue.
+- Deloads preserve performance and connective tissue health.
+- Recovery quality determines whether growth signals translate into new tissue.
 
-- **Lagging arms:** add 4–6 direct sets twice per week.
-- **Overworked quads:** reduce squat volume and add machine work.
-- **Plateaued chest:** add long-length cable flys.
+## Why It Matters: Translating Mechanisms to Results
 
-## Coaching Cues Library
+- **Higher tension** increases growth signals at the fiber level.
+- **Consistent recovery** keeps weekly volume productive.
+- **Appropriate volume** determines how much growth stimulus you can sustain.
 
-- “Control the eccentric” to increase tension.
-- “Pause in the stretch” to increase mechanical loading.
-- “Stop one rep before breakdown” to preserve quality.
-
-## Reflection Questions
-
-- Which muscle responds best to higher volume for you?
-- Where do you feel most mechanical tension during a set?
-- How does your recovery change when you push volume higher?
-
-## Quick Recap
-
-- Mechanical tension is the primary driver.
-- Use mixed rep ranges for full fiber coverage.
-- Progress volume slowly to protect recovery.
-- Deloads keep growth sustainable.
-
-## Mini Assignment
-
-- Track weekly sets for one muscle group.
-- Increase volume by 2–4 sets over three weeks.
-- Note recovery and performance changes.
-
-## Further Reading Prompts
-
-- How does training to failure change recovery needs?
-- What rep ranges feel best for your lagging muscles?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Growth is not just “hard work.” It is a predictable outcome of tension, recovery, and cellular adaptation.

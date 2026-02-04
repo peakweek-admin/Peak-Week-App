@@ -108,113 +108,35 @@ Pharmacology discussions often ignore long-term outcomes. Endocrine disruption c
 
 **Action step:** Focus on training, sleep, and nutrition as the default pathway to progress.
 
-## Field Notes: Evidence vs Hype
 
-Pharmacology discussions are full of marketing and anecdote. Keep a strict evidence filter.
+## Mechanisms: Endocrine Feedback Loops
 
-- Prioritize medical literature over social media claims.
-- Be skeptical of dramatic before/after promises.
-- Consider long-term health risks in every decision.
+**Core idea:** Hormone systems operate on feedback loops. External compounds can suppress endogenous production and shift long-term regulation.
 
-## Glossary
+- HPTA suppression can reduce natural testosterone output.
+- Recovery from suppression can be slow and uncertain.
+- Dysregulation affects mood, energy, and recovery.
 
-- **HPTA:** hypothalamic–pituitary–testicular axis.
-- **HPA:** hypothalamic–pituitary–adrenal axis.
-- **Suppression:** reduced natural hormone production.
+## Mechanisms: Systemic Risk Profiles
 
-## Self-Test Prompts
+**Core idea:** Pharmacology affects multiple systems, not just muscle.
 
-- What are the legal risks in your location?
-- What are the long-term health tradeoffs?
-- Are safer alternatives still producing progress?
+- Lipid changes can increase cardiovascular risk.
+- Liver stress can accumulate silently.
+- Psychological dependency can develop through reward pathways.
 
-## Case Studies: Decision Tradeoffs
+## Mechanisms: Ethics and Regulation
 
-- **Performance goal vs health risk:** evaluate the long-term cost.
-- **Legal risk:** consider employment, sport eligibility, and travel.
-- **Alternative path:** compare to safer training and nutrition options.
+**Core idea:** Legal and ethical issues shape real-world risk.
 
-## Coaching Cues Library
+- Regulatory status varies by country and sport.
+- Lack of oversight increases contamination risk.
+- Ethical concerns include fairness and long-term health impact.
 
-- “Risk does not equal reward.”
-- “Medical guidance is non-negotiable.”
-- “Long-term health beats short-term gains.”
+## Why It Matters: Long-Term Health Outcomes
 
-## Reflection Questions
+- **Short-term gains** can lead to long-term costs.
+- **Medical oversight** is essential if health markers are involved.
+- **Safer alternatives** remain the most reliable path.
 
-- What are the long-term consequences of endocrine disruption?
-- Are you willing to accept legal and health risk for short-term outcomes?
-- What safer alternative would still move you forward?
-
-## Quick Recap
-
-- Pharmacology carries significant risk.
-- Regulatory status matters.
-- Medical oversight is essential.
-- Fundamentals remain the safest path.
-
-## Mini Assignment
-
-- List your performance goals and a low-risk plan to reach them.
-- Identify which health markers you would monitor.
-- Compare risks versus benefits honestly.
-
-## Further Reading Prompts
-
-- Which long-term risks matter most to you?
-- What safe alternatives are you not fully using yet?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** This module is educational and risk-focused, not instructional.

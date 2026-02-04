@@ -126,119 +126,35 @@ The thermic effect of food (TEF) is the energy used to digest and process meals.
 
 **Action step:** Track 7-day average weight and adjust calories only when the trend stalls.
 
-## Field Notes: Diet Adherence
 
-Consistency matters more than perfection. The best plan is one you can follow.
+## Mechanisms: Energy Balance and Adaptive Metabolism
 
-- Build meals you actually enjoy.
-- Use a weekly meal template to reduce decision fatigue.
-- Track hunger signals to adjust meal timing.
+**Core idea:** The body adapts to sustained deficits or surpluses by changing energy expenditure. This is why calorie needs shift over time.
 
-## Exercise Selection Examples (Nutrition Focus)
+- NEAT often decreases during dieting, reducing total daily burn.
+- Resting metabolic rate can drop with prolonged energy deficits.
+- Diet breaks temporarily reverse adaptive suppression and improve training output.
 
-- **High-volume training days:** higher carbs and fluids.
-- **Rest days:** keep protein high, carbs slightly lower.
-- **Travel days:** prioritize protein and hydration.
+## Mechanisms: Protein and Muscle Retention
 
-## Glossary
+**Core idea:** Protein provides amino acids that sustain muscle protein synthesis and reduce muscle loss during deficits.
 
-- **NEAT:** non-exercise activity thermogenesis.
-- **TEF:** thermic effect of food.
-- **Energy availability:** calories remaining after exercise costs.
+- Higher protein intake maintains nitrogen balance.
+- Even protein distribution increases daily MPS spikes.
+- Protein intake supports recovery and connective tissue remodeling.
 
-## Self-Test Prompts
+## Mechanisms: Carbohydrates, Training Output, and Hormones
 
-- Are you consistently hitting protein targets?
-- Is your weight trend moving in the intended direction?
-- Do you have enough energy for high-quality training?
+**Core idea:** Carbs replenish glycogen, which fuels high-intensity work. Low glycogen reduces performance and increases perceived effort.
 
-## Case Studies: Macro Adjustments
+- Glycogen depletion reduces training volume capacity.
+- Adequate carbs support thyroid and leptin signaling.
+- Timing carbs around training improves output and recovery.
 
-- **Low energy in training:** increase carbs pre-workout.
-- **Slow fat loss:** reduce calories 100–200 kcal and add steps.
-- **Recovery lagging:** increase protein or total calories.
+## Why It Matters: Outcomes Over Time
 
-## Coaching Cues Library
+- **Sustainable deficits** preserve strength and muscle.
+- **Stable NEAT** prevents hidden energy drops.
+- **Consistent fueling** keeps training quality high.
 
-- “Plan meals ahead” to reduce decision fatigue.
-- “Protein first” to anchor each meal.
-- “Hydrate early” to reduce false hunger.
-
-## Reflection Questions
-
-- Do you feel strongest on higher-carb days?
-- Are you eating enough to recover from your training volume?
-- How consistent is your nutrition during stressful weeks?
-
-## Quick Recap
-
-- TDEE sets the baseline for all goals.
-- Protein supports muscle retention and growth.
-- NEAT is a hidden driver of energy balance.
-- Periodized diets improve adherence.
-
-## Mini Assignment
-
-- Track 7 days of protein intake.
-- Adjust one meal to hit your target.
-- Reassess energy levels in training.
-
-## Further Reading Prompts
-
-- How does meal timing affect your gym performance?
-- What habits make adherence easier during a deficit?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Nutrition success is driven by energy balance, macronutrient distribution, and adaptation management.

@@ -111,119 +111,35 @@ Thermogenesis affects how hard dieting feels. When energy expenditure drops, hun
 
 **Action step:** Reassess calories every 2–3 weeks, not daily.
 
-## Field Notes: Metabolic Tracking
 
-Use a weekly review to see if metabolism is adapting.
+## Mechanisms: Thermogenesis and Energy Flux
 
-- Body weight trend (7-day average).
-- Training performance changes.
-- Hunger and energy ratings.
+**Core idea:** Thermogenesis is the sum of exercise, NEAT, and the thermic effect of food. It changes with diet and activity levels.
 
-## Exercise Selection Examples
+- Protein digestion increases thermic cost.
+- NEAT can shift dramatically without conscious awareness.
+- Energy flux (high intake + high activity) often improves performance and adherence.
 
-- **Thermogenesis support:** incline walking, cycling, easy jogging.
-- **Strength preservation:** heavy compound lifts 2–4x per week.
-- **Recovery support:** low-intensity movement on off days.
+## Mechanisms: Adaptive Metabolism
 
-## Glossary
+**Core idea:** Sustained deficits lead to metabolic adaptation, lowering expenditure and increasing hunger.
 
-- **RMR:** resting metabolic rate.
-- **Adaptive thermogenesis:** metabolism slowing during deficits.
-- **Fuel partitioning:** where calories go (muscle vs fat).
+- Resting metabolic rate decreases over time.
+- Hormones like leptin decline, increasing appetite.
+- Diet breaks can temporarily reverse suppression.
 
-## Self-Test Prompts
+## Mechanisms: Fuel Partitioning
 
-- Has your NEAT dropped since dieting started?
-- Are you still hitting training performance targets?
-- Do you need a maintenance break to restore energy?
+**Core idea:** Energy partitioning determines whether calories support muscle or fat. Training quality and protein intake influence this split.
 
-## Case Studies: Plateau Fixes
+- Resistance training improves partitioning toward muscle.
+- Higher protein supports lean mass retention.
+- Poor sleep and stress shift partitioning toward fat storage.
 
-- **Plateau after 6 weeks:** add a maintenance week.
-- **Low energy:** reduce deficit and increase carbs around training.
-- **NEAT drop:** increase daily step goal.
+## Why It Matters: Body Composition Outcomes
 
-## Coaching Cues Library
+- **Stable energy flux** supports consistent training output.
+- **Adaptive metabolism** explains plateaus and fatigue.
+- **Fuel partitioning** affects how your body uses calories.
 
-- “Small changes beat large swings.”
-- “Trend data > daily data.”
-- “Protect performance while cutting.”
-
-## Reflection Questions
-
-- Is your deficit small enough to maintain performance?
-- Are your steps consistent week to week?
-- Would a diet break improve adherence?
-
-## Quick Recap
-
-- ATP systems shift with intensity and duration.
-- Thermogenesis drives energy expenditure.
-- Adaptive metabolism slows long deficits.
-- Metabolic flexibility supports performance.
-
-## Mini Assignment
-
-- Track steps for 7 days.
-- Add 1,000 steps per day for a week.
-- Note changes in hunger and weight trend.
-
-## Further Reading Prompts
-
-- How does NEAT change when stress increases?
-- What signs suggest your deficit is too large?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Thermogenesis explains why energy needs shift over time. Managing it is key to sustainable results.

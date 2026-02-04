@@ -111,119 +111,35 @@ Some joints are built for stability and others for mobility. Training should res
 
 **Action step:** Build a 5-minute prep routine for your most demanding lifts.
 
-## Field Notes: Movement Pattern Check
 
-Use this list before heavy sessions:
+## Mechanisms: Joint Structure and Movement Capacity
 
-- Can you reach depth without lumbar rounding?
-- Do you keep ribs stacked over pelvis?
-- Do your knees track evenly?
+**Core idea:** Joint anatomy defines safe motion and loading tolerance. Attempting to force a joint beyond its structural range increases injury risk.
 
-## Exercise Selection Examples
+- Hinge joints (knees) prioritize stability.
+- Ball-and-socket joints (hips, shoulders) offer mobility with variable ranges.
+- Structural differences explain why depth varies between people.
 
-- **Hip mobility limits:** use trap bar deadlift or elevated deadlift.
-- **Shoulder discomfort:** use neutral-grip presses.
-- **Ankle mobility limits:** use heel-elevated squats.
+## Mechanisms: Muscle Synergy and Stabilization
 
-## Glossary
+**Core idea:** Prime movers and stabilizers work together to keep joints aligned and force moving efficiently.
 
-- **Synergist:** helper muscle for a movement.
-- **Stabilizer:** muscle that prevents unwanted motion.
-- **Mobility:** ability to move through range with control.
+- Stabilizers prevent energy leaks and reduce joint stress.
+- Synergists assist prime movers to maintain proper joint tracking.
+- Weak stabilizers shift stress to connective tissues.
 
-## Self-Test Prompts
+## Mechanisms: Fascial Lines and Force Transfer
 
-- Which joint is the main limiter in your squat?
-- Do you feel the target muscle or joint discomfort?
-- Are your unilateral movements balanced side to side?
+**Core idea:** Fascia transmits force across multiple joints, creating interconnected movement chains.
 
-## Case Studies: Structure-Based Variations
+- Posterior chain links hamstrings, glutes, and spinal erectors.
+- Lateral chain stabilizes pelvis and spine.
+- Rotational force requires coordinated fascial tension.
 
-- **Long femurs:** high-bar squats or front squats improve balance.
-- **Limited shoulder mobility:** landmine press reduces joint stress.
-- **Tight hip flexors:** elevated split squats maintain depth.
+## Why It Matters: Exercise Selection
 
-## Coaching Cues Library
+- **Joint-friendly selection** reduces compensation.
+- **Stable mechanics** allow higher quality volume.
+- **Individual anatomy** drives variation choice.
 
-- “Stack ribs over pelvis” to stabilize the core.
-- “Push the floor away” to recruit glutes.
-- “Lead with the elbows” in rows for lat engagement.
-
-## Reflection Questions
-
-- Which joint limits your deepest squat?
-- What adjustment improves your most uncomfortable lift?
-- Are you tracking asymmetry over time?
-
-## Quick Recap
-
-- Joint structure limits movement choices.
-- Stabilizers are critical for safe loading.
-- Fascial lines link the kinetic chain.
-- Screening helps personalize training.
-
-## Mini Assignment
-
-- Choose one movement and identify prime movers and stabilizers.
-- Add one targeted accessory for a weak stabilizer.
-- Re-test movement quality after two weeks.
-
-## Further Reading Prompts
-
-- Which joint feels least stable during heavy lifts?
-- How does anatomy change your ideal exercise selection?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Anatomy dictates mechanics. When you respect structure, training becomes safer and more productive.

@@ -23,8 +23,11 @@
 
       <main class="app__main">
         <section class="panel">
-          <div class="panel__header">
-            <h2>Modules</h2>
+          <div class="panel__header panel__header--collapsible">
+            <button id="modules-toggle" class="ghost panel__toggle" type="button" aria-expanded="true">
+              Modules
+              <span class="chevron">▾</span>
+            </button>
             <p>Loaded from <code>data/catalog.json</code>.</p>
           </div>
           <div id="module-list" class="module-list"></div>

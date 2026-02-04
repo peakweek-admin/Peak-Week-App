@@ -125,121 +125,35 @@ When you push or pull against resistance, the direction of that resistance matte
 
 **Action step:** Rotate one press variation per block to manage joint stress while keeping volume high.
 
-## Field Notes: Movement Audit
 
-Use this short audit once per month to see if your mechanics are improving.
+## Mechanisms: How Torque Shapes Muscle Recruitment
 
-- Video your main lift from the side and front.
-- Check bar path consistency rep to rep.
-- Look for knee cave, hip shift, or shoulder roll.
-- Compare your setup across warm-up and work sets.
+**Core idea:** Joint torque determines which muscles must work hardest at a given angle. When a moment arm grows, torque demands rise, which increases motor unit recruitment for the prime movers spanning that joint.
 
-## Exercise Selection Examples
+- Larger moment arms increase internal torque requirements, raising mechanical tension.
+- Smaller moment arms reduce torque, making a lift feel easier even if load is unchanged.
+- Torque distribution across joints explains why small stance changes shift stimulus from quads to hips.
 
-- **Quad bias:** heels-elevated squat, high-bar squat, leg press with deep knee flexion.
-- **Hip bias:** low-bar squat, box squat, Romanian deadlift.
-- **Shoulder-friendly press:** neutral-grip dumbbell press, machine press.
+## Mechanisms: Stability Demands and Neural Output
 
-## Glossary
+**Core idea:** The nervous system allocates effort to stabilize the system before maximizing prime mover output. When stability demands are high, some force potential is spent on controlling motion rather than moving the load.
 
-- **Moment arm:** perpendicular distance between joint and force line.
-- **Torque:** rotational force at a joint.
-- **Stability:** ability to resist unwanted motion.
-- **Leverage:** mechanical advantage from limb length and joint angle.
+- Increased stabilization demand increases co-contraction and reduces available force for the target muscle.
+- Machines reduce stabilization requirements, which often increases local muscle fatigue at a lower systemic cost.
+- Unstable variations are skill-demanding but may reduce hypertrophy stimulus if load decreases too much.
 
-## Self-Test Prompts
+## Mechanisms: ROM, Length-Tension, and Hypertrophy
 
-- Which lift in your program has the longest moment arm at the joint you want to target?
-- Which variation feels the most stable and why?
-- What change could reduce joint stress without lowering training quality?
+**Core idea:** Muscles produce different levels of tension at different lengths. Longer muscle lengths under load often create stronger hypertrophy signaling due to higher passive tension and mechanosensitive pathways.
 
-## Case Studies: Torque Adjustments
+- Longer ROM often increases stimulus when recovery allows.
+- Partial ROM can overload specific joint angles but should be paired with full ROM work.
+- Tempo influences time under tension but does not replace adequate load.
 
-- **Deadlift lockout weakness:** use rack pulls or banded deadlifts to shift torque toward lockout.
-- **Squat off the floor weakness:** add pause squats to increase time under tension in the bottom.
-- **Bench press sticking point:** use close-grip or Spoto press to overload mid-range.
+## Biomechanics in Practice: Why It Changes Outcomes
 
-## Coaching Cues Library
+- **Strength focus:** prioritize stable setups that allow maximal load.
+- **Hypertrophy focus:** emphasize long-length tension and consistent torque.
+- **Joint health:** align force vectors with joint structure to reduce irritation.
 
-- “Drive the floor away” for leg drive and hip extension.
-- “Ribs down, brace hard” to stabilize the core.
-- “Stack joints” to keep force moving through the skeleton.
-
-## Reflection Questions
-
-- Which cue immediately improves your bar path?
-- Which exercise variation reduces joint irritation?
-- How does tempo change the muscle you feel most?
-
-## Quick Recap
-
-- Moment arms drive torque and perceived difficulty.
-- Leverage is individual; adjust stance and setup.
-- Stability keeps force moving into the implement.
-- ROM and tempo change tension and stimulus.
-
-## Mini Assignment
-
-- Record one lift this week and note where the bar slows.
-- Identify the joint angle that matches the sticking point.
-- Choose one variation that shifts torque to that angle.
-
-## Further Reading Prompts
-
-- How do different bar positions change hip and knee moments?
-- Why do machines feel smoother but sometimes less skill-based?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Mechanics are the “why” behind exercise selection. When you understand torque and stability, you can target muscle growth without unnecessary joint stress.

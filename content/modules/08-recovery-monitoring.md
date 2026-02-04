@@ -111,119 +111,35 @@ HRV is best used as a trend, not a single-day verdict. A short-term dip might re
 
 **Action step:** Use a simple traffic-light system to guide daily decisions.
 
-## Field Notes: Weekly Review
 
-A short weekly review improves decision-making.
+## Mechanisms: Readiness Signals
 
-- Summarize your average HRV and sleep hours.
-- Rate overall training quality 1–5.
-- Note any joints that feel irritated.
+**Core idea:** Readiness is a composite of physiological and subjective indicators. No single metric is perfect, but trends are powerful.
 
-## Exercise Selection Examples
+- HRV reflects autonomic balance.
+- Resting heart rate indicates systemic load.
+- Subjective scores capture psychological stress and fatigue.
 
-- **High fatigue weeks:** reduce barbell volume, use machines.
-- **Low fatigue weeks:** push progression in compounds.
-- **Mixed weeks:** keep volume steady, add light accessory work.
+## Mechanisms: Workload Ratios
 
-## Glossary
+**Core idea:** Acute-to-chronic workload helps prevent sudden spikes that increase injury risk.
 
-- **Acute load:** recent training stress.
-- **Chronic load:** long-term training base.
-- **Readiness:** overall capacity to handle training stress.
+- Sudden volume spikes increase fatigue and injury risk.
+- Gradual progressions improve tolerance.
+- Load management preserves performance across blocks.
 
-## Self-Test Prompts
+## Mechanisms: Deload and Taper Physiology
 
-- Are you making changes based on trends, not one-day data?
-- Are your deloads restoring energy and performance?
-- Do subjective and objective data agree?
+**Core idea:** Reducing volume lowers fatigue and restores performance without losing adaptations.
 
-## Case Studies: Readiness Decisions
+- Volume reductions restore neuromuscular output.
+- Some intensity maintains skill and strength.
+- Proper timing improves peaking outcomes.
 
-- **HRV drop for 3 days:** reduce volume and add sleep focus.
-- **Subjective fatigue but normal HRV:** keep intensity, reduce volume.
-- **Performance drop:** schedule deload earlier.
+## Why It Matters: Consistency Over Time
 
-## Coaching Cues Library
+- **Trend tracking** prevents overreach.
+- **Volume management** protects joints and energy.
+- **Data-informed decisions** keep progress steady.
 
-- “Trend beats today.”
-- “Recovery is a performance skill.”
-- “Volume is the first lever to adjust.”
-
-## Reflection Questions
-
-- Do your subjective scores match your objective data?
-- How often do you ignore fatigue trends?
-- Are deloads improving your next block?
-
-## Quick Recap
-
-- HRV and readiness trends guide decisions.
-- Volume is the first lever to adjust.
-- Deloads restore performance quickly.
-- Simple tracking beats complex tracking.
-
-## Mini Assignment
-
-- Track HRV or resting heart rate for 7 days.
-- Compare with training performance.
-- Adjust volume if trends decline.
-
-## Further Reading Prompts
-
-- How quickly do you recover after a deload?
-- Which marker best predicts your performance?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Monitoring recovery turns guesswork into strategy.

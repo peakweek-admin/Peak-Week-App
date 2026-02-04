@@ -113,119 +113,35 @@ Autoregulation adjusts training based on how you feel and perform that day. It k
 
 **Action step:** Keep a training log and review it every mesocycle.
 
-## Field Notes: Block Review
 
-At the end of each training block, review outcomes.
+## Mechanisms: Overload and Adaptation
 
-- Which lifts improved the most?
-- Which joints felt the most stressed?
-- Did recovery markers improve or decline?
+**Core idea:** Training adaptation follows the principle of overload and recovery. The body adapts only when the stress exceeds the current baseline and recovery is adequate.
 
-## Exercise Selection Examples
+- Progressive overload increases stimulus over time.
+- Volume and intensity shape different adaptations.
+- Frequency determines how often a muscle receives a growth signal.
 
-- **Strength focus:** squat, bench, deadlift variations with long rest.
-- **Hypertrophy focus:** machine presses, rows, leg press, isolations.
-- **Performance focus:** Olympic lift derivatives and power movements.
+## Mechanisms: Fatigue Management
 
-## Glossary
+**Core idea:** Fatigue is cumulative. Without deloads, performance declines even if effort stays high.
 
-- **MEV:** minimum effective volume.
-- **MAV:** maximum adaptive volume.
-- **MRV:** maximum recoverable volume.
+- High volumes increase central and peripheral fatigue.
+- Deloads reduce fatigue while preserving skill.
+- Periodization manages long-term recovery.
 
-## Self-Test Prompts
+## Mechanisms: Exercise Selection and Specificity
 
-- Do your main lifts improve every block?
-- Are accessories targeting weak links?
-- Are you deloading before performance crashes?
+**Core idea:** The more specific the exercise is to the goal, the greater the adaptation in that area.
 
-## Case Studies: Program Tweaks
+- Strength goals require heavy, stable movements.
+- Hypertrophy goals require consistent tension and manageable fatigue.
+- Performance goals require power and speed emphasis.
 
-- **Stalled deadlift:** reduce frequency, increase intensity.
-- **Overworked shoulders:** swap barbell press for dumbbell work.
-- **Lagging back:** increase rowing volume and add grip work.
+## Why It Matters: Long-Term Progress
 
-## Coaching Cues Library
+- **Clear progression** avoids stagnation.
+- **Planned deloads** prevent overtraining.
+- **Specific exercise choices** drive the right adaptation.
 
-- “Progress the plan, not the ego.”
-- “Quality reps are the real volume.”
-- “Deload before you need it.”
-
-## Reflection Questions
-
-- Do you have a clear progression target each week?
-- Which exercise delivers the most stimulus per fatigue?
-- Are you adjusting volume based on feedback?
-
-## Quick Recap
-
-- Overload can be load, volume, or density.
-- Track MEV, MAV, and MRV over time.
-- Use deloads to protect long-term progress.
-- Match exercises to biomechanics.
-
-## Mini Assignment
-
-- Choose one lift and plan 4 weeks of progression.
-- Track reps, load, and RIR each week.
-- Adjust after week 4 based on results.
-
-## Further Reading Prompts
-
-- Which exercise gives you the best stimulus-to-fatigue ratio?
-- How do you decide when to deload?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Programming is applied physiology. Structure determines results.

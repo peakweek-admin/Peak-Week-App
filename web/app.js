@@ -315,7 +315,19 @@ const loadModule = async (moduleId, moduleTitle) => {
       const nextState = !storedCompletion[moduleId];
       saveCompletion(moduleId, nextState);
       markButton.textContent = nextState ? 'Mark incomplete' : 'Mark complete';
-      loadCatalog();
+      
+const modulesToggle = document.getElementById('modules-toggle');
+if (modulesToggle) {
+  const modulePanel = modulesToggle.closest('.panel');
+  const moduleListEl = modulePanel.querySelector('.module-list');
+  modulesToggle.addEventListener('click', () => {
+    const isCollapsed = moduleListEl.classList.toggle('is-collapsed');
+    modulesToggle.setAttribute('aria-expanded', String(!isCollapsed));
+    modulePanel.classList.toggle('is-collapsed', isCollapsed);
+  });
+}
+
+loadCatalog();
     });
 
     const quizButton = document.getElementById('check-answers');
@@ -346,5 +358,17 @@ const loadCatalog = async () => {
     moduleList.innerHTML = '<p class="muted">Unable to load catalog. Run the preview server from the repo root.</p>';
   }
 };
+
+
+const modulesToggle = document.getElementById('modules-toggle');
+if (modulesToggle) {
+  const modulePanel = modulesToggle.closest('.panel');
+  const moduleListEl = modulePanel.querySelector('.module-list');
+  modulesToggle.addEventListener('click', () => {
+    const isCollapsed = moduleListEl.classList.toggle('is-collapsed');
+    modulesToggle.setAttribute('aria-expanded', String(!isCollapsed));
+    modulePanel.classList.toggle('is-collapsed', isCollapsed);
+  });
+}
 
 loadCatalog();

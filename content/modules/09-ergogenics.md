@@ -107,119 +107,35 @@ Not all supplements work the same for everyone. Genetics, sleep, and training st
 
 **Action step:** Remove any supplement that doesn’t clearly improve training or recovery.
 
-## Field Notes: Supplement Evaluation
 
-Before adding any supplement, answer these:
+## Mechanisms: Evidence Strength and Effect Size
 
-- What evidence supports it?
-- What is the expected effect size?
-- What is the risk profile?
+**Core idea:** Supplements should be judged by effect size, not hype. Small effects can still matter, but only if the evidence is consistent.
 
-## Exercise Selection Examples (Supplement Timing)
+- Meta-analyses and systematic reviews carry more weight.
+- Effect size determines practical relevance.
+- Study quality and participant training status influence outcomes.
 
-- Use caffeine on heavy or high-volume days.
-- Avoid caffeine late in the day if sleep suffers.
-- Use creatine consistently, not only on training days.
+## Mechanisms: Ergogenic Timing and Response
 
-## Glossary
+**Core idea:** Timing and individual response determine whether a supplement is worth using.
 
-- **Ergogenic:** performance enhancing.
-- **Third-party testing:** independent purity verification.
-- **Placebo effect:** improvement due to expectations.
+- Caffeine works acutely and depends on timing and tolerance.
+- Creatine is chronic; it depends on saturation.
+- Nitrates depend on timing and diet background.
 
-## Self-Test Prompts
+## Mechanisms: Safety and Compliance
 
-- Is this supplement improving performance measurably?
-- Is it affecting sleep or recovery?
-- Can you remove it without losing results?
+**Core idea:** Purity and safety protect health and eligibility.
 
-## Case Studies: Supplement Decisions
+- Contaminants are a real risk with untested supplements.
+- High doses increase side effects without proportional benefit.
+- Third-party testing reduces risk.
 
-- **No performance change after 6 weeks:** remove the supplement.
-- **Sleep disrupted by caffeine:** reduce dose or timing.
-- **GI issues with creatine:** split into smaller doses.
+## Why It Matters: Sustainable Performance Gains
 
-## Coaching Cues Library
+- **Safe supplementation** preserves health.
+- **Evidence-based choices** prevent wasted money.
+- **Consistency** determines real-world impact.
 
-- “Food first, supplements second.”
-- “One change at a time.”
-- “Track results objectively.”
-
-## Reflection Questions
-
-- Which supplement gives you a measurable benefit?
-- Are any supplements harming sleep or appetite?
-- Do you rely on supplements instead of basics?
-
-## Quick Recap
-
-- Evidence matters more than hype.
-- Creatine and caffeine have strong support.
-- Purity and dosing protect health.
-- Supplements should not replace basics.
-
-## Mini Assignment
-
-- Pick one supplement and track response for 4 weeks.
-- Record training performance and sleep quality.
-- Decide whether it stays in your plan.
-
-## Further Reading Prompts
-
-- How do you separate placebo from real effect?
-- Which supplements feel most helpful for your training?
-
-## Extended Notes
-
-Use these notes as a quick reference when planning training or nutrition.
-
-- Focus on one key variable per block.
-- Track results with simple logs.
-- Favor consistency over novelty.
-- Use deloads or diet breaks proactively.
-- Protect joints with smart exercise choices.
-- Keep recovery habits stable.
-- Reassess every 4–6 weeks.
-
-## Applied Checklist
-
-- What is the one change that will move the needle most this block?
-- What is your main risk (fatigue, soreness, compliance)?
-- What is your plan to manage that risk?
-
-## Key Formula
-
-- Plan → Execute → Review → Adjust
-
-## Interactive Drill
-
-Use this drill to apply the key ideas:
-
-1. Pick one main lift or habit from this module.
-2. Write down the problem you are solving (strength, size, recovery, adherence).
-3. Choose one variable to adjust (load, ROM, sleep, calories).
-4. Track the result for 2–4 weeks.
-
-## Knowledge Map
-
-- **Inputs:** training, nutrition, recovery, stress.
-- **Signals:** performance, soreness, sleep, motivation.
-- **Outputs:** strength, size, body composition, confidence.
-
-## Applied Lab
-
-- Build a mini-plan for the next 2 weeks.
-- Record one key metric daily (steps, reps, or sleep).
-- Review results and adjust only one variable.
-
-## Troubleshooting Guide
-
-- If progress stalls, reduce complexity and return to fundamentals.
-- If joints ache, change exercise selection before lowering effort.
-- If motivation drops, shorten sessions and focus on quality.
-
-## Study Guide Prompts
-
-- Which variable gives you the highest return on effort?
-- What recovery habit would most improve your next block?
-- How will you measure progress beyond scale weight?
+**Takeaway:** Supplements are a small layer on top of sleep, training, and nutrition.
