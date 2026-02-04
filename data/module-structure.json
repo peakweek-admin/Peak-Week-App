@@ -1,0 +1,454 @@
+{
+  "module-biomechanics": {
+    "lessons": [
+      {
+        "title": "Moment Arms and Torque Curves",
+        "summary": "How joint angles change torque demands and sticking points."
+      },
+      {
+        "title": "Lever Classes and Anthropometry",
+        "summary": "Why limb lengths and segment ratios change exercise difficulty."
+      },
+      {
+        "title": "Stability, Bracing, and Energy Transfer",
+        "summary": "How stabilizers keep force moving into the bar, not into wobble."
+      },
+      {
+        "title": "Range of Motion and Resistance Profiles",
+        "summary": "How ROM, tempo, and equipment shape mechanical tension."
+      },
+      {
+        "title": "Joint-Friendly Mechanics",
+        "summary": "Aligning force vectors to reduce joint stress while training hard."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What happens when a moment arm gets longer?",
+        "options": [
+          "Torque demand decreases",
+          "Torque demand increases",
+          "Torque demand stays the same",
+          "Muscle activation stops"
+        ],
+        "answer": 1,
+        "explanation": "A longer perpendicular distance increases torque at the joint, making the lift feel harder."
+      },
+      {
+        "question": "Which factor most directly changes leverage in a squat?",
+        "options": [
+          "Bar placement",
+          "Music volume",
+          "Shoe color",
+          "Water intake"
+        ],
+        "answer": 0,
+        "explanation": "Bar placement changes torso angle and hip/knee moments, altering leverage."
+      }
+    ]
+  },
+  "module-hypertrophy": {
+    "lessons": [
+      {
+        "title": "Mechanical Tension",
+        "summary": "Why tension is the primary hypertrophy signal."
+      },
+      {
+        "title": "Metabolic Stress",
+        "summary": "How metabolite buildup contributes to growth."
+      },
+      {
+        "title": "Muscle Damage",
+        "summary": "When damage helps and when it hurts recovery."
+      },
+      {
+        "title": "Satellite Cells",
+        "summary": "How myonuclei support long-term growth capacity."
+      },
+      {
+        "title": "Fiber Types",
+        "summary": "Matching rep ranges to fiber distributions."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the strongest driver of hypertrophy?",
+        "options": [
+          "Mechanical tension",
+          "Muscle soreness",
+          "Sweat loss",
+          "Random exercise selection"
+        ],
+        "answer": 0,
+        "explanation": "Mechanical tension is consistently the primary driver of growth."
+      },
+      {
+        "question": "Why are satellite cells important?",
+        "options": [
+          "They store glycogen",
+          "They donate nuclei to support growth",
+          "They reduce heart rate",
+          "They replace tendons"
+        ],
+        "answer": 1,
+        "explanation": "Satellite cells provide additional myonuclei to support larger muscle fibers."
+      }
+    ]
+  },
+  "module-nutrition": {
+    "lessons": [
+      {
+        "title": "Energy Balance and TDEE",
+        "summary": "How calories in/out set the foundation."
+      },
+      {
+        "title": "NEAT and Adaptive Behavior",
+        "summary": "Why activity drops during diets and how to counter it."
+      },
+      {
+        "title": "Macros for Training",
+        "summary": "Protein, carbs, and fats for performance."
+      },
+      {
+        "title": "Nutrient Timing",
+        "summary": "Planning meals around training windows."
+      },
+      {
+        "title": "Diet Periodization",
+        "summary": "Surplus, maintenance, and deficit cycles."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is TDEE?",
+        "options": [
+          "Total Daily Energy Expenditure",
+          "Total Daily Exercise Efficiency",
+          "Training Density Energy Equation",
+          "Time-Dependent Exercise"
+        ],
+        "answer": 0,
+        "explanation": "TDEE is the total energy you burn in a day."
+      },
+      {
+        "question": "Which macro most supports muscle protein synthesis?",
+        "options": [
+          "Protein",
+          "Fat",
+          "Alcohol",
+          "Fiber"
+        ],
+        "answer": 0,
+        "explanation": "Protein provides amino acids to build muscle."
+      }
+    ]
+  },
+  "module-recovery": {
+    "lessons": [
+      {
+        "title": "Sleep Architecture",
+        "summary": "How sleep stages impact recovery and hormones."
+      },
+      {
+        "title": "Hormonal Balance",
+        "summary": "Acute spikes vs long-term recovery signals."
+      },
+      {
+        "title": "Stress and CNS Fatigue",
+        "summary": "Why chronic stress can block progress."
+      },
+      {
+        "title": "Recovery Habits",
+        "summary": "Building a layered recovery system."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the most powerful recovery tool?",
+        "options": [
+          "Sleep",
+          "Ice baths",
+          "Energy drinks",
+          "Compression sleeves"
+        ],
+        "answer": 0,
+        "explanation": "Sleep is the strongest recovery lever."
+      },
+      {
+        "question": "Chronic stress tends to do what?",
+        "options": [
+          "Improve recovery",
+          "Reduce adaptation",
+          "Increase appetite automatically",
+          "Make joints stronger"
+        ],
+        "answer": 1,
+        "explanation": "High stress reduces recovery capacity and adaptation."
+      }
+    ]
+  },
+  "module-programming": {
+    "lessons": [
+      {
+        "title": "Progressive Overload",
+        "summary": "How to systematically increase training stress."
+      },
+      {
+        "title": "Volume Landmarks",
+        "summary": "MEV, MAV, and MRV explained."
+      },
+      {
+        "title": "Periodization",
+        "summary": "Planning blocks for long-term results."
+      },
+      {
+        "title": "Exercise Selection",
+        "summary": "Choosing movements based on biomechanics."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is a deload?",
+        "options": [
+          "A planned reduction in volume",
+          "A random week off",
+          "A cardio-only phase",
+          "A protein fast"
+        ],
+        "answer": 0,
+        "explanation": "A deload is a planned reduction to manage fatigue."
+      },
+      {
+        "question": "What does MRV stand for?",
+        "options": [
+          "Maximum Recoverable Volume",
+          "Minimum Required Velocity",
+          "Muscle Repair Variable",
+          "Metabolic Rate Value"
+        ],
+        "answer": 0,
+        "explanation": "MRV is the maximum volume you can recover from."
+      }
+    ]
+  },
+  "module-anatomy": {
+    "lessons": [
+      {
+        "title": "Joint Anatomy",
+        "summary": "Constraints and safe loading angles."
+      },
+      {
+        "title": "Muscle Actions",
+        "summary": "Prime movers vs stabilizers."
+      },
+      {
+        "title": "Fascial Lines",
+        "summary": "How force transfers across the body."
+      },
+      {
+        "title": "Movement Screening",
+        "summary": "Finding limitations and selecting regressions."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does a stabilizer do?",
+        "options": [
+          "Keeps joints aligned",
+          "Only builds size",
+          "Stops breathing",
+          "Stores glycogen"
+        ],
+        "answer": 0,
+        "explanation": "Stabilizers keep joints aligned and energy moving efficiently."
+      },
+      {
+        "question": "Fascial lines primarily help with what?",
+        "options": [
+          "Force transfer",
+          "Eye focus",
+          "Blood type changes",
+          "Water retention"
+        ],
+        "answer": 0,
+        "explanation": "Fascia helps transmit force across the kinetic chain."
+      }
+    ]
+  },
+  "module-thermogenesis": {
+    "lessons": [
+      {
+        "title": "ATP Systems",
+        "summary": "Energy systems for different training styles."
+      },
+      {
+        "title": "Thermic Effect of Food",
+        "summary": "Why protein burns more calories to digest."
+      },
+      {
+        "title": "Adaptive Metabolism",
+        "summary": "Why metabolism slows in long deficits."
+      },
+      {
+        "title": "Metabolic Flexibility",
+        "summary": "Switching between carbs and fat efficiently."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which macro has the highest thermic effect?",
+        "options": [
+          "Protein",
+          "Fat",
+          "Alcohol",
+          "Sugar"
+        ],
+        "answer": 0,
+        "explanation": "Protein requires more energy to digest and metabolize."
+      },
+      {
+        "question": "Adaptive metabolism usually happens during?",
+        "options": [
+          "Extended deficits",
+          "Short warmups",
+          "Hydration",
+          "Stretching"
+        ],
+        "answer": 0,
+        "explanation": "Long deficits drive metabolic down-regulation."
+      }
+    ]
+  },
+  "module-recovery-monitoring": {
+    "lessons": [
+      {
+        "title": "Readiness Metrics",
+        "summary": "HRV, resting heart rate, and subjective readiness."
+      },
+      {
+        "title": "Load Management",
+        "summary": "Balancing acute and chronic workload."
+      },
+      {
+        "title": "Deloads and Tapers",
+        "summary": "Strategic recovery periods."
+      },
+      {
+        "title": "Recovery Interventions",
+        "summary": "Tools that support, not replace, fundamentals."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does HRV help you track?",
+        "options": [
+          "Recovery readiness",
+          "Protein intake",
+          "Joint range",
+          "Grip strength"
+        ],
+        "answer": 0,
+        "explanation": "HRV trends are commonly used to assess recovery status."
+      },
+      {
+        "question": "What is the goal of load management?",
+        "options": [
+          "Balance progress and recovery",
+          "Train randomly",
+          "Avoid all intensity",
+          "Only train arms"
+        ],
+        "answer": 0,
+        "explanation": "Load management balances stress and recovery over time."
+      }
+    ]
+  },
+  "module-ergogenics": {
+    "lessons": [
+      {
+        "title": "Evidence Tiers",
+        "summary": "How to evaluate supplement research."
+      },
+      {
+        "title": "Core Supplements",
+        "summary": "Creatine, caffeine, and performance aids."
+      },
+      {
+        "title": "Micronutrients",
+        "summary": "Fixing deficiencies for performance gains."
+      },
+      {
+        "title": "Safety and Purity",
+        "summary": "Avoiding contamination and overuse."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which supplement has the strongest evidence for strength?",
+        "options": [
+          "Creatine",
+          "Vitamin C megadoses",
+          "Collagen only",
+          "Detox teas"
+        ],
+        "answer": 0,
+        "explanation": "Creatine has consistent evidence for strength and power."
+      },
+      {
+        "question": "Why use third-party testing?",
+        "options": [
+          "Reduce contamination risk",
+          "Add flavor",
+          "Raise heart rate",
+          "Increase sugar"
+        ],
+        "answer": 0,
+        "explanation": "Third-party testing helps ensure purity and compliance."
+      }
+    ]
+  },
+  "module-pharmacology": {
+    "lessons": [
+      {
+        "title": "Endocrine Basics",
+        "summary": "Hormone feedback loops and regulation."
+      },
+      {
+        "title": "Peptides Overview",
+        "summary": "Research context and risk awareness."
+      },
+      {
+        "title": "SARMs Overview",
+        "summary": "Selective signaling with systemic risks."
+      },
+      {
+        "title": "Harm Reduction",
+        "summary": "Health-first decision frameworks."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Why is medical oversight emphasized?",
+        "options": [
+          "Because risks can be serious",
+          "Because it speeds up reps",
+          "Because it boosts caffeine",
+          "Because it changes grip strength"
+        ],
+        "answer": 0,
+        "explanation": "Pharmacology carries serious health risks; medical guidance is critical."
+      },
+      {
+        "question": "What is the safest alternative emphasized?",
+        "options": [
+          "Sleep, training, nutrition",
+          "Skipping meals",
+          "Random dosing",
+          "Extreme dehydration"
+        ],
+        "answer": 0,
+        "explanation": "Fundamentals outperform high-risk options for long-term outcomes."
+      }
+    ]
+  }
+}
