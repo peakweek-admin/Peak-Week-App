@@ -196,3 +196,36 @@ Use these notes as a quick reference when planning training or nutrition.
 ## Key Formula
 
 - Plan → Execute → Review → Adjust
+
+## Interactive Drill
+
+Use this drill to apply the key ideas:
+
+1. Pick one main lift or habit from this module.
+2. Write down the problem you are solving (strength, size, recovery, adherence).
+3. Choose one variable to adjust (load, ROM, sleep, calories).
+4. Track the result for 2–4 weeks.
+
+## Knowledge Map
+
+- **Inputs:** training, nutrition, recovery, stress.
+- **Signals:** performance, soreness, sleep, motivation.
+- **Outputs:** strength, size, body composition, confidence.
+
+## Applied Lab
+
+- Build a mini-plan for the next 2 weeks.
+- Record one key metric daily (steps, reps, or sleep).
+- Review results and adjust only one variable.
+
+## Troubleshooting Guide
+
+- If progress stalls, reduce complexity and return to fundamentals.
+- If joints ache, change exercise selection before lowering effort.
+- If motivation drops, shorten sessions and focus on quality.
+
+## Study Guide Prompts
+
+- Which variable gives you the highest return on effort?
+- What recovery habit would most improve your next block?
+- How will you measure progress beyond scale weight?
