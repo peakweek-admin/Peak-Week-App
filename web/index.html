@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Peak Week Archive Preview</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <header class="app__header">
+        <div class="app__header-top">
+          <img
+            class="logo"
+            src="https://i.postimg.cc/CMDp0c3t/peak-week-refined-v2-1-removebg-preview-(1).png"
+            alt="Peak Week"
+          />
+          <div class="header__actions">
+            <button id="modules-menu-toggle" class="ghost modules-menu-toggle" aria-expanded="false" aria-controls="module-menu-panel">
+              ☰ Modules
+            </button>
+            <button id="toggle-theme" class="ghost">Toggle Theme</button>
+          </div>
+        </div>
+        <div>
+          <p class="eyebrow">Science-Backed Lifting Archive</p>
+          <h1>Peak Week Preview</h1>
+          <p class="subhead">
+            Browse the course modules and open lesson content directly from the repo.
+          </p>
+        </div>
+      </header>
+
+      <div class="module-menu">
+        <div id="module-menu-panel" class="module-menu-panel" hidden>
+          <div class="module-menu-header">
+            <h2>Modules</h2>
+            <button id="modules-menu-close" class="ghost" type="button">Close</button>
+          </div>
+          <p class="module-menu-meta">Loaded from <code>data/catalog.json</code>.</p>
+          <div id="module-list" class="module-list"></div>
+        </div>
+        <div id="module-menu-backdrop" class="module-menu-backdrop" hidden></div>
+      </div>
+
+      <main class="app__main">
+        <section class="panel">
+          <div class="panel__header">
+            <h2>Lesson Preview</h2>
+            <p>Select a module to view its markdown content.</p>
+          </div>
+          <div id="lesson-preview" class="lesson-preview">
+            <p class="muted">Select a module to see the lesson outline.</p>
+          </div>
+        </section>
+      </main>
+
+      <aside class="panel tips">
+        <h3>Preview Tips</h3>
+        <ul>
+          <li>Run a local server from the repo so the browser can load JSON and markdown.</li>
+          <li>Use this preview to validate module structure before building a full UI.</li>
+          <li>All content is file-based and free to publish on static hosts.</li>
+        </ul>
+      </aside>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
