@@ -1,6 +1,6 @@
 # Peak Week Science-Backed Lifting Archive
 
-This repository provides a database schema and a learning module system for science-backed lifting. It connects biomechanics, muscle physiology, nutrition, recovery, and programming into a single, structured archive.
+This repository provides a database schema and a learning module system for science-backed lifting. It connects biomechanics, muscle physiology, nutrition, recovery, and programming into a single, structured archive with 20+ hours of coursework.
 
 ## What's Included
 

@@ -2,10 +2,10 @@
 id: module-nutrition
 title: Fueling for Performance and Composition
 level: intermediate
-estimated_minutes: 140
-summary: Build nutrition plans around TDEE, NEAT, and nutrient timing.
+estimated_minutes: 150
+summary: Build nutrition plans around TDEE, NEAT, and macronutrient distribution.
 objectives:
-  - Calculate TDEE and set goals around surplus or deficit.
+  - Calculate TDEE and set energy targets.
   - Translate NEAT shifts into daily habits.
   - Prioritize whole foods while hitting macro targets.
 key_topics:
@@ -21,9 +21,9 @@ key_topics:
 
 **Core idea:** Total daily energy expenditure combines basal needs, activity, and NEAT.
 
-- Start with a baseline estimate and adjust weekly based on scale trends.
-- Track NEAT habits (steps, active minutes) to reduce daily variability.
-- Use moderate surpluses for growth and moderate deficits for fat loss.
+- Start with a baseline estimate and adjust weekly.
+- Track NEAT habits (steps, active minutes) to reduce variability.
+- Use moderate surpluses for growth and modest deficits for fat loss.
 
 ## Lesson 2: Macronutrient Targets
 
@@ -33,10 +33,18 @@ key_topics:
 - Carbs: higher on training days for performance and recovery.
 - Fats: keep at least 20–30% of calories to support hormones.
 
-## Lesson 3: Whole Foods and Nutrient Timing
+## Lesson 3: Nutrient Timing and Meal Structure
 
-**Core idea:** Whole foods improve satiety and micronutrients; timing boosts performance.
+**Core idea:** Timing improves training quality and recovery.
 
-- Build meals around lean protein, complex carbs, colorful produce, and healthy fats.
-- Add a pre-training meal 1–3 hours before lifting.
-- Post-training meals should include protein and carbs for glycogen restoration.
+- Pre-training meal 1–3 hours before lifting.
+- Post-training protein + carbs for glycogen restoration.
+- Spread protein across 3–5 meals for MPS.
+
+## Lesson 4: Diet Periodization
+
+**Core idea:** Cycling phases of maintenance, surplus, and deficit improves outcomes.
+
+- Use maintenance weeks to stabilize NEAT and recovery.
+- Plan surplus phases alongside hypertrophy blocks.
+- Deload nutrition alongside training deloads.

@@ -2,41 +2,49 @@
 id: module-biomechanics
 title: Foundations of Lifting Biomechanics
 level: foundational
-estimated_minutes: 120
-summary: Understand how lever arms, joint torque, and stability impact exercise selection.
+estimated_minutes: 150
+summary: Understand how lever arms, joint torque, stability, and movement constraints shape exercise selection.
 objectives:
   - Explain how moment arms change across a range of motion.
-  - Evaluate leverage differences between variations.
-  - Apply stabilization principles to exercise selection.
+  - Evaluate leverage differences between equipment and body types.
+  - Apply stabilization principles to improve technique and safety.
 key_topics:
   - moment arms
   - leverage
   - stability
-  - muscle anatomy
+  - joint torque
 ---
 
 # Foundations of Lifting Biomechanics
 
-## Lesson 1: Moment Arms and Torque Demands
+## Lesson 1: Moment Arms and Torque Curves
 
-**Core idea:** Torque equals force times the perpendicular distance (moment arm). As joint angles change, the moment arm changes, which changes the torque demand on the muscle.
+**Core idea:** Torque equals force times the perpendicular distance to the joint. As joint angles change, the moment arm changes, which changes torque demands.
 
-- Identify the sticking point in each lift and map it to where the moment arm is longest.
-- Use accommodating resistance (bands, chains) to match strength curves.
-- Choose exercise variations that bias the moment arm toward your goal muscle (e.g., heels-elevated squats for quad focus).
+- Map sticking points to the longest moment arm.
+- Compare free weights vs machines for different torque curves.
+- Use accommodating resistance to match strength curves.
 
-## Lesson 2: Stabilization and Leverage
+## Lesson 2: Lever Classes and Anthropometry
+
+**Core idea:** Limb lengths alter leverage and joint loading.
+
+- Long femurs increase hip torque in squats.
+- Shorter arms improve bench press leverage but reduce row ROM.
+- Adjust stance, bar position, and equipment to match structure.
+
+## Lesson 3: Stability, Bracing, and Energy Transfer
 
 **Core idea:** Stabilizers reduce energy leaks so prime movers can express force.
 
-- Track which joints need to stay rigid (core, scapula, hips) for the movement.
-- Leverage depends on limb length, bar placement, and equipment choice.
-- Machines reduce stabilization needs; free weights increase it and build coordination.
+- Use 360° bracing to maintain trunk stiffness.
+- Train scapular stability for pulling and pressing.
+- Choose unilateral work to expose asymmetries.
 
-## Lesson 3: Anatomy for Movement Quality
+## Lesson 4: Range of Motion and Resistance Profiles
 
-**Core idea:** Origins, insertions, and fiber directions determine how muscles contribute to movement.
+**Core idea:** Range of motion changes mechanical tension and muscle length.
 
-- Map each muscle’s line of pull to joint actions.
-- Use anatomical knowledge to select angles that align fibers with resistance.
-- Train stabilizers with deliberate tempo or pauses.
+- Longer ROM improves hypertrophy signaling for many muscles.
+- Partial ROM can overload specific joint angles.
+- Use tempo to increase time under tension without compromising form.

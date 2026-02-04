@@ -2,7 +2,7 @@
 id: module-recovery
 title: Recovery, Hormones, and Lifestyle
 level: intermediate
-estimated_minutes: 110
+estimated_minutes: 140
 summary: Integrate sleep, stress, and hormonal considerations into training.
 objectives:
   - Build a recovery checklist for weekly planning.
@@ -33,10 +33,18 @@ key_topics:
 - Use deloads and active recovery to keep stress hormones in check.
 - Prioritize protein and fats to support anabolic signaling.
 
-## Lesson 3: Lifestyle Recovery Systems
+## Lesson 3: Stress, Autonomic Balance, and CNS Fatigue
 
-**Core idea:** Recovery is a lifestyle system, not a single tool.
+**Core idea:** Chronic stress shifts recovery capacity and dampens adaptation.
 
-- Schedule weekly low-stress days.
-- Use walks, mobility, and breathing drills to downshift the nervous system.
-- Track resting heart rate and HRV to detect fatigue early.
+- Monitor mood, sleep latency, and resting heart rate.
+- Use breathwork and walks to downshift sympathetic drive.
+- Reduce volume before intensity if stress climbs.
+
+## Lesson 4: Recovery Stack
+
+**Core idea:** Recovery is a layered system, not a single tool.
+
+- Build a baseline: sleep, nutrition, hydration.
+- Add recovery modalities only after fundamentals are in place.
+- Track readiness markers weekly.

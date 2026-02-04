@@ -4,6 +4,11 @@ const MODULE_PATHS = {
   'module-nutrition': 'content/modules/03-nutrition.md',
   'module-recovery': 'content/modules/04-recovery.md',
   'module-programming': 'content/modules/05-programming.md',
+  'module-anatomy': 'content/modules/06-anatomy.md',
+  'module-thermogenesis': 'content/modules/07-thermogenesis.md',
+  'module-recovery-monitoring': 'content/modules/08-recovery-monitoring.md',
+  'module-ergogenics': 'content/modules/09-ergogenics.md',
+  'module-pharmacology': 'content/modules/10-pharmacology.md',
 };
 
 const moduleList = document.getElementById('module-list');

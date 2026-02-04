@@ -3,9 +3,9 @@ id: module-hypertrophy
 title: Muscle Growth From Cell to System
 level: foundational
 estimated_minutes: 150
-summary: Explore the cellular signals and systemic drivers of hypertrophy.
+summary: Explore cellular signals, tissue remodeling, and systemic drivers of hypertrophy.
 objectives:
-  - Describe the cellular triggers of hypertrophy (tension, damage, stress).
+  - Describe the primary cellular triggers of hypertrophy.
   - Explain how satellite cells and myonuclei support growth.
   - Translate mechanisms into training variables.
 key_topics:
@@ -17,26 +17,34 @@ key_topics:
 
 # Muscle Growth From Cell to System
 
-## Lesson 1: Cellular Hypertrophy Signals
+## Lesson 1: Mechanical Tension as the Primary Driver
 
-**Core idea:** Mechanical tension is the primary driver; metabolic stress and muscle damage are secondary contributors.
+**Core idea:** Mechanical tension is the strongest stimulus for hypertrophy.
 
-- Use full ROM, controlled eccentrics, and proximity to failure to increase tension.
-- Pair higher-rep accessory work with moderate rest to drive metabolic stress.
-- Track weekly volume and gradually increase as recovery allows.
+- Use full ROM and controlled eccentrics to increase tension.
+- Train close to failure while keeping technique stable.
+- Track weekly volume and apply gradual overload.
 
-## Lesson 2: Muscle Architecture and Fiber Types
+## Lesson 2: Muscle Damage and Metabolic Stress
 
-**Core idea:** Pennation and fiber-type distribution influence how muscles grow and respond to training.
+**Core idea:** Damage and metabolic stress amplify growth when paired with tension.
 
-- Pennate muscles (e.g., quads) often handle higher volume.
-- Parallel-fiber muscles (e.g., biceps) can respond well to load and stretch.
-- Use a mix of loads to target multiple fiber types.
+- Use higher-rep accessory work for metabolic stress.
+- Manage soreness to protect training frequency.
+- Avoid excessive damage that disrupts technique.
 
-## Lesson 3: Myonuclei and Long-Term Growth
+## Lesson 3: Satellite Cells and Myonuclear Accretion
 
-**Core idea:** Myonuclear accretion supports sustained hypertrophy capacity.
+**Core idea:** Satellite cells donate nuclei that support long-term growth capacity.
 
-- Deload to allow connective tissue recovery without losing myonuclei.
-- Build phases that alternate overload with consolidation.
-- Maintain a high protein intake to support remodeling.
+- Combine heavy and moderate loads for comprehensive signaling.
+- Deload to recover connective tissue without losing myonuclei.
+- Maintain high protein intake to support remodeling.
+
+## Lesson 4: Muscle Architecture and Fiber Types
+
+**Core idea:** Pennation and fiber distribution influence how muscles respond to training.
+
+- Pennate muscles (e.g., quads) handle higher volume.
+- Parallel-fiber muscles (e.g., biceps) respond well to stretch and load.
+- Program mixed rep ranges to target multiple fiber types.

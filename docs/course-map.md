@@ -19,6 +19,21 @@ This course map links the database schema to practical learning modules.
 5. **Programming for Long-Term Progress**
    - Progressive overload, periodization
    - Related tables: `modules`, `lessons`, `lesson_tags`
+6. **Applied Anatomy and Movement Physiology**
+   - Joint mechanics, movement screening, stabilization chains
+   - Related tables: `muscles`, `muscle_landmarks`, `lesson_sections`
+7. **Energy Systems, Thermogenesis, and Metabolism**
+   - ATP systems, thermic effect of food, adaptive metabolism
+   - Related tables: `nutrition_principles`, `studies`
+8. **Recovery Monitoring and Load Management**
+   - HRV, readiness, deload strategy
+   - Related tables: `recovery_strategies`, `lessons`
+9. **Supplementation and Ergogenic Aids**
+   - Creatine, caffeine, evidence tiers
+   - Related tables: `studies`, `lesson_studies`
+10. **Peptides, SARMs, and Pharmacology (Educational Only)**
+    - Endocrine impacts, regulation, harm reduction
+    - Related tables: `studies`, `lesson_sections`
 
 ## Evidence Integration
 

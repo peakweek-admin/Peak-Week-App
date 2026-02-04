@@ -2,8 +2,8 @@
 id: module-programming
 title: Programming for Long-Term Progress
 level: advanced
-estimated_minutes: 180
-summary: Design periodized plans with evidence-backed volume and intensity.
+estimated_minutes: 160
+summary: Design periodized plans with evidence-backed volume, intensity, and exercise selection.
 objectives:
   - Choose overload strategies for each training phase.
   - Manage fatigue with deloads and readiness monitoring.
@@ -40,3 +40,11 @@ key_topics:
 - Choose variations that align with desired moment arms.
 - Balance compound lifts with isolation work.
 - Include stabilization-focused movements for injury resilience.
+
+## Lesson 4: Volume Landmarks and Frequency
+
+**Core idea:** Minimum effective volume and maximum recoverable volume guide planning.
+
+- Start within MEV and progress toward MRV.
+- Use higher frequency for skills and lagging muscles.
+- Track weekly sets per muscle group.
