@@ -24,37 +24,26 @@
     ],
     "quiz": [
       {
-        "question": "If knee moment arm increases while load stays constant, what happens to knee torque?",
+        "question": "What happens when a moment arm gets longer?",
         "options": [
-          "Torque decreases",
-          "Torque stays the same",
-          "Torque increases",
-          "Torque becomes zero"
-        ],
-        "answer": 2,
-        "explanation": "Torque equals force times moment arm, so a longer moment arm increases torque."
-      },
-      {
-        "question": "Which change most reduces hip torque in a squat for a long-femur lifter?",
-        "options": [
-          "Wider stance and higher bar position",
-          "Narrow stance and lower bar position",
-          "Adding weight but shortening ROM",
-          "Switching to a flat shoe"
-        ],
-        "answer": 0,
-        "explanation": "A higher bar and wider stance can reduce forward torso lean, lowering hip torque."
-      },
-      {
-        "question": "Why do cables often feel smoother than free weights at the end range?",
-        "options": [
-          "They reduce gravity",
-          "They maintain a consistent line of pull",
-          "They make joints move faster",
-          "They reduce muscle activation"
+          "Torque demand decreases",
+          "Torque demand increases",
+          "Torque demand stays the same",
+          "Muscle activation stops"
         ],
         "answer": 1,
-        "explanation": "Cable resistance keeps tension aligned with the line of pull throughout the range."
+        "explanation": "A longer perpendicular distance increases torque at the joint, making the lift feel harder."
+      },
+      {
+        "question": "Which factor most directly changes leverage in a squat?",
+        "options": [
+          "Bar placement",
+          "Music volume",
+          "Shoe color",
+          "Water intake"
+        ],
+        "answer": 0,
+        "explanation": "Bar placement changes torso angle and hip/knee moments, altering leverage."
       }
     ]
   },
@@ -83,37 +72,26 @@
     ],
     "quiz": [
       {
-        "question": "Which variable most reliably increases fiber recruitment in hypertrophy training?",
+        "question": "What is the strongest driver of hypertrophy?",
         "options": [
-          "Training to near failure",
-          "Changing exercise weekly",
-          "Shortening rest to 10 seconds",
-          "Only using machines"
+          "Mechanical tension",
+          "Muscle soreness",
+          "Sweat loss",
+          "Random exercise selection"
         ],
         "answer": 0,
-        "explanation": "Near-failure efforts improve high-threshold motor unit recruitment."
+        "explanation": "Mechanical tension is consistently the primary driver of growth."
       },
       {
-        "question": "What is the primary role of satellite cells in hypertrophy?",
+        "question": "Why are satellite cells important?",
         "options": [
-          "Produce ATP",
-          "Donate nuclei to muscle fibers",
-          "Break down glycogen",
-          "Increase heart rate"
+          "They store glycogen",
+          "They donate nuclei to support growth",
+          "They reduce heart rate",
+          "They replace tendons"
         ],
         "answer": 1,
-        "explanation": "Satellite cells donate myonuclei, supporting larger fiber size."
-      },
-      {
-        "question": "Why can excessive muscle damage slow hypertrophy progress?",
-        "options": [
-          "It increases neural drive",
-          "It reduces training frequency and quality",
-          "It improves blood flow",
-          "It increases protein absorption"
-        ],
-        "answer": 1,
-        "explanation": "Too much damage impairs recovery and limits productive training volume."
+        "explanation": "Satellite cells provide additional myonuclei to support larger muscle fibers."
       }
     ]
   },
@@ -142,37 +120,26 @@
     ],
     "quiz": [
       {
-        "question": "Which component of energy expenditure is most likely to drop during a prolonged deficit?",
+        "question": "What is TDEE?",
         "options": [
-          "NEAT",
-          "Exercise energy cost",
-          "Thermic effect of protein",
-          "Basal metabolic rate overnight only"
+          "Total Daily Energy Expenditure",
+          "Total Daily Exercise Efficiency",
+          "Training Density Energy Equation",
+          "Time-Dependent Exercise"
         ],
         "answer": 0,
-        "explanation": "NEAT often decreases unconsciously during dieting, reducing total expenditure."
+        "explanation": "TDEE is the total energy you burn in a day."
       },
       {
-        "question": "What is the most accurate way to adjust calories during a cut?",
+        "question": "Which macro most supports muscle protein synthesis?",
         "options": [
-          "Daily weight changes",
-          "7\u201314 day trend averages",
-          "How sore you feel",
-          "Macro ratios only"
+          "Protein",
+          "Fat",
+          "Alcohol",
+          "Fiber"
         ],
-        "answer": 1,
-        "explanation": "Trend averages smooth water fluctuations and provide reliable feedback."
-      },
-      {
-        "question": "Why is protein distribution across meals beneficial?",
-        "options": [
-          "It reduces carb absorption",
-          "It stimulates MPS multiple times per day",
-          "It lowers sleep needs",
-          "It increases caffeine tolerance"
-        ],
-        "answer": 1,
-        "explanation": "Even distribution provides repeated MPS stimulation across the day."
+        "answer": 0,
+        "explanation": "Protein provides amino acids to build muscle."
       }
     ]
   },
@@ -197,37 +164,26 @@
     ],
     "quiz": [
       {
-        "question": "Which combination most strongly predicts poor recovery?",
+        "question": "What is the most powerful recovery tool?",
         "options": [
-          "High HRV, low soreness, good sleep",
-          "Low HRV, poor sleep, rising resting heart rate",
-          "Stable HRV, good mood, high motivation",
-          "High steps and high appetite"
+          "Sleep",
+          "Ice baths",
+          "Energy drinks",
+          "Compression sleeves"
         ],
-        "answer": 1,
-        "explanation": "Multiple indicators trending down suggest systemic fatigue."
+        "answer": 0,
+        "explanation": "Sleep is the strongest recovery lever."
       },
       {
-        "question": "Why do acute hormone spikes matter less than chronic balance?",
+        "question": "Chronic stress tends to do what?",
         "options": [
-          "Spikes cause injury",
-          "Long-term adaptations depend on overall recovery and energy availability",
-          "Spikes eliminate protein synthesis",
-          "Spikes only happen in beginners"
+          "Improve recovery",
+          "Reduce adaptation",
+          "Increase appetite automatically",
+          "Make joints stronger"
         ],
         "answer": 1,
-        "explanation": "Long-term recovery and energy status drive adaptation more than short-lived spikes."
-      },
-      {
-        "question": "What is the best first adjustment when recovery drops?",
-        "options": [
-          "Add more exercises",
-          "Reduce volume and improve sleep",
-          "Increase caffeine",
-          "Train to failure more often"
-        ],
-        "answer": 1,
-        "explanation": "Volume reduction and sleep improvements address the root causes of fatigue."
+        "explanation": "High stress reduces recovery capacity and adaptation."
       }
     ]
   },
@@ -252,37 +208,26 @@
     ],
     "quiz": [
       {
-        "question": "What does MRV represent in program design?",
+        "question": "What is a deload?",
         "options": [
-          "Minimum recovery volume",
-          "Maximum recoverable volume",
-          "Most reactive volume",
-          "Muscle retention value"
+          "A planned reduction in volume",
+          "A random week off",
+          "A cardio-only phase",
+          "A protein fast"
         ],
-        "answer": 1,
-        "explanation": "MRV is the maximum volume you can recover from without performance decline."
+        "answer": 0,
+        "explanation": "A deload is a planned reduction to manage fatigue."
       },
       {
-        "question": "Why are deloads planned instead of reactive?",
+        "question": "What does MRV stand for?",
         "options": [
-          "They improve soreness",
-          "They prevent accumulating fatigue from reaching failure",
-          "They increase intensity",
-          "They eliminate muscle damage"
+          "Maximum Recoverable Volume",
+          "Minimum Required Velocity",
+          "Muscle Repair Variable",
+          "Metabolic Rate Value"
         ],
-        "answer": 1,
-        "explanation": "Planned deloads prevent excessive fatigue from derailing progress."
-      },
-      {
-        "question": "Which sequence best supports session performance?",
-        "options": [
-          "Isolation \u2192 compound \u2192 accessories",
-          "Compound \u2192 accessory \u2192 isolation",
-          "Cardio \u2192 compound \u2192 isolation",
-          "Random order"
-        ],
-        "answer": 1,
-        "explanation": "High-skill, high-load lifts are best performed early in the session."
+        "answer": 0,
+        "explanation": "MRV is the maximum volume you can recover from."
       }
     ]
   },
@@ -307,37 +252,26 @@
     ],
     "quiz": [
       {
-        "question": "Which joint is designed primarily for stability rather than mobility?",
+        "question": "What does a stabilizer do?",
         "options": [
-          "Ankle",
-          "Knee",
-          "Hip",
-          "Shoulder"
+          "Keeps joints aligned",
+          "Only builds size",
+          "Stops breathing",
+          "Stores glycogen"
         ],
-        "answer": 1,
-        "explanation": "The knee is a hinge joint prioritizing stability and controlled motion."
+        "answer": 0,
+        "explanation": "Stabilizers keep joints aligned and energy moving efficiently."
       },
       {
-        "question": "Why might a front squat feel more quad-dominant than a low-bar squat?",
+        "question": "Fascial lines primarily help with what?",
         "options": [
-          "Lower load",
-          "More upright torso increases knee moment",
-          "Less range of motion",
-          "Less core demand"
+          "Force transfer",
+          "Eye focus",
+          "Blood type changes",
+          "Water retention"
         ],
-        "answer": 1,
-        "explanation": "An upright torso shifts torque toward the knee extensors."
-      },
-      {
-        "question": "What is the purpose of a movement screen?",
-        "options": [
-          "Find PRs",
-          "Identify limitations and guide exercise selection",
-          "Increase heart rate",
-          "Replace warm-ups"
-        ],
-        "answer": 1,
-        "explanation": "Screening identifies limitations so exercise choices can be adjusted safely."
+        "answer": 0,
+        "explanation": "Fascia helps transmit force across the kinetic chain."
       }
     ]
   },
@@ -362,37 +296,26 @@
     ],
     "quiz": [
       {
-        "question": "Which system dominates during a 5-rep max set?",
+        "question": "Which macro has the highest thermic effect?",
         "options": [
-          "Oxidative",
-          "ATP-PC",
-          "Glycolytic",
-          "Thermic effect of food"
-        ],
-        "answer": 1,
-        "explanation": "Short, heavy efforts are primarily powered by ATP-PC."
-      },
-      {
-        "question": "Which macro has the highest thermic effect of food?",
-        "options": [
-          "Fat",
           "Protein",
-          "Carbohydrate",
-          "Alcohol"
+          "Fat",
+          "Alcohol",
+          "Sugar"
         ],
-        "answer": 1,
-        "explanation": "Protein requires the most energy to digest and process."
+        "answer": 0,
+        "explanation": "Protein requires more energy to digest and metabolize."
       },
       {
-        "question": "Why do prolonged deficits often stall fat loss?",
+        "question": "Adaptive metabolism usually happens during?",
         "options": [
-          "Water weight increases permanently",
-          "Adaptive thermogenesis lowers expenditure",
-          "Muscle mass instantly drops",
-          "Carb intake stops metabolism"
+          "Extended deficits",
+          "Short warmups",
+          "Hydration",
+          "Stretching"
         ],
-        "answer": 1,
-        "explanation": "Adaptive thermogenesis lowers expenditure and NEAT over time."
+        "answer": 0,
+        "explanation": "Long deficits drive metabolic down-regulation."
       }
     ]
   },
@@ -417,37 +340,26 @@
     ],
     "quiz": [
       {
-        "question": "Why is HRV best interpreted as a trend?",
+        "question": "What does HRV help you track?",
         "options": [
-          "Single readings are always accurate",
-          "Trends filter noise and reflect overall recovery",
-          "HRV never changes",
-          "HRV is only for endurance athletes"
-        ],
-        "answer": 1,
-        "explanation": "Trend data smooths daily variability and reflects recovery status."
-      },
-      {
-        "question": "What is the most reliable first adjustment when readiness drops?",
-        "options": [
-          "Increase intensity",
-          "Reduce volume",
-          "Add new exercises",
-          "Train to failure"
-        ],
-        "answer": 1,
-        "explanation": "Volume is the first lever to adjust for fatigue management."
-      },
-      {
-        "question": "What does the acute-to-chronic workload ratio help with?",
-        "options": [
-          "Avoiding sudden spikes in training load",
-          "Measuring protein intake",
-          "Estimating one-rep max",
-          "Tracking sleep cycles"
+          "Recovery readiness",
+          "Protein intake",
+          "Joint range",
+          "Grip strength"
         ],
         "answer": 0,
-        "explanation": "It helps balance short-term load against long-term capacity."
+        "explanation": "HRV trends are commonly used to assess recovery status."
+      },
+      {
+        "question": "What is the goal of load management?",
+        "options": [
+          "Balance progress and recovery",
+          "Train randomly",
+          "Avoid all intensity",
+          "Only train arms"
+        ],
+        "answer": 0,
+        "explanation": "Load management balances stress and recovery over time."
       }
     ]
   },
@@ -472,37 +384,26 @@
     ],
     "quiz": [
       {
-        "question": "Which supplement has the strongest evidence for strength and power?",
+        "question": "Which supplement has the strongest evidence for strength?",
         "options": [
           "Creatine",
-          "Vitamin C",
-          "Detox tea",
-          "Fish oil only"
+          "Vitamin C megadoses",
+          "Collagen only",
+          "Detox teas"
         ],
         "answer": 0,
-        "explanation": "Creatine has robust evidence for strength and power gains."
+        "explanation": "Creatine has consistent evidence for strength and power."
       },
       {
-        "question": "Why is third-party testing important?",
+        "question": "Why use third-party testing?",
         "options": [
-          "It increases absorption",
-          "It reduces contamination risk",
-          "It lowers calories",
-          "It improves taste"
+          "Reduce contamination risk",
+          "Add flavor",
+          "Raise heart rate",
+          "Increase sugar"
         ],
-        "answer": 1,
-        "explanation": "Independent testing helps verify purity and avoid contaminants."
-      },
-      {
-        "question": "What is the best way to evaluate a new supplement?",
-        "options": [
-          "Add multiple at once",
-          "Use a single supplement and track outcomes",
-          "Ignore sleep changes",
-          "Increase all doses immediately"
-        ],
-        "answer": 1,
-        "explanation": "One change at a time allows clear evaluation of impact."
+        "answer": 0,
+        "explanation": "Third-party testing helps ensure purity and compliance."
       }
     ]
   },
@@ -527,37 +428,26 @@
     ],
     "quiz": [
       {
-        "question": "Why can endocrine suppression be a long-term concern?",
+        "question": "Why is medical oversight emphasized?",
         "options": [
-          "It always resolves in a day",
-          "Recovery is not always predictable",
-          "It improves sleep",
-          "It prevents injuries"
+          "Because risks can be serious",
+          "Because it speeds up reps",
+          "Because it boosts caffeine",
+          "Because it changes grip strength"
         ],
-        "answer": 1,
-        "explanation": "Suppression recovery varies and can have lasting effects."
+        "answer": 0,
+        "explanation": "Pharmacology carries serious health risks; medical guidance is critical."
       },
       {
-        "question": "What is the primary intent of this pharmacology module?",
+        "question": "What is the safest alternative emphasized?",
         "options": [
-          "Provide dosing protocols",
-          "Provide educational risk awareness",
-          "Promote product sales",
-          "Encourage experimentation"
-        ],
-        "answer": 1,
-        "explanation": "The module is educational and focuses on risk awareness."
-      },
-      {
-        "question": "Which alternative is emphasized as safer for performance?",
-        "options": [
-          "Sleep, training, and nutrition",
-          "Random cycles",
-          "Unregulated compounds",
+          "Sleep, training, nutrition",
+          "Skipping meals",
+          "Random dosing",
           "Extreme dehydration"
         ],
         "answer": 0,
-        "explanation": "Fundamentals remain the safest and most reliable path."
+        "explanation": "Fundamentals outperform high-risk options for long-term outcomes."
       }
     ]
   }

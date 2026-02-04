@@ -132,59 +132,6 @@ const evaluateQuiz = (container) => {
   return { correct, total: questions.length };
 };
 
-const buildAccordion = (content) => {
-  const sections = content.split('\n## ').map((section, index) => {
-    if (index === 0) {
-      return { title: 'Overview', body: section.trim() };
-    }
-    const [titleLine, ...rest] = section.split('\n');
-    return { title: titleLine.trim(), body: rest.join('\n').trim() };
-  });
-
-  return sections
-    .map(
-      (section, index) => `
-        <div class="accordion-section ${index === 0 ? 'open' : ''}">
-          <button class="accordion-toggle" type="button">
-            <span>${section.title}</span>
-            <span class="chevron">▾</span>
-          </button>
-          <div class="accordion-content">
-            <pre>${section.body}</pre>
-          </div>
-        </div>
-      `
-    )
-    .join('');
-};
-
-const bindAccordion = (container) => {
-  const toggles = container.querySelectorAll('.accordion-toggle');
-  toggles.forEach((toggle) => {
-    toggle.addEventListener('click', () => {
-      const section = toggle.closest('.accordion-section');
-      section.classList.toggle('open');
-    });
-  });
-
-  const expandAll = container.querySelector('#expand-all');
-  const collapseAll = container.querySelector('#collapse-all');
-
-  if (expandAll && collapseAll) {
-    expandAll.addEventListener('click', () => {
-      container.querySelectorAll('.accordion-section').forEach((section) => {
-        section.classList.add('open');
-      });
-    });
-
-    collapseAll.addEventListener('click', () => {
-      container.querySelectorAll('.accordion-section').forEach((section) => {
-        section.classList.remove('open');
-      });
-    });
-  }
-};
-
 const loadModule = async (moduleId, moduleTitle) => {
   const path = MODULE_PATHS[moduleId];
   if (!path) {
@@ -220,7 +167,6 @@ const loadModule = async (moduleId, moduleTitle) => {
       : '<li class="muted">No lesson list available.</li>';
 
     const quizMarkup = moduleStructure ? renderQuiz(moduleId, moduleStructure.quiz) : '';
-    const accordionMarkup = buildAccordion(content);
 
     lessonPreview.innerHTML = `
       <div class="lesson-header">
@@ -228,13 +174,9 @@ const loadModule = async (moduleId, moduleTitle) => {
           <h3>${moduleTitle}</h3>
           <p class="muted">Use the checklist and quiz to track completion.</p>
         </div>
-        <div class="lesson-actions">
-          <button class="ghost" id="expand-all">Expand all</button>
-          <button class="ghost" id="collapse-all">Collapse all</button>
-          <button class="ghost" id="mark-complete">
-            ${storedCompletion[moduleId] ? 'Mark incomplete' : 'Mark complete'}
-          </button>
-        </div>
+        <button class="ghost" id="mark-complete">
+          ${storedCompletion[moduleId] ? 'Mark incomplete' : 'Mark complete'}
+        </button>
       </div>
       <div class="lesson-columns">
         <div>
@@ -243,7 +185,7 @@ const loadModule = async (moduleId, moduleTitle) => {
         </div>
         <div>
           <h4>Module content</h4>
-          <div class="accordion">${accordionMarkup}</div>
+          <pre>${content}</pre>
         </div>
       </div>
       <div class="quiz-panel">
@@ -273,8 +215,6 @@ const loadModule = async (moduleId, moduleTitle) => {
         score.textContent = `Score: ${results.correct} / ${results.total}`;
       });
     }
-
-    bindAccordion(lessonPreview);
   } catch (error) {
     lessonPreview.innerHTML = '<p class="muted">Unable to load module content. Make sure you are running a local server.</p>';
   }

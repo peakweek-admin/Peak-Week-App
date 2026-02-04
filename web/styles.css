@@ -8,7 +8,6 @@
   --border: #1f2937;
   --success: #22c55e;
   --danger: #f97316;
-  --shadow: rgba(15, 23, 42, 0.2);
 }
 
 :root.light {
@@ -21,7 +20,6 @@
   --border: #e2e8f0;
   --success: #16a34a;
   --danger: #ea580c;
-  --shadow: rgba(15, 23, 42, 0.08);
 }
 
 * {
@@ -49,7 +47,6 @@ body {
   justify-content: space-between;
   align-items: flex-start;
   gap: 24px;
-  animation: fadeIn 0.6s ease;
 }
 
 .eyebrow {
@@ -84,12 +81,6 @@ button {
   padding: 10px 18px;
   cursor: pointer;
   font-weight: 600;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-button:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 10px 20px var(--shadow);
 }
 
 button.ghost {
@@ -108,8 +99,7 @@ button.ghost {
   border: 1px solid var(--border);
   border-radius: 16px;
   padding: 20px;
-  box-shadow: 0 8px 24px var(--shadow);
-  animation: slideUp 0.6s ease;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.2);
 }
 
 .panel__header h2 {
@@ -133,12 +123,6 @@ button.ghost {
   background: rgba(15, 23, 42, 0.2);
   display: grid;
   gap: 8px;
-  transition: transform 0.2s ease, border-color 0.2s ease;
-}
-
-.module-card:hover {
-  transform: translateY(-2px);
-  border-color: var(--accent);
 }
 
 .module-card h3 {
@@ -187,12 +171,6 @@ button.ghost {
   gap: 16px;
 }
 
-.lesson-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
 .lesson-columns {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr);
@@ -215,55 +193,6 @@ button.ghost {
   padding: 12px;
   display: grid;
   gap: 6px;
-}
-
-.accordion {
-  display: grid;
-  gap: 12px;
-}
-
-.accordion-section {
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  overflow: hidden;
-  background: rgba(15, 23, 42, 0.2);
-}
-
-.accordion-toggle {
-  width: 100%;
-  background: transparent;
-  color: var(--text);
-  padding: 12px 16px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border: none;
-  border-bottom: 1px solid transparent;
-}
-
-.accordion-toggle:hover {
-  box-shadow: none;
-  transform: none;
-}
-
-.accordion-content {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.3s ease;
-  padding: 0 16px;
-}
-
-.accordion-section.open .accordion-content {
-  max-height: 1000px;
-  padding-bottom: 12px;
-}
-
-.accordion-section.open .chevron {
-  transform: rotate(180deg);
-}
-
-.chevron {
-  transition: transform 0.2s ease;
 }
 
 .quiz-panel {
@@ -316,26 +245,6 @@ button.ghost {
 code {
   font-family: "JetBrains Mono", "Fira Code", monospace;
   font-size: 0.9rem;
-}
-
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes slideUp {
-  from {
-    opacity: 0;
-    transform: translateY(12px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
 }
 
 @media (max-width: 900px) {
