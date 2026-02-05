@@ -1,3 +1,15 @@
+const MODULE_PATHS = {
+  'module-biomechanics': 'content/modules/01-biomechanics.md',
+  'module-hypertrophy': 'content/modules/02-hypertrophy.md',
+  'module-nutrition': 'content/modules/03-nutrition.md',
+  'module-recovery': 'content/modules/04-recovery.md',
+  'module-programming': 'content/modules/05-programming.md',
+  'module-anatomy': 'content/modules/06-anatomy.md',
+  'module-thermogenesis': 'content/modules/07-thermogenesis.md',
+  'module-recovery-monitoring': 'content/modules/08-recovery-monitoring.md',
+  'module-ergogenics': 'content/modules/09-ergogenics.md',
+};
+
 const moduleList = document.getElementById('module-list');
 const lessonPreview = document.getElementById('lesson-preview');
 const toggleThemeButton = document.getElementById('toggle-theme');
@@ -169,6 +181,90 @@ const evaluateQuiz = (container) => {
   return { correct, total: questions.length };
 };
 
+const escapeHtml = (text) =>
+  text
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;');
+
+const formatInline = (text) =>
+  text
+    .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.*?)\*/g, '<em>$1</em>')
+    .replace(/`(.*?)`/g, '<code>$1</code>');
+
+const markdownToHtml = (sectionBody) => {
+  const lines = sectionBody.split('\n');
+  const output = [];
+  let listOpen = false;
+
+  lines.forEach((line) => {
+    const trimmed = line.trim();
+
+    if (trimmed.startsWith('### ')) {
+      output.push(`<h4>${formatInline(escapeHtml(trimmed.slice(4)))}</h4>`);
+      return;
+    }
+
+    if (trimmed.startsWith('- ')) {
+      if (!listOpen) {
+        output.push('<ul>');
+        listOpen = true;
+      }
+      output.push(`<li>${formatInline(escapeHtml(trimmed.slice(2)))}</li>`);
+      return;
+    }
+
+    if (listOpen) {
+      output.push('</ul>');
+      listOpen = false;
+    }
+
+    if (trimmed.startsWith('>')) {
+      output.push(`<blockquote>${formatInline(escapeHtml(trimmed.slice(1).trim()))}</blockquote>`);
+      return;
+    }
+
+    if (trimmed === '') {
+      output.push('');
+      return;
+    }
+
+    output.push(`<p>${formatInline(escapeHtml(trimmed))}</p>`);
+  });
+
+  if (listOpen) {
+    output.push('</ul>');
+  }
+
+  return output.join('\n');
+};
+
+const renderContentSections = (content) => {
+  const sections = content.split('\n## ').map((section, index) => {
+    if (index === 0) {
+      return { title: null, body: section.trim() };
+    }
+    const [titleLine, ...rest] = section.split('\n');
+    return { title: titleLine.trim(), body: rest.join('\n').trim() };
+  });
+
+  return sections
+    .map((section) => {
+      if (!section.title) {
+        return `<div class="content-body">${markdownToHtml(section.body)}</div>`;
+      }
+
+      return `
+        <section class="content-section">
+          <h3>${section.title}</h3>
+          ${markdownToHtml(section.body)}
+        </section>
+      `;
+    })
+    .join('');
+};
+
 const removeQuizModal = () => {
   const existing = document.getElementById('quiz-modal');
   if (existing) {
@@ -237,13 +333,24 @@ const loadModule = async (module) => {
   }
 
   try {
-    const structureResponse = await fetch('../data/module-structure.json');
-    if (!structureResponse.ok) {
+    const path = MODULE_PATHS[module.id];
+    if (!path) {
+      lessonPreview.innerHTML = '<p class="muted">Module content not found.</p>';
+      return;
+    }
+
+    const [structureResponse, moduleResponse] = await Promise.all([
+      fetch('../data/module-structure.json'),
+      fetch(`../${path}`),
+    ]);
+
+    if (!structureResponse.ok || !moduleResponse.ok) {
       throw new Error('Unable to load module');
     }
 
     const structure = await structureResponse.json();
     const moduleStructure = structure[module.id];
+    const content = await moduleResponse.text();
 
     const lessonList = moduleStructure
       ? moduleStructure.lessons
@@ -259,25 +366,37 @@ const loadModule = async (module) => {
       : '<p class="muted">No lesson list available.</p>';
 
     const quiz = moduleStructure ? moduleStructure.quiz : [];
+    const contentMarkup = renderContentSections(content);
 
     lessonPreview.innerHTML = `
-      <div class="lesson-header">
-        <div>
-          <h3>${module.title}</h3>
-          <p class="muted">${module.summary}</p>
+      <article class="lesson-article">
+        <div class="lesson-header">
+          <div>
+            <h3>${module.title}</h3>
+            <p class="muted">${module.summary}</p>
+          </div>
+          <div class="lesson-actions">
+            <button class="ghost" id="mark-complete">
+              ${storedCompletion[module.id] ? 'Mark incomplete' : 'Mark complete'}
+            </button>
+          </div>
         </div>
-        <div class="lesson-actions">
-          <button class="ghost" id="mark-complete">
-            ${storedCompletion[module.id] ? 'Mark incomplete' : 'Mark complete'}
-          </button>
+        <section class="lesson-section">
+          <h4>Module outline</h4>
+          <div class="lesson-outline">
+            ${lessonList}
+          </div>
+        </section>
+        <section class="lesson-section lesson-section--content">
+          <h4>Module content</h4>
+          <div class="lesson-content">
+            ${contentMarkup}
+          </div>
+        </section>
+        <div class="lesson-actions lesson-actions--footer">
+          <button id="start-quiz">Start full-screen test</button>
         </div>
-      </div>
-      <div class="lesson-outline">
-        ${lessonList}
-      </div>
-      <div class="lesson-actions lesson-actions--footer">
-        <button id="start-quiz">Start full-screen test</button>
-      </div>
+      </article>
     `;
 
     const markButton = document.getElementById('mark-complete');
