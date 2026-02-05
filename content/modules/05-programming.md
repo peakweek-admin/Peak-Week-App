@@ -23,16 +23,16 @@ Programming is the bridge between science and results. This module explains how 
 
 ## Lesson 1: Progressive Overload Models
 
-**Core idea:** Overload can be load, volume, density, or range of motion.
+**Core idea:** Overload is best driven by load quality first, then the minimum volume needed for progress.
 
-- Load progression improves maximal strength.
-- Volume progression improves hypertrophy.
-- Density progression improves work capacity.
+- Heavy loading in the 4–8 rep range builds strength and size via high mechanical tension.
+- A small number of hard sets (often 2–4 per lift) can be sufficient when effort is high.
+- Extra sets are only useful when they improve outcomes more than they increase fatigue.
 
 **Practical applications**
-- Use double progression (increase reps, then load).
-- Track weekly volume per muscle group.
-- Increase one variable at a time.
+- Use double progression inside 4–8 reps (add reps, then add load).
+- Keep 1–3 reps in reserve on most sets; use failure selectively.
+- Add sets only after progression stalls for 1–2 weeks.
 
 ## Lesson 2: Periodization and Deloading
 
@@ -62,16 +62,16 @@ Programming is the bridge between science and results. This module explains how 
 
 ## Lesson 4: Volume Landmarks and Frequency
 
-**Core idea:** Minimum effective volume and maximum recoverable volume guide planning.
+**Core idea:** Frequency can replace excessive per-session volume.
 
-- MEV = minimum volume to grow.
-- MAV = most effective volume range.
-- MRV = maximum recoverable volume.
+- MEV is often lower than people think when loads are heavy and execution is consistent.
+- Spreading sets across the week (2–4 exposures per muscle) improves quality and reduces session fatigue.
+- MRV is individual; low-rep, moderate-set strategies often allow better long-term adherence.
 
 **Practical applications**
-- Start at MEV and ramp toward MAV.
-- If recovery drops, reduce volume before intensity.
-- Train lagging muscles more frequently.
+- Start with 2–3 hard sets per lift, repeated across multiple weekly sessions.
+- Keep most work in 4–8 reps for compounds; use moderate reps only where joints tolerate it better.
+- If recovery drops, cut sets first and maintain load/skill practice.
 
 ## Lesson 5: Session Design and Exercise Order
 
@@ -154,13 +154,23 @@ Exercise selection is specificity. The closer a movement is to your goal, the la
 
 ## Applications and Examples
 
-Programming starts with goal clarity. A strength block might emphasize heavy sets of 3–6 reps with longer rest periods, while a hypertrophy block might use 6–15 reps with shorter rest and more total volume. The key is that the weekly plan reinforces a single adaptation, rather than mixing conflicting signals.
+Programming starts with goal clarity, but strength and hypertrophy do not need to be separated into opposite methods. Current evidence indicates a wide effective rep range when sets are hard, and heavier work can provide equal hypertrophy with less session fatigue for many lifters. A practical default is 4–8 reps on primary lifts with longer rests, then only enough accessory work to support weak links.
 
 Exercise selection should follow biomechanics and fatigue tolerance. Use compound lifts for high stimulus per set, and isolation work for targeted volume. If a lift stalls, assess whether the limiting factor is technique, fatigue, or inadequate volume before changing the entire plan.
 
 Literature on periodization supports planned variability: intensity blocks, volume blocks, and deliberate deloads keep progress moving. Autoregulation—adjusting load based on daily readiness—keeps the plan realistic without abandoning structure.
 
-**Example application**
-- **Strength emphasis (4 days/week)** → squat/bench heavy day, deadlift/press heavy day, two lighter technique days.
-- **Hypertrophy emphasis** → 2–3 sessions per muscle, 12–18 weekly sets, mix of stable compounds and isolations.
-- **Plateau fix** → reduce volume for 1 week, then rebuild with a slightly higher volume baseline.
+Strength-biased blocks can be highly productive for size when sets are hard and effort is high. A few heavy sets in the 4–8 range can deliver substantial tension with less overall fatigue than frequent high-rep failure methods, especially for lifters who recover better from intensity than large set counts. Low-rep work also builds skill and neural efficiency, letting you handle heavier loading over time—one of the main drivers of long-term hypertrophy.
+
+Use personalization over prescription. Start with a minimal effective dose—often a few hard sets per lift—and only add volume when performance or hypertrophy stalls. If joints are cranky or recovery flags are rising, lean into lower reps and fewer sets to control fatigue while keeping overload intact.
+
+**Example application (low-rep, high-frequency model)**
+- **Day 1/3/5 Lower focus** → squat variation 2–3 sets of 4–8, hinge variation 2 sets of 4–8, one accessory 1–2 sets.
+- **Day 2/4/6 Upper focus** → press/pull compounds 2–3 sets each in 4–8, one isolation movement 1–2 sets.
+- **Plateau fix** → keep frequency, reduce 1 set per lift for 7–10 days, then resume progression at previous best load.
+
+## Evidence Notes (Reputable Sources Only)
+
+This module’s recommendations are grounded in peer-reviewed resistance-training literature and reputable evidence translators. Broadly, recent meta-analytic work supports hypertrophy across multiple rep ranges when sets are challenging, while strength gains remain load-specific and generally favor heavier training. The practical implication is that a low-rep (4–8), moderate-set, higher-frequency structure can be a high-value strategy for lifters prioritizing both size and strength with manageable fatigue.
+
+For implementation framing, TNF/Tnutritionfitness-style programming logic aligns with this: prioritize high-quality heavy sets, avoid unnecessary junk volume, distribute workload through the week, and personalize volume based on recovery and progression.

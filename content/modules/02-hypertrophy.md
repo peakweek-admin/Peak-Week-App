@@ -172,6 +172,10 @@ The simplest application is the “quality set” rule: chase hard sets in the 6
 
 Nutrition is the substrate for signal conversion. Aim for protein around 1.6–2.2 g/kg/day, spread across meals, and ensure a slight calorie surplus when growth is the priority. Carbs support training quality by restoring glycogen, and consistent energy availability helps keep the mTOR response robust over time.
 
+Evidence also supports lower-volume, higher-load approaches when effort is high and sets are close to failure. A small number of heavy sets can deliver large mechanical tension with less metabolic fatigue, and strength gains often translate into size gains because heavier loads make later hypertrophy work more productive. This is why a “few hard sets” model can be optimal for lifters who recover better from intensity than from very high volume. In practice, low-rep work (3–6 reps) can build strength while keeping fatigue manageable, and you can add a modest amount of back-off volume based on individual tolerance.
+
+The key is avoiding one-size-fits-all volume prescriptions. Some lifters grow best with fewer, heavier sets taken close to failure; others need more volume at moderate reps. Use performance trends, soreness, and readiness markers to choose the minimal effective dose. If strength is climbing and joints feel good, you are likely at or near an effective stimulus level even with lower volume.
+
 **Example application**
 - **Beginner hypertrophy block** → 3–4 exercises per session, 2–3 working sets each, 3–4 sessions/week.
 - **Intermediate** → 12–16 weekly sets per muscle, split across 2–3 days, with one heavy and one volume-focused day.
