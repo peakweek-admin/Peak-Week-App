@@ -1,0 +1,1202 @@
+{
+  "module-biomechanics": {
+    "lessons": [
+      {
+        "title": "Moment Arms and Torque Curves",
+        "summary": "How joint angles change torque demands and sticking points."
+      },
+      {
+        "title": "Lever Classes and Anthropometry",
+        "summary": "Why limb lengths and segment ratios change exercise difficulty."
+      },
+      {
+        "title": "Stability, Bracing, and Energy Transfer",
+        "summary": "How stabilizers keep force moving into the bar, not into wobble."
+      },
+      {
+        "title": "Range of Motion and Resistance Profiles",
+        "summary": "How ROM, tempo, and equipment shape mechanical tension."
+      },
+      {
+        "title": "Joint-Friendly Mechanics",
+        "summary": "Aligning force vectors to reduce joint stress while training hard."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What does a longer moment arm do to joint torque?",
+        "options": [
+          "Reduces torque",
+          "Increases torque",
+          "Has no effect",
+          "Eliminates sticking points"
+        ],
+        "answer": 1,
+        "explanation": "Torque is force multiplied by moment arm, so longer moment arms increase torque demand."
+      },
+      {
+        "question": "Why do sticking points often occur in a lift?",
+        "options": [
+          "The weight gets lighter",
+          "Torque demand exceeds muscular capacity at that angle",
+          "Grip strength is maximal",
+          "The bar path is always vertical"
+        ],
+        "answer": 1,
+        "explanation": "Sticking points happen when leverage is poor and torque demands peak at a joint angle."
+      },
+      {
+        "question": "How do machines often feel more hypertrophy-friendly?",
+        "options": [
+          "They reduce stabilization demands",
+          "They shorten range of motion",
+          "They lower mechanical tension",
+          "They reduce time under tension"
+        ],
+        "answer": 0,
+        "explanation": "Machines reduce stabilization costs, allowing more tension on the target muscle."
+      },
+      {
+        "question": "Which change typically increases hip involvement in a squat?",
+        "options": [
+          "Higher bar position",
+          "Lower bar position",
+          "Narrower stance",
+          "Heels elevated"
+        ],
+        "answer": 1,
+        "explanation": "A lower bar shifts the moment arm toward the hips, increasing posterior chain demand."
+      },
+      {
+        "question": "Why is full range of motion often linked to better hypertrophy?",
+        "options": [
+          "It always reduces fatigue",
+          "It maximizes length-tension stimulus",
+          "It eliminates torque",
+          "It shortens the muscle"
+        ],
+        "answer": 1,
+        "explanation": "Longer muscle lengths increase passive tension and mechanosensitive signaling."
+      },
+      {
+        "question": "What is the primary mechanical variable that changes across joint angles?",
+        "options": [
+          "Fascial density",
+          "Moment arm length",
+          "Protein intake",
+          "Heart rate"
+        ],
+        "answer": 1,
+        "explanation": "Moment arm length changes with joint angle, altering torque demands."
+      },
+      {
+        "question": "When stability demands rise, what usually happens to force output?",
+        "options": [
+          "It increases",
+          "It decreases",
+          "It stays constant",
+          "It becomes irrelevant"
+        ],
+        "answer": 1,
+        "explanation": "More neural effort is spent on stabilization, reducing force available for prime movers."
+      },
+      {
+        "question": "Why might a lifter choose partial reps?",
+        "options": [
+          "To target specific joint angles",
+          "To avoid any fatigue",
+          "To eliminate tension",
+          "To increase instability"
+        ],
+        "answer": 0,
+        "explanation": "Partials can overload specific positions where torque is highest or weakest."
+      },
+      {
+        "question": "Leverage is personal because it is most influenced by:",
+        "options": [
+          "Training age",
+          "Bone lengths and joint structure",
+          "Supplement timing",
+          "Sweat rate"
+        ],
+        "answer": 1,
+        "explanation": "Limb lengths and joint structure change moment arms and leverage."
+      },
+      {
+        "question": "What is the main goal of exercise selection in biomechanics?",
+        "options": [
+          "Maximize discomfort",
+          "Choose torque and length-tension profiles",
+          "Avoid overload",
+          "Remove all stabilization"
+        ],
+        "answer": 1,
+        "explanation": "Exercise selection is about selecting a torque and length-tension profile for the target muscle."
+      }
+    ]
+  },
+  "module-hypertrophy": {
+    "lessons": [
+      {
+        "title": "Mechanical Tension",
+        "summary": "Why tension is the primary hypertrophy signal."
+      },
+      {
+        "title": "Metabolic Stress",
+        "summary": "How metabolite buildup contributes to growth."
+      },
+      {
+        "title": "Muscle Damage",
+        "summary": "When damage helps and when it hurts recovery."
+      },
+      {
+        "title": "Satellite Cells",
+        "summary": "How myonuclei support long-term growth capacity."
+      },
+      {
+        "title": "Fiber Types",
+        "summary": "Matching rep ranges to fiber distributions."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is the primary driver of hypertrophy?",
+        "options": [
+          "Mechanical tension",
+          "Lactic acid",
+          "Cardio frequency",
+          "Stretch only"
+        ],
+        "answer": 0,
+        "explanation": "Mechanical tension is the main stimulus for muscle growth."
+      },
+      {
+        "question": "Which pathway is most associated with muscle protein synthesis?",
+        "options": [
+          "mTOR",
+          "Glycolysis",
+          "Cortisol",
+          "Serotonin"
+        ],
+        "answer": 0,
+        "explanation": "mTOR signaling is central to protein synthesis."
+      },
+      {
+        "question": "Why do satellite cells matter for long-term growth?",
+        "options": [
+          "They reduce soreness",
+          "They add myonuclei",
+          "They increase fat oxidation",
+          "They lower protein needs"
+        ],
+        "answer": 1,
+        "explanation": "Satellite cells donate nuclei, expanding muscle growth capacity."
+      },
+      {
+        "question": "What typically happens when fatigue gets too high?",
+        "options": [
+          "Quality sets increase",
+          "Quality sets decrease",
+          "Recovery speeds up",
+          "Volume becomes irrelevant"
+        ],
+        "answer": 1,
+        "explanation": "Excess fatigue reduces performance and effective volume."
+      },
+      {
+        "question": "A practical weekly volume target for many lifters is:",
+        "options": [
+          "2\u20134 sets per muscle",
+          "10\u201320 hard sets per muscle",
+          "40\u201360 sets per muscle",
+          "1 set per muscle"
+        ],
+        "answer": 1,
+        "explanation": "Evidence supports roughly 10\u201320 hard sets per muscle per week for growth."
+      },
+      {
+        "question": "Why is protein distribution across meals helpful?",
+        "options": [
+          "It lowers calories",
+          "It creates multiple synthesis spikes",
+          "It eliminates fatigue",
+          "It increases cortisol"
+        ],
+        "answer": 1,
+        "explanation": "Spreading protein intake promotes repeated MPS pulses."
+      },
+      {
+        "question": "Which rep range is commonly effective for hypertrophy?",
+        "options": [
+          "1\u20133 reps only",
+          "6\u201315 reps",
+          "30\u201350 reps only",
+          "Any reps regardless of effort"
+        ],
+        "answer": 1,
+        "explanation": "Moderate rep ranges with high effort and tension are effective."
+      },
+      {
+        "question": "Why does training frequency matter for hypertrophy?",
+        "options": [
+          "Signals are short-lived",
+          "It reduces recovery",
+          "It removes the need for protein",
+          "It guarantees strength gains"
+        ],
+        "answer": 0,
+        "explanation": "Hypertrophy signaling is transient, so more frequent stimuli can help."
+      },
+      {
+        "question": "What is the main role of recovery in hypertrophy?",
+        "options": [
+          "Prevent all soreness",
+          "Convert signal into tissue",
+          "Replace mechanical tension",
+          "Reduce protein synthesis"
+        ],
+        "answer": 1,
+        "explanation": "Recovery enables the remodeling that turns stimuli into growth."
+      },
+      {
+        "question": "Which combination best supports hypertrophy?",
+        "options": [
+          "High tension + adequate recovery",
+          "Low tension + high stress",
+          "Low volume + no protein",
+          "High cardio + no rest"
+        ],
+        "answer": 0,
+        "explanation": "Growth depends on sufficient tension paired with recovery."
+      }
+    ]
+  },
+  "module-nutrition": {
+    "lessons": [
+      {
+        "title": "Energy Balance and TDEE",
+        "summary": "How calories in/out set the foundation."
+      },
+      {
+        "title": "NEAT and Adaptive Behavior",
+        "summary": "Why activity drops during diets and how to counter it."
+      },
+      {
+        "title": "Macros for Training",
+        "summary": "Protein, carbs, and fats for performance."
+      },
+      {
+        "title": "Nutrient Timing",
+        "summary": "Planning meals around training windows."
+      },
+      {
+        "title": "Diet Periodization",
+        "summary": "Surplus, maintenance, and deficit cycles."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What determines whether you gain or lose weight over time?",
+        "options": [
+          "Energy balance",
+          "Meal timing only",
+          "Supplement brands",
+          "Workout split"
+        ],
+        "answer": 0,
+        "explanation": "Net energy balance drives weight change."
+      },
+      {
+        "question": "NEAT refers to:",
+        "options": [
+          "Non-exercise activity thermogenesis",
+          "Nighttime eating and training",
+          "New energy adaptation threshold",
+          "Nutrient efficiency after training"
+        ],
+        "answer": 0,
+        "explanation": "NEAT is the calories burned from daily activity outside formal exercise."
+      },
+      {
+        "question": "Why do diet plateaus often happen?",
+        "options": [
+          "Protein intake rises",
+          "Energy expenditure drops with adaptation",
+          "Training volume doubles",
+          "Muscle mass spikes"
+        ],
+        "answer": 1,
+        "explanation": "Adaptive metabolism reduces expenditure during sustained deficits."
+      },
+      {
+        "question": "What is a common protein target for hypertrophy?",
+        "options": [
+          "0.5 g/kg",
+          "1.6\u20132.2 g/kg",
+          "3.5 g/kg",
+          "Any amount"
+        ],
+        "answer": 1,
+        "explanation": "Research supports 1.6\u20132.2 g/kg for lean mass goals."
+      },
+      {
+        "question": "Why are carbs important for training output?",
+        "options": [
+          "They lower sleep quality",
+          "They replenish glycogen",
+          "They reduce protein needs",
+          "They reduce tension"
+        ],
+        "answer": 1,
+        "explanation": "Carbs restore glycogen that fuels high-intensity training."
+      },
+      {
+        "question": "What is the thermic effect of food (TEF)?",
+        "options": [
+          "Calories burned digesting food",
+          "Calories burned during sleep",
+          "Calories burned from supplements",
+          "Calories stored in fat"
+        ],
+        "answer": 0,
+        "explanation": "TEF is the energy cost of digestion and processing."
+      },
+      {
+        "question": "A sustainable surplus for lean gains is often:",
+        "options": [
+          "1000+ calories",
+          "200\u2013300 calories",
+          "Zero calories",
+          "As high as possible"
+        ],
+        "answer": 1,
+        "explanation": "Small surpluses support growth without excessive fat gain."
+      },
+      {
+        "question": "Why do diet breaks help?",
+        "options": [
+          "They eliminate all fat gain",
+          "They reverse adaptive suppression",
+          "They replace training",
+          "They lower NEAT"
+        ],
+        "answer": 1,
+        "explanation": "Returning to maintenance can restore hormones, NEAT, and training output."
+      },
+      {
+        "question": "Which approach helps maximize muscle retention in a cut?",
+        "options": [
+          "Lower protein",
+          "High protein and training",
+          "Eliminate carbs entirely",
+          "Stop lifting"
+        ],
+        "answer": 1,
+        "explanation": "Protein and resistance training preserve lean mass in deficits."
+      },
+      {
+        "question": "Why spread protein across meals?",
+        "options": [
+          "It reduces TEF",
+          "It creates multiple MPS spikes",
+          "It lowers appetite only",
+          "It prevents glycogen use"
+        ],
+        "answer": 1,
+        "explanation": "Multiple protein doses stimulate synthesis throughout the day."
+      }
+    ]
+  },
+  "module-recovery": {
+    "lessons": [
+      {
+        "title": "Sleep Architecture",
+        "summary": "How sleep stages impact recovery and hormones."
+      },
+      {
+        "title": "Hormonal Balance",
+        "summary": "Acute spikes vs long-term recovery signals."
+      },
+      {
+        "title": "Stress and CNS Fatigue",
+        "summary": "Why chronic stress can block progress."
+      },
+      {
+        "title": "Recovery Habits",
+        "summary": "Building a layered recovery system."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which sleep stage is most linked to physical recovery?",
+        "options": [
+          "Deep sleep",
+          "Light sleep",
+          "REM only",
+          "No sleep"
+        ],
+        "answer": 0,
+        "explanation": "Deep sleep supports growth hormone release and tissue repair."
+      },
+      {
+        "question": "Chronic stress tends to:",
+        "options": [
+          "Increase recovery capacity",
+          "Shift toward sympathetic dominance",
+          "Improve HRV",
+          "Reduce cortisol"
+        ],
+        "answer": 1,
+        "explanation": "Stress elevates sympathetic activity and suppresses recovery signals."
+      },
+      {
+        "question": "What happens when sleep debt accumulates?",
+        "options": [
+          "Performance improves",
+          "Reaction time and recovery decline",
+          "Cortisol drops",
+          "Training volume becomes easier"
+        ],
+        "answer": 1,
+        "explanation": "Sleep debt reduces performance and recovery capacity."
+      },
+      {
+        "question": "Which recovery factor is considered non-negotiable?",
+        "options": [
+          "Ice baths",
+          "Sleep",
+          "Massage guns",
+          "Compression sleeves"
+        ],
+        "answer": 1,
+        "explanation": "Sleep is foundational and has the largest impact on recovery."
+      },
+      {
+        "question": "When should recovery modalities be emphasized?",
+        "options": [
+          "Before sleep, nutrition, workload",
+          "After the fundamentals are solid",
+          "Instead of deloads",
+          "Only in beginners"
+        ],
+        "answer": 1,
+        "explanation": "Modalities are multipliers, not replacements for basics."
+      },
+      {
+        "question": "What is a common indicator of recovery strain?",
+        "options": [
+          "Higher HRV",
+          "Suppressed HRV",
+          "Lower resting heart rate",
+          "Better mood"
+        ],
+        "answer": 1,
+        "explanation": "Suppressed HRV and elevated resting HR indicate stress."
+      },
+      {
+        "question": "A deload is primarily used to:",
+        "options": [
+          "Increase fatigue",
+          "Reduce accumulated fatigue",
+          "Eliminate technique practice",
+          "Stop training"
+        ],
+        "answer": 1,
+        "explanation": "Deloads lower fatigue while keeping movement patterns."
+      },
+      {
+        "question": "Which habit best supports sleep quality?",
+        "options": [
+          "Late caffeine",
+          "Consistent sleep schedule",
+          "Irregular bedtime",
+          "Heavy training right before bed"
+        ],
+        "answer": 1,
+        "explanation": "Consistency improves circadian rhythm and sleep quality."
+      },
+      {
+        "question": "How should training change during high-stress weeks?",
+        "options": [
+          "Increase volume",
+          "Reduce volume slightly",
+          "Add more HIIT",
+          "Ignore stress"
+        ],
+        "answer": 1,
+        "explanation": "Reducing volume helps match training stress to recovery capacity."
+      },
+      {
+        "question": "Why is recovery called the difference between stimulus and adaptation?",
+        "options": [
+          "It reduces effort",
+          "It converts signals into tissue",
+          "It removes tension",
+          "It replaces nutrition"
+        ],
+        "answer": 1,
+        "explanation": "Recovery is where remodeling and adaptation occur."
+      }
+    ]
+  },
+  "module-programming": {
+    "lessons": [
+      {
+        "title": "Progressive Overload",
+        "summary": "How to systematically increase training stress."
+      },
+      {
+        "title": "Volume Landmarks",
+        "summary": "MEV, MAV, and MRV explained."
+      },
+      {
+        "title": "Periodization",
+        "summary": "Planning blocks for long-term results."
+      },
+      {
+        "title": "Exercise Selection",
+        "summary": "Choosing movements based on biomechanics."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "What is progressive overload?",
+        "options": [
+          "Doing the same work forever",
+          "Gradually increasing training demand",
+          "Avoiding heavy loads",
+          "Only adding exercises"
+        ],
+        "answer": 1,
+        "explanation": "Progressive overload increases demands to drive adaptation."
+      },
+      {
+        "question": "Which variable most directly drives strength?",
+        "options": [
+          "High reps only",
+          "High intensity loads",
+          "Low protein",
+          "Random exercise selection"
+        ],
+        "answer": 1,
+        "explanation": "Heavier loads improve neural efficiency and strength."
+      },
+      {
+        "question": "Why is periodization useful?",
+        "options": [
+          "It removes the need for deloads",
+          "It manages fatigue and adaptation",
+          "It eliminates volume",
+          "It avoids specificity"
+        ],
+        "answer": 1,
+        "explanation": "Periodization balances stress and recovery across blocks."
+      },
+      {
+        "question": "Autoregulation means:",
+        "options": [
+          "Never adjusting loads",
+          "Adjusting training based on readiness",
+          "Only maxing out",
+          "Ignoring fatigue"
+        ],
+        "answer": 1,
+        "explanation": "Autoregulation adapts load based on performance and readiness."
+      },
+      {
+        "question": "Deloads are primarily used to:",
+        "options": [
+          "Spike volume",
+          "Restore performance",
+          "Eliminate technique work",
+          "Increase injury risk"
+        ],
+        "answer": 1,
+        "explanation": "Deloads reduce fatigue and restore performance."
+      },
+      {
+        "question": "Specificity means:",
+        "options": [
+          "Any exercise works equally",
+          "Training should resemble the goal",
+          "Avoid heavy training",
+          "Only using machines"
+        ],
+        "answer": 1,
+        "explanation": "Adaptations are specific to the stimulus applied."
+      },
+      {
+        "question": "What is a practical hypertrophy set target?",
+        "options": [
+          "1\u20133 sets/week",
+          "12\u201318 sets/week",
+          "40\u201360 sets/week",
+          "0 sets/week"
+        ],
+        "answer": 1,
+        "explanation": "Moderate weekly volume supports hypertrophy for many lifters."
+      },
+      {
+        "question": "Why does frequency matter?",
+        "options": [
+          "Signals are short-lived",
+          "It lowers recovery needs",
+          "It removes technique",
+          "It eliminates fatigue"
+        ],
+        "answer": 0,
+        "explanation": "More sessions can provide more frequent growth signals."
+      },
+      {
+        "question": "What should you do when a lift stalls?",
+        "options": [
+          "Always add more volume",
+          "Evaluate technique, fatigue, and volume",
+          "Stop training",
+          "Ignore it"
+        ],
+        "answer": 1,
+        "explanation": "Stalls require diagnosing the limiting factor before changing the plan."
+      },
+      {
+        "question": "Which variable best aligns with hypertrophy goals?",
+        "options": [
+          "Consistent tension and manageable fatigue",
+          "Max singles only",
+          "Random exercise changes",
+          "No rest days"
+        ],
+        "answer": 0,
+        "explanation": "Hypertrophy benefits from repeated high-tension sets with recoverable fatigue."
+      }
+    ]
+  },
+  "module-anatomy": {
+    "lessons": [
+      {
+        "title": "Joint Anatomy",
+        "summary": "Constraints and safe loading angles."
+      },
+      {
+        "title": "Muscle Actions",
+        "summary": "Prime movers vs stabilizers."
+      },
+      {
+        "title": "Fascial Lines",
+        "summary": "How force transfers across the body."
+      },
+      {
+        "title": "Movement Screening",
+        "summary": "Finding limitations and selecting regressions."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which joint type is designed for stability?",
+        "options": [
+          "Ball-and-socket",
+          "Hinge",
+          "Saddle",
+          "Planar"
+        ],
+        "answer": 1,
+        "explanation": "Hinge joints like the knee prioritize stability over rotation."
+      },
+      {
+        "question": "What is the role of stabilizers?",
+        "options": [
+          "Provide prime force",
+          "Keep joints aligned",
+          "Replace mobility",
+          "Increase heart rate"
+        ],
+        "answer": 1,
+        "explanation": "Stabilizers keep joints aligned so prime movers can express force."
+      },
+      {
+        "question": "Why does individual anatomy affect exercise choice?",
+        "options": [
+          "It changes recovery time",
+          "It changes safe range and leverage",
+          "It changes protein needs",
+          "It removes biomechanics"
+        ],
+        "answer": 1,
+        "explanation": "Bone structure and joint orientation change safe ROM and leverage."
+      },
+      {
+        "question": "What do fascial lines help coordinate?",
+        "options": [
+          "Force transfer",
+          "Sleep quality",
+          "Protein intake",
+          "Water loss"
+        ],
+        "answer": 0,
+        "explanation": "Fascial lines link regions for force transfer across the body."
+      },
+      {
+        "question": "A neutral grip press can help when:",
+        "options": [
+          "Shoulders are irritated",
+          "Knees are sore",
+          "Ankles are stiff",
+          "Back is tight"
+        ],
+        "answer": 0,
+        "explanation": "Neutral grips often reduce shoulder strain."
+      },
+      {
+        "question": "Why is scapular control important in pressing?",
+        "options": [
+          "It reduces grip strength",
+          "It stabilizes the shoulder",
+          "It lowers tension",
+          "It increases fatigue"
+        ],
+        "answer": 1,
+        "explanation": "Scapular stability protects the shoulder and improves force transfer."
+      },
+      {
+        "question": "What is a common sign of limited hip anatomy in squats?",
+        "options": [
+          "Pain-free depth",
+          "Butt wink or pinch at depth",
+          "Improved balance",
+          "Higher speed"
+        ],
+        "answer": 1,
+        "explanation": "Hip impingement or pelvis tucking can indicate structural limits."
+      },
+      {
+        "question": "Which approach best respects joint structure?",
+        "options": [
+          "Force end-range rotation",
+          "Use variations that feel stable",
+          "Ignore pain",
+          "Remove warmups"
+        ],
+        "answer": 1,
+        "explanation": "Selecting stable variations respects joint anatomy."
+      },
+      {
+        "question": "What is the goal of movement screening?",
+        "options": [
+          "Diagnose injuries",
+          "Guide exercise selection",
+          "Eliminate all asymmetry",
+          "Replace coaching"
+        ],
+        "answer": 1,
+        "explanation": "Screening helps choose safer, more effective variations."
+      },
+      {
+        "question": "Why is core stability essential for heavy lifts?",
+        "options": [
+          "It replaces leg strength",
+          "It transmits force safely",
+          "It lowers breathing",
+          "It reduces leverage"
+        ],
+        "answer": 1,
+        "explanation": "A stable core improves force transfer and reduces injury risk."
+      }
+    ]
+  },
+  "module-thermogenesis": {
+    "lessons": [
+      {
+        "title": "ATP Systems",
+        "summary": "Energy systems for different training styles."
+      },
+      {
+        "title": "Thermic Effect of Food",
+        "summary": "Why protein burns more calories to digest."
+      },
+      {
+        "title": "Adaptive Metabolism",
+        "summary": "Why metabolism slows in long deficits."
+      },
+      {
+        "title": "Metabolic Flexibility",
+        "summary": "Switching between carbs and fat efficiently."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which component of expenditure is most variable day to day?",
+        "options": [
+          "RMR",
+          "NEAT",
+          "TEF",
+          "Sleep"
+        ],
+        "answer": 1,
+        "explanation": "NEAT fluctuates widely and drives large changes in expenditure."
+      },
+      {
+        "question": "What is adaptive metabolism?",
+        "options": [
+          "A permanent rise in RMR",
+          "A reduction in expenditure during deficits",
+          "A supplement effect",
+          "A new exercise program"
+        ],
+        "answer": 1,
+        "explanation": "Adaptive metabolism lowers expenditure when intake stays low."
+      },
+      {
+        "question": "Which macronutrient has the highest thermic effect?",
+        "options": [
+          "Fat",
+          "Carbohydrate",
+          "Protein",
+          "Alcohol"
+        ],
+        "answer": 2,
+        "explanation": "Protein has the highest TEF."
+      },
+      {
+        "question": "What is a practical way to preserve NEAT during a diet?",
+        "options": [
+          "Stop walking",
+          "Set step targets",
+          "Remove carbs",
+          "Skip sleep"
+        ],
+        "answer": 1,
+        "explanation": "Step goals keep daily activity consistent."
+      },
+      {
+        "question": "What is the main fuel system for short, maximal efforts?",
+        "options": [
+          "Phosphagen (ATP-PC)",
+          "Oxidative",
+          "Aerobic only",
+          "Fat oxidation"
+        ],
+        "answer": 0,
+        "explanation": "The phosphagen system powers very short, maximal efforts."
+      },
+      {
+        "question": "Why can diet breaks improve adherence?",
+        "options": [
+          "They eliminate training",
+          "They restore hormones and energy",
+          "They reduce sleep",
+          "They increase fatigue"
+        ],
+        "answer": 1,
+        "explanation": "Maintenance phases can restore leptin, performance, and morale."
+      },
+      {
+        "question": "Fuel partitioning improves with:",
+        "options": [
+          "Poor sleep",
+          "Resistance training",
+          "No protein",
+          "High stress"
+        ],
+        "answer": 1,
+        "explanation": "Resistance training shifts nutrients toward muscle."
+      },
+      {
+        "question": "Which sign suggests adaptive suppression?",
+        "options": [
+          "Rising energy",
+          "Declining performance and rising hunger",
+          "Better sleep",
+          "Increasing NEAT"
+        ],
+        "answer": 1,
+        "explanation": "Lower performance and higher hunger signal adaptation."
+      },
+      {
+        "question": "What is RMR?",
+        "options": [
+          "Resting metabolic rate",
+          "Resistance muscle ratio",
+          "Recovery movement routine",
+          "Rapid muscle recovery"
+        ],
+        "answer": 0,
+        "explanation": "RMR is the energy burned at rest."
+      },
+      {
+        "question": "Why does sleep affect partitioning?",
+        "options": [
+          "It lowers protein needs",
+          "It improves nutrient use",
+          "It eliminates fat loss",
+          "It prevents glycogen storage"
+        ],
+        "answer": 1,
+        "explanation": "Better recovery improves how nutrients are utilized."
+      }
+    ]
+  },
+  "module-recovery-monitoring": {
+    "lessons": [
+      {
+        "title": "Readiness Metrics",
+        "summary": "HRV, resting heart rate, and subjective readiness."
+      },
+      {
+        "title": "Load Management",
+        "summary": "Balancing acute and chronic workload."
+      },
+      {
+        "title": "Deloads and Tapers",
+        "summary": "Strategic recovery periods."
+      },
+      {
+        "title": "Recovery Interventions",
+        "summary": "Tools that support, not replace, fundamentals."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "HRV is best interpreted as:",
+        "options": [
+          "A single-day verdict",
+          "A trend over time",
+          "A strength score",
+          "A nutrition metric"
+        ],
+        "answer": 1,
+        "explanation": "Trends matter more than single measurements."
+      },
+      {
+        "question": "Rising resting heart rate often indicates:",
+        "options": [
+          "Better recovery",
+          "Accumulated fatigue or stress",
+          "Improved sleep",
+          "Higher strength"
+        ],
+        "answer": 1,
+        "explanation": "Elevated resting HR can signal stress or fatigue."
+      },
+      {
+        "question": "Acute:chronic workload ratios matter because:",
+        "options": [
+          "They prevent deloads",
+          "Sudden spikes raise injury risk",
+          "They remove fatigue",
+          "They increase strength instantly"
+        ],
+        "answer": 1,
+        "explanation": "Rapid workload spikes increase injury risk and fatigue."
+      },
+      {
+        "question": "What is a deload intended to do?",
+        "options": [
+          "Add volume",
+          "Reduce fatigue while keeping skills",
+          "Replace training",
+          "Eliminate technique work"
+        ],
+        "answer": 1,
+        "explanation": "Deloads reduce fatigue while retaining movement patterns."
+      },
+      {
+        "question": "Why combine subjective and objective metrics?",
+        "options": [
+          "They always disagree",
+          "They provide context and confirmation",
+          "They replace sleep",
+          "They remove nutrition needs"
+        ],
+        "answer": 1,
+        "explanation": "Multiple inputs give a clearer recovery picture."
+      },
+      {
+        "question": "What should you do with one low-readiness day?",
+        "options": [
+          "Cancel the program",
+          "Make small adjustments",
+          "Max out to test",
+          "Ignore sleep"
+        ],
+        "answer": 1,
+        "explanation": "Use small adjustments unless multiple markers trend down."
+      },
+      {
+        "question": "A taper before competition usually means:",
+        "options": [
+          "Increase volume",
+          "Reduce volume but keep intensity",
+          "Stop lifting",
+          "Only cardio"
+        ],
+        "answer": 1,
+        "explanation": "Tapers cut volume to shed fatigue while keeping intensity."
+      },
+      {
+        "question": "Which combo most strongly suggests recovery strain?",
+        "options": [
+          "High HRV + good sleep",
+          "Low HRV + high RHR + high perceived effort",
+          "Stable HRV + high motivation",
+          "Low RHR + good mood"
+        ],
+        "answer": 1,
+        "explanation": "Multiple negative markers together indicate strain."
+      },
+      {
+        "question": "Why should load increases be gradual?",
+        "options": [
+          "To reduce adaptation",
+          "To avoid sudden spikes",
+          "To avoid specificity",
+          "To reduce muscle mass"
+        ],
+        "answer": 1,
+        "explanation": "Gradual changes prevent injuries and overload."
+      },
+      {
+        "question": "What is the main value of monitoring?",
+        "options": [
+          "Replace programming",
+          "Inform decisions",
+          "Eliminate fatigue",
+          "Predict exact outcomes"
+        ],
+        "answer": 1,
+        "explanation": "Monitoring informs smart adjustments without guesswork."
+      }
+    ]
+  },
+  "module-ergogenics": {
+    "lessons": [
+      {
+        "title": "Evidence Tiers",
+        "summary": "How to evaluate supplement research."
+      },
+      {
+        "title": "Core Supplements",
+        "summary": "Creatine, caffeine, and performance aids."
+      },
+      {
+        "title": "Micronutrients",
+        "summary": "Fixing deficiencies for performance gains."
+      },
+      {
+        "title": "Safety and Purity",
+        "summary": "Avoiding contamination and overuse."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "Which supplement has the strongest evidence for strength?",
+        "options": [
+          "Creatine",
+          "Vitamin C",
+          "Detox tea",
+          "Fish oil only"
+        ],
+        "answer": 0,
+        "explanation": "Creatine consistently improves strength and power."
+      },
+      {
+        "question": "Caffeine improves performance primarily by:",
+        "options": [
+          "Increasing adenosine receptor activity",
+          "Blocking adenosine receptors",
+          "Reducing ATP production",
+          "Lowering alertness"
+        ],
+        "answer": 1,
+        "explanation": "Caffeine blocks adenosine receptors, increasing alertness."
+      },
+      {
+        "question": "Why is third-party testing important?",
+        "options": [
+          "It increases absorption",
+          "It reduces contamination risk",
+          "It lowers calories",
+          "It improves taste"
+        ],
+        "answer": 1,
+        "explanation": "Independent testing verifies purity and avoids contaminants."
+      },
+      {
+        "question": "What is a typical creatine dose?",
+        "options": [
+          "0.5 g/day",
+          "3\u20135 g/day",
+          "20 g/day forever",
+          "50 g/day"
+        ],
+        "answer": 1,
+        "explanation": "Most evidence supports 3\u20135 g/day."
+      },
+      {
+        "question": "Why should supplement decisions be evidence-based?",
+        "options": [
+          "Marketing is always right",
+          "Effect size and safety matter",
+          "Placebo is enough",
+          "It reduces training"
+        ],
+        "answer": 1,
+        "explanation": "Repeatable evidence helps prioritize effective, safe choices."
+      },
+      {
+        "question": "Beta-alanine primarily supports:",
+        "options": [
+          "Very short sprints",
+          "Moderate-duration high-intensity efforts",
+          "Sleep quality",
+          "Joint mobility"
+        ],
+        "answer": 1,
+        "explanation": "Beta-alanine buffers acidity in sustained high-intensity efforts."
+      },
+      {
+        "question": "Nitrates are most associated with:",
+        "options": [
+          "Improved blood flow",
+          "Reduced protein needs",
+          "Lower glycogen",
+          "Poor endurance"
+        ],
+        "answer": 0,
+        "explanation": "Dietary nitrates can improve nitric oxide and blood flow."
+      },
+      {
+        "question": "Why can high-dose stimulants be risky?",
+        "options": [
+          "They improve sleep",
+          "They disrupt sleep and recovery",
+          "They remove fatigue",
+          "They increase hydration"
+        ],
+        "answer": 1,
+        "explanation": "Sleep disruption can outweigh performance benefits."
+      },
+      {
+        "question": "What is the best way to evaluate a new supplement?",
+        "options": [
+          "Add many at once",
+          "Introduce one and track outcomes",
+          "Ignore side effects",
+          "Copy social media stacks"
+        ],
+        "answer": 1,
+        "explanation": "One change at a time allows clear evaluation."
+      },
+      {
+        "question": "When should micronutrient supplements be used?",
+        "options": [
+          "Always",
+          "When deficiency is likely or confirmed",
+          "Only during bulks",
+          "Only during cuts"
+        ],
+        "answer": 1,
+        "explanation": "Targeted supplementation is best when deficiency is present."
+      }
+    ]
+  }
+}
