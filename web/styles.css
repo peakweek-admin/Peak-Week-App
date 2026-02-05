@@ -35,6 +35,50 @@ body {
   line-height: 1.7;
 }
 
+.dark body {
+  background: #303030;
+  color: #ffffff;
+}
+
+.dark .panel__header p,
+.dark .subhead,
+.dark .module-meta,
+.dark .module-menu-meta,
+.dark .muted {
+  color: #d1d1d1;
+}
+
+.dark .module-card,
+.dark .module-menu-panel,
+.dark .lesson-preview,
+.dark .lesson-section--content,
+.dark .quiz-modal__panel,
+.dark .outline-card {
+  background: #1f1f1f;
+  border-color: #3b3b3b;
+  color: #ffffff;
+}
+
+.dark .outline-card:nth-child(4n + 1),
+.dark .outline-card:nth-child(4n + 2),
+.dark .outline-card:nth-child(4n + 3),
+.dark .outline-card:nth-child(4n + 4) {
+  background: #262626;
+}
+
+.dark button.ghost {
+  color: #ffffff;
+  border-color: #3b3b3b;
+}
+
+.dark .brand-logo--primary {
+  filter: brightness(1.1);
+}
+
+.dark .brand-logo--white {
+  display: block;
+}
+
 .app {
   max-width: 72rem;
   margin: 0 auto;
@@ -59,6 +103,19 @@ body {
 .logo {
   height: 3rem;
   transition: transform 0.3s ease;
+}
+
+.logo--white {
+  display: none;
+}
+
+.dark .logo--primary {
+  display: none;
+}
+
+.dark .logo--white {
+  display: block;
+  filter: brightness(1.1);
 }
 
 .logo:hover {
@@ -263,6 +320,32 @@ button.ghost {
   border: 1px solid var(--border);
   padding: 2rem;
   box-shadow: 0 20px 45px -35px rgba(15, 23, 42, 0.4);
+}
+
+.brand-logos {
+  display: flex;
+  justify-content: center;
+}
+
+.brand-logos__grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-logo {
+  height: 3rem;
+  transition: transform 0.3s ease;
+}
+
+.brand-logo:hover {
+  transform: scale(1.05);
+}
+
+.brand-logo--white {
+  display: none;
 }
 
 .lesson-article {

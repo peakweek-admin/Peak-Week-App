@@ -23,18 +23,20 @@ const completionKey = 'peak-week-completions';
 const storedCompletion = JSON.parse(localStorage.getItem(completionKey) || '{}');
 
 const applyTheme = (theme) => {
-  document.documentElement.classList.toggle('light', theme === 'light');
+  document.documentElement.classList.toggle('dark', theme === 'dark');
   localStorage.setItem('theme', theme);
 };
 
 const storedTheme = localStorage.getItem('theme');
 if (storedTheme) {
   applyTheme(storedTheme);
+} else {
+  applyTheme('light');
 }
 
 toggleThemeButton.addEventListener('click', () => {
-  const isLight = document.documentElement.classList.contains('light');
-  applyTheme(isLight ? 'dark' : 'light');
+  const isDark = document.documentElement.classList.contains('dark');
+  applyTheme(isDark ? 'light' : 'dark');
 });
 
 const saveCompletion = (moduleId, isComplete) => {
@@ -193,6 +195,17 @@ const formatInline = (text) =>
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
     .replace(/`(.*?)`/g, '<code>$1</code>');
 
+const stripFrontmatter = (content) => {
+  if (!content.startsWith('---')) {
+    return content;
+  }
+  const endIndex = content.indexOf('\n---', 3);
+  if (endIndex === -1) {
+    return content;
+  }
+  return content.slice(endIndex + 4).trimStart();
+};
+
 const markdownToHtml = (sectionBody) => {
   const lines = sectionBody.split('\n');
   const output = [];
@@ -241,7 +254,8 @@ const markdownToHtml = (sectionBody) => {
 };
 
 const renderContentSections = (content) => {
-  const sections = content.split('\n## ').map((section, index) => {
+  const cleanedContent = stripFrontmatter(content);
+  const sections = cleanedContent.split('\n## ').map((section, index) => {
     if (index === 0) {
       return { title: null, body: section.trim() };
     }
