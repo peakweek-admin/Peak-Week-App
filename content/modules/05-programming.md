@@ -174,3 +174,150 @@ Use personalization over prescription. Start with a minimal effective dose—oft
 This module’s recommendations are grounded in peer-reviewed resistance-training literature and reputable evidence translators. Broadly, recent meta-analytic work supports hypertrophy across multiple rep ranges when sets are challenging, while strength gains remain load-specific and generally favor heavier training. The practical implication is that a low-rep (4–8), moderate-set, higher-frequency structure can be a high-value strategy for lifters prioritizing both size and strength with manageable fatigue.
 
 For implementation framing, TNF/Tnutritionfitness-style programming logic aligns with this: prioritize high-quality heavy sets, avoid unnecessary junk volume, distribute workload through the week, and personalize volume based on recovery and progression.
+
+
+## Advanced Principles: Stimulus-to-Fatigue Ratio (SFR)
+
+A core programming goal is maximizing **stimulus per unit of fatigue**. In practical terms, the “best” exercise is not always the one that allows the most load; it is often the one that gives the target muscle the most productive tension with the least unnecessary systemic and joint cost.
+
+- Stable setups usually improve local output by reducing balance demands.
+- Heavy compounds are excellent, but the best variation is the one you can progress with high quality and repeatability.
+- If two exercises grow a muscle similarly, prefer the one that leaves you fresher for the rest of the week.
+
+This is why many lifters can thrive on a lower-volume approach: fewer hard sets, better execution, and more weekly exposures. You are not avoiding hard work—you are allocating hard work where it has the highest return.
+
+## Rep Ranges, Strength, and Hypertrophy: A Nuanced Model
+
+The evidence and practical coaching both support that multiple rep ranges can build muscle when sets are sufficiently hard. The distinction is not “high reps build size and low reps build only strength.” Instead:
+
+- **4–8 reps**: high tension, strong strength carryover, often lower per-rep metabolic fatigue.
+- **8–15 reps**: excellent hypertrophy zone with somewhat easier execution for many accessories.
+- **15+ reps**: can still build muscle, but local burn and discomfort may become limiting before target tension quality remains high.
+
+For many lifters trying to balance physique and performance, a strong default is:
+
+- Primary compounds mostly in **4–8 reps**.
+- Accessories in moderate reps as needed for joint comfort and targeted tissue work.
+- Failure used selectively, not as the default on every set.
+
+## Frequency as a Fatigue-Management Tool
+
+Higher frequency is not automatically “more volume.” It can be a way to distribute quality work.
+
+- Two to four exposures per muscle per week often improves set quality.
+- Splitting work across days can reduce session-level fatigue spikes.
+- You can often do fewer sets per session, perform them harder, and recover better.
+
+A practical pattern for many advanced trainees is 2–3 hard sets per main lift, repeated across multiple days, instead of marathon sessions with many sets taken deep into failure.
+
+## Exercise Selection: Stable When You Need Output, Free When You Need Skill
+
+Exercise choice should solve a specific problem:
+
+- Need maximal skill transfer to a competition or movement task? Include free-weight patterns.
+- Need the highest local hypertrophy stimulus with minimal technical noise? Use stable machine/cable options.
+- Need both? Use compounds first, then stable accessories to finish targeted tissues.
+
+This is not dogma. It is context-based programming. A movement is only “bad” if it is mismatched to your current objective, structure, or fatigue budget.
+
+## Applied Examples (Arms, Chest, Legs)
+
+### Arms
+
+A highly effective arm strategy is not endless variation. It is a small menu of stable patterns progressed over time:
+
+- Biceps: stable curl pattern with consistent tension profile.
+- Triceps: extension pattern plus one pressing pattern for complementary long-head and global triceps stimulus.
+- Delts: stable lateral and rear-delt patterns that keep tension where you want it.
+
+Progression beats novelty. Variety should have purpose (joint tolerance, plateau management, or a clear mechanical benefit), not variety for its own sake.
+
+### Chest
+
+You can build a high-level chest with presses, flies, or both. The key is matching execution and stability to your goal:
+
+- Keep quality tension in productive ranges; do not force non-productive lockout grind if it shifts demand away from target tissue.
+- Use incline/flat/decline angles as bias tools, not as separate-muscle mythology.
+- If a pressing pattern is triceps-dominant for your structure, include more chest-biased stable work while retaining enough pressing to keep strength progressing.
+
+### Legs
+
+Leg training is where fatigue management matters most due to total tissue demand:
+
+- Use stable squat/press and curl patterns to drive output without wasting focus.
+- Keep quad, adductor, hamstring, and glute work represented across the week.
+- For high-effort trainees, moderate weekly set counts often outperform very high-set plans because progression quality stays higher.
+
+## Decision Framework: When to Add Volume vs. Hold Steady
+
+Add volume only when the current dose stops working **and** recovery remains acceptable.
+
+- Strength up, performance stable, soreness manageable: keep volume steady.
+- Stalled lifts with good recovery: add a small amount of work (e.g., +1 set to a key pattern).
+- Stalled lifts with high fatigue markers: reduce fatigue first (fewer sets, keep load/skill exposure).
+
+The objective is long-term progression velocity, not chasing session exhaustion.
+
+## Bottom Line
+
+The most robust strategy for many lifters is a **low-rep-biased (4–8), moderate-set, higher-frequency model** that prioritizes stable, high-quality effort and personalized recovery management. Multiple rep ranges can build excellent physiques, but your default should maximize high-tension stimulus while minimizing unnecessary fatigue. That is how you build size, strength, and sustainability together.
+
+
+## Expanded Weekly Templates (Low-Rep Bias, High Frequency)
+
+### Template A: 4-Day Upper/Lower (Performance + Physique)
+
+**Lower A**
+- Smith or hack squat: 2–3 × 4–8
+- Romanian deadlift: 2–3 × 4–8
+- Leg extension: 1–2 × 8–15
+- Adductor machine: 1–2 × 8–15
+
+**Upper A**
+- Incline machine press: 2–3 × 4–8
+- Chest-supported row: 2–3 × 4–8
+- Lateral raise: 1–2 × 10–20
+- Triceps extension + curl: 1–2 sets each
+
+**Lower B**
+- Alternate squat pattern: 2–3 × 4–8
+- Seated ham curl: 2–3 × 6–12
+- Split squat or reverse lunge: 1–2 × 6–10
+- Calf work (stretch-focused): 1–2 × 8–15
+
+**Upper B**
+- Flat or slight-decline press: 2–3 × 4–8
+- Pulldown/row variant: 2–3 × 4–8
+- Rear delt + side delt: 1–2 sets each
+- Triceps press pattern or close-grip variation: 1–2 sets
+
+### Template B: 6-Day Micro-Dose Split (Very Low Per-Session Fatigue)
+
+- Alternate upper/lower daily with 2–3 primary sets per lift.
+- Keep most compounds in 4–8, accessories in 8–15.
+- Weekly progression target: +1 rep or +1–2.5% load on key lifts.
+
+This model is ideal for trainees who perform better with frequent exposure and smaller fatigue spikes.
+
+## Execution Standards That Improve Outcomes
+
+- Use **consistent setup landmarks** (seat height, grip width, stance, ROM endpoint).
+- Standardize **tempo in the eccentric** so load jumps are meaningful.
+- Track **performance at matched RIR**, not just absolute load.
+
+If setup quality changes every week, progression data becomes noisy and programming decisions become guesswork.
+
+## Plateau Diagnostics (Do This Before Adding Random Volume)
+
+1. **Check execution drift:** has ROM shortened or control worsened?
+2. **Check recovery context:** sleep, stress, body mass trend, soreness persistence.
+3. **Check exercise match:** are you using movements your structure can progress on?
+4. **Then adjust dose:** +1 set only if recovery is good; -1 set if fatigue is high.
+
+## Advanced Pressing Example (Chest + Triceps Without Junk Fatigue)
+
+- Main press (stable machine or Smith): 2–3 hard sets in 4–8.
+- Secondary chest bias (incline or fly): 1–2 sets, controlled eccentric.
+- Triceps-specific pattern: 1–2 sets where shoulder/elbow position keeps target tension high.
+
+Result: strong chest/triceps progression with less elbow and systemic fatigue than high-set, high-failure pressing marathons.

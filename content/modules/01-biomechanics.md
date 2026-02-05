@@ -176,3 +176,83 @@ Long-length loading is a deliberate choice. Romanian deadlifts, lengthened leg c
 - **Goal: bigger quads** → high-bar squat + heel-elevated split squat + leg extension partials at long length.
 - **Goal: stronger pulling** → chest-supported row + lat pulldown with controlled stretch + isometric pauses at sticking points.
 - **Goal: joint-friendly pressing** → machine press + cable fly with longer ROM + moderate loads for stable tension.
+
+
+## Movement Selection and Stability: Practical Biomechanics
+
+In real programming, movement selection is a leverage-and-fatigue decision. Two exercises can both “hit” a muscle, but one may be far more repeatable and less costly to recover from. That matters across an entire training week.
+
+- Fixed-path machines reduce coordination noise and often let you direct more effort to the target tissue.
+- Free-weight movements provide broader skill demands and can be invaluable when movement skill itself is a goal.
+- Neither category is universally superior; the right choice depends on whether your priority is local hypertrophy stimulus, skill transfer, or a blend of both.
+
+A useful way to think about this is: **stability can be a force multiplier**. If less effort is spent stabilizing, more can be spent producing force in the intended pattern.
+
+## Productive ROM vs. Forced ROM
+
+Full range of motion is a strong default, but “more range at any cost” is not always better. Productive range is the range where the target tissue is still producing meaningful force with sound joint mechanics.
+
+- If tension shifts heavily to non-target tissues at the very end of a movement, forcing lockout may add fatigue more than stimulus.
+- If a partial is performed in a range where the target still has strong leverage, it can be productive as a supplement.
+- The best approach is usually to anchor training in controlled full reps and use partials strategically, not randomly.
+
+This is especially relevant when working close to failure: the goal is to keep reps high-quality for the target muscle, not just to move the load by any strategy available.
+
+
+## Advanced Application: Exercise-by-Exercise Execution Guide
+
+### 1) Smith High-Bar Squat (Quad Bias)
+
+**Why this works:** The fixed path reduces balance noise, letting you push knee flexion and quad torque with high repeatability.
+
+**Setup and execution**
+- Place feet slightly forward of the bar path so knees can travel naturally over toes.
+- Use a shoulder-width or slightly narrower stance for more quad emphasis.
+- Descend under control; think “knees forward, hips under me,” not “hips back only.”
+- Keep pressure through mid-foot to forefoot and maintain an upright torso.
+- Stop at the deepest position you can control without lumbar collapse.
+
+**Common errors**
+- Cutting depth too early due to ankle restriction.
+- Sitting back excessively and turning it into a hip-dominant pattern.
+- Locking out aggressively at the top and dumping tension off quads.
+
+### 2) Chest-Supported Row (Lat/Mid-Back with Low Fatigue)
+
+**Why this works:** External support reduces spinal stabilization fatigue, increasing local back output.
+
+**Setup and execution**
+- Set chest pad so sternum is supported without neck protrusion.
+- Pull with elbows 30–60° from torso for lat + upper-back blend.
+- Initiate with scapular control, then drive elbows back.
+- Pause briefly in the shortened position; lower under control.
+
+**Common errors**
+- Shrug-dominant pulling (too much upper trap).
+- Overextending neck to “finish” reps.
+- Swinging torso off the pad.
+
+### 3) Pec Deck / Machine Fly (Chest Isolation)
+
+**Why this works:** Stable path and continuous adduction demand with minimal triceps limitation.
+
+**Setup and execution**
+- Set seat so upper arm aligns with mid-pec line.
+- Keep elbows softly bent and fixed through the rep.
+- Think “bring upper arms together,” not “push with hands.”
+- Use controlled eccentrics and avoid bouncing into stretch.
+
+**Common errors**
+- Turning fly into a press by extending elbows.
+- Chasing ROM past controllable shoulder position.
+- Letting shoulders roll forward at end-range.
+
+## Programming Lens: How Mechanics Changes Weekly Planning
+
+When two movements train the same muscle, pick the one that lets you recover while still progressing. Example:
+
+- Day 1: free-weight skill emphasis (higher coordination demand).
+- Day 2: stable machine emphasis (higher local output, lower systemic fatigue).
+- Day 3: targeted accessory and lengthened-position work.
+
+This rotation preserves motor skill while keeping hypertrophy stimulus high and fatigue predictable.

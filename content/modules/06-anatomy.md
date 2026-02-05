@@ -162,3 +162,52 @@ Literature on movement screening suggests that asymmetries are common; the goal 
 - **Shoulder discomfort** → swap barbell bench for dumbbell press and cable fly with controlled depth.
 - **Hip limitations** → use split squats and leg press with foot placement that respects hip structure.
 - **Core stability** → add carries and anti-rotation work to improve force transfer in heavy lifts.
+
+
+## Biarticular Muscles and Programming Consequences
+
+Several high-impact muscles cross two joints (biarticular), which means setup and joint motion can dramatically change what is trained.
+
+- Triceps long head function changes with shoulder position.
+- Rectus femoris contribution changes with hip position during quad work.
+- Hamstring stimulus profile changes with hip/knee combination and machine setup.
+
+This is why “same muscle” does not always mean “same stimulus.” Small setup changes can alter which fibers receive the highest tension and how much fatigue accumulates elsewhere.
+
+## Anatomy-Informed Fatigue Management
+
+Anatomy helps you choose patterns that maintain progression while reducing irritation:
+
+- Use movements where your structure can express force repeatedly.
+- Prefer setups that reduce unnecessary joint stress at end ranges you cannot control well.
+- Keep enough movement variety to distribute stress, but not so much that you lose overload continuity.
+
+In short: anatomy is not just about naming structures. It is a practical tool for selecting movements that let you train hard, recover, and keep progressing.
+
+
+## Anatomy-to-Exercise Mapping: High-Value Examples
+
+### Shoulders and Pressing
+
+- If shoulder external rotation is limited, neutral-grip dumbbell or machine pressing often improves tolerance.
+- If anterior shoulder irritation appears, reduce terminal ROM and improve scapular control before forcing depth.
+- For upper-chest bias, choose setup where clavicular fibers perform shoulder flexion + adduction without excessive anterior-delt compensation.
+
+### Elbows and Arm Work
+
+- If elbow tendons are irritable, cable/cuff-based triceps and biceps work often distributes stress better than rigid bar patterns.
+- Alter forearm/wrist position to keep line of pull aligned with tolerance and target tissue.
+
+### Hips, Adductors, and Quads
+
+- Narrow, lower-foot pressing tends to increase knee flexion/quad demand.
+- Wider stance and deeper hip flexion can raise adductor/glute contribution.
+- Include direct adductor work when frontal-view leg density is lacking.
+
+## Technical Cues with Anatomical Rationale
+
+- “Elbows under wrists” in pressing: improves force transfer and reduces joint shear.
+- “Knees track with toes” in squats/presses: helps maintain joint congruence.
+- “Hips stay where intended” in sissy/squat hybrids: preserves intended muscle bias.
+
+Good coaching cues are simply anatomy translated into actionable movement language.

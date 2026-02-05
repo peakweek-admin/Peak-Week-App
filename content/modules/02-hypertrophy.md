@@ -180,3 +180,53 @@ The key is avoiding one-size-fits-all volume prescriptions. Some lifters grow be
 - **Beginner hypertrophy block** → 3–4 exercises per session, 2–3 working sets each, 3–4 sessions/week.
 - **Intermediate** → 12–16 weekly sets per muscle, split across 2–3 days, with one heavy and one volume-focused day.
 - **Advanced** → rotate intensity blocks (heavy/moderate) to manage fatigue while preserving weekly volume.
+
+
+## Hypertrophy in Practice: Rep Ranges, Set Quality, and Fatigue Economics
+
+Multiple rep ranges can build muscle if effort is high enough, but they do not carry identical fatigue costs.
+
+- **4–8 reps:** high tension per rep, strong strength transfer, often less local burn but high neural demand.
+- **8–12 reps:** efficient blend of tension and practical execution for many movements.
+- **12–20+ reps:** still effective, but discomfort/cardio limitations can reduce target-muscle quality.
+
+The practical takeaway: choose rep ranges by movement and objective, not ideology.
+
+### Compound vs Isolation Rep Prescriptions
+
+- Squat/press/row/hinge patterns: often best in 4–8 or 5–10 for output and progression clarity.
+- Isolation patterns (laterals, curls, extensions): often best in 8–15+ to reduce joint irritation and keep tension focused.
+
+## Exercise-Specific Hypertrophy Examples
+
+### Delts: Cable Lateral Raise (Single Arm)
+
+**Goal:** Keep tension from bottom to top with minimal momentum.
+
+- Slight torso lean away from stack to improve bottom-end tension.
+- Raise in scapular plane (roughly 30° forward of frontal plane).
+- Stop before upper trap dominates; control eccentric.
+
+### Triceps: Cable Extension (Long-Head Biased)
+
+**Goal:** Train elbow extension with shoulder position that keeps triceps loaded.
+
+- Stabilize elbow path; avoid shoulder swinging.
+- Select line of pull that challenges mid-to-lengthened range.
+- Use straps/cuffs if grip limits target-muscle output.
+
+### Biceps: Machine Curl
+
+**Goal:** High local biceps stimulus with low systemic cost.
+
+- Fix shoulder position; avoid drifting elbow forward.
+- Keep wrist neutral to limit forearm takeover.
+- Continue productive partials only after strict full reps fail.
+
+## Failure Strategy: Where and When
+
+- Compounds: usually stop at ~0–2 RIR on most work to preserve performance quality.
+- Isolation: occasional true failure is useful when joint tolerance is good.
+- Lengthened partials: use strategically after full reps, not as every-set default.
+
+You grow from repeatable high-quality effort, not one heroic set that ruins the rest of the week.
