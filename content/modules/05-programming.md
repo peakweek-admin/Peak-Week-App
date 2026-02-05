@@ -2,7 +2,7 @@
 id: module-programming
 title: Programming for Long-Term Progress
 level: advanced
-estimated_minutes: 160
+estimated_minutes: 30
 summary: Design periodized plans with evidence-backed volume, intensity, and exercise selection.
 objectives:
   - Choose overload strategies for each training phase.
