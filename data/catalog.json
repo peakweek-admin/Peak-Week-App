@@ -1,0 +1,113 @@
+{
+  "program": "Peak Week Science-Backed Lifting Archive",
+  "version": "2.0",
+  "modules": [
+    {
+      "id": "module-biomechanics",
+      "title": "Foundations of Lifting Biomechanics",
+      "level": "foundational",
+      "estimated_minutes": 75,
+      "topics": [
+        "moment arms",
+        "leverage",
+        "stability",
+        "anatomy"
+      ]
+    },
+    {
+      "id": "module-hypertrophy",
+      "title": "Muscle Growth From Cell to System",
+      "level": "foundational",
+      "estimated_minutes": 75,
+      "topics": [
+        "mechanical tension",
+        "mTOR",
+        "satellite cells",
+        "architecture"
+      ]
+    },
+    {
+      "id": "module-nutrition",
+      "title": "Fueling for Performance and Composition",
+      "level": "intermediate",
+      "estimated_minutes": 75,
+      "topics": [
+        "TDEE",
+        "NEAT",
+        "macros",
+        "whole foods"
+      ]
+    },
+    {
+      "id": "module-recovery",
+      "title": "Recovery, Hormones, and Lifestyle",
+      "level": "intermediate",
+      "estimated_minutes": 70,
+      "topics": [
+        "sleep",
+        "stress",
+        "hormones",
+        "recovery"
+      ]
+    },
+    {
+      "id": "module-programming",
+      "title": "Programming for Long-Term Progress",
+      "level": "advanced",
+      "estimated_minutes": 80,
+      "topics": [
+        "progressive overload",
+        "periodization",
+        "exercise selection"
+      ]
+    },
+    {
+      "id": "module-anatomy",
+      "title": "Applied Anatomy and Movement Physiology",
+      "level": "intermediate",
+      "estimated_minutes": 75,
+      "topics": [
+        "joint anatomy",
+        "muscle actions",
+        "fascial lines",
+        "stabilizers"
+      ]
+    },
+    {
+      "id": "module-thermogenesis",
+      "title": "Energy Systems, Thermogenesis, and Metabolism",
+      "level": "advanced",
+      "estimated_minutes": 70,
+      "topics": [
+        "ATP systems",
+        "thermogenesis",
+        "RMR",
+        "adaptive metabolism"
+      ]
+    },
+    {
+      "id": "module-recovery-monitoring",
+      "title": "Recovery Monitoring and Load Management",
+      "level": "advanced",
+      "estimated_minutes": 70,
+      "topics": [
+        "HRV",
+        "readiness",
+        "sleep architecture",
+        "deloads"
+      ]
+    },
+    {
+      "id": "module-ergogenics",
+      "title": "Supplementation and Ergogenic Aids",
+      "level": "advanced",
+      "estimated_minutes": 65,
+      "topics": [
+        "creatine",
+        "caffeine",
+        "beta-alanine",
+        "nitrates"
+      ]
+    }
+  ]
+}
