@@ -2,7 +2,7 @@
 id: module-nutrition
 title: Fueling for Performance and Composition
 level: intermediate
-estimated_minutes: 150
+estimated_minutes: 50
 summary: Build nutrition plans around TDEE, NEAT, and macronutrient distribution.
 objectives:
   - Calculate TDEE and set energy targets.

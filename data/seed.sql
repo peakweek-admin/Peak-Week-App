@@ -31,15 +31,15 @@ INSERT INTO tags (id, name, description) VALUES
   (10, 'monitoring', 'Readiness, HRV, and fatigue tracking.');
 
 INSERT INTO modules (id, domain_id, title, summary, level, estimated_minutes) VALUES
-  (1, 1, 'Foundations of Lifting Biomechanics', 'Understand lever arms, joint torque, and stability in exercise selection.', 'foundational', 150),
-  (2, 2, 'Muscle Growth From Cell to System', 'Explore cellular and systemic drivers of hypertrophy.', 'foundational', 150),
-  (3, 3, 'Fueling for Performance and Composition', 'Build nutrition plans around TDEE, NEAT, and nutrient timing.', 'intermediate', 150),
-  (4, 4, 'Recovery, Hormones, and Lifestyle', 'Integrate sleep, stress, and hormonal considerations into training.', 'intermediate', 140),
-  (5, 5, 'Programming for Long-Term Progress', 'Design periodized plans with evidence-backed volume and intensity.', 'advanced', 160),
-  (6, 1, 'Applied Anatomy and Movement Physiology', 'Study joint anatomy and stabilization for exercise selection.', 'intermediate', 150),
-  (7, 3, 'Energy Systems, Thermogenesis, and Metabolism', 'Explain ATP systems, thermogenesis, and metabolic adaptation.', 'advanced', 140),
-  (8, 4, 'Recovery Monitoring and Load Management', 'Use HRV and readiness data to manage fatigue.', 'advanced', 140),
-  (9, 6, 'Supplementation and Ergogenic Aids', 'Review evidence-backed supplementation strategies.', 'advanced', 130);
+  (1, 1, 'Foundations of Lifting Biomechanics', 'Understand lever arms, joint torque, and stability in exercise selection.', 'foundational', 75),
+  (2, 2, 'Muscle Growth From Cell to System', 'Explore cellular and systemic drivers of hypertrophy.', 'foundational', 75),
+  (3, 3, 'Fueling for Performance and Composition', 'Build nutrition plans around TDEE, NEAT, and nutrient timing.', 'intermediate', 75),
+  (4, 4, 'Recovery, Hormones, and Lifestyle', 'Integrate sleep, stress, and hormonal considerations into training.', 'intermediate', 70),
+  (5, 5, 'Programming for Long-Term Progress', 'Design periodized plans with evidence-backed volume and intensity.', 'advanced', 80),
+  (6, 1, 'Applied Anatomy and Movement Physiology', 'Study joint anatomy and stabilization for exercise selection.', 'intermediate', 75),
+  (7, 3, 'Energy Systems, Thermogenesis, and Metabolism', 'Explain ATP systems, thermogenesis, and metabolic adaptation.', 'advanced', 70),
+  (8, 4, 'Recovery Monitoring and Load Management', 'Use HRV and readiness data to manage fatigue.', 'advanced', 70),
+  (9, 6, 'Supplementation and Ergogenic Aids', 'Review evidence-backed supplementation strategies.', 'advanced', 65);
 
 INSERT INTO lessons (id, module_id, title, summary, order_index, learning_objectives) VALUES
   (1, 1, 'Moment Arms and Torque Curves', 'Relate joint angles to torque and perceived difficulty.', 1, 'Explain how moment arms change across ROM; map torque curves to exercise feel.'),

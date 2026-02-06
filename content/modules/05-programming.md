@@ -2,7 +2,7 @@
 id: module-programming
 title: Programming for Long-Term Progress
 level: advanced
-estimated_minutes: 30
+estimated_minutes: 40
 summary: Design periodized plans with evidence-backed volume, intensity, and exercise selection.
 objectives:
   - Choose overload strategies for each training phase.
@@ -31,7 +31,7 @@ Programming is the bridge between science and results. This module explains how 
 
 **Practical applications**
 - Use double progression inside 4–8 reps (add reps, then add load).
-- Go Until 0-1RIR reps in reserve on most sets; use failure selectively.
+- Keep 1–3 reps in reserve on most sets; use failure selectively.
 - Add sets only after progression stalls for 1–2 weeks.
 
 ## Lesson 2: Periodization and Deloading
@@ -124,35 +124,33 @@ Autoregulation adjusts training based on how you feel and perform that day. It k
 
 ## Mechanisms: Fatigue Management
 
-**Core idea:** (hypothesis) Fatigue can be partially mitigated by using less drop sets, partials, reps, and volume. 
+**Core idea:** Fatigue is cumulative. Without deloads, performance declines even if effort stays high.
 
 - High volumes increase central and peripheral fatigue.
-- Lower volume and reps can be a helpful tool to use.
-- Provided form stays good and proximity to failure is very close, low rep ranges can be just as hypertrophic as higher ones.
-
+- Deloads reduce fatigue while preserving skill.
+- Periodization manages long-term recovery.
 
 ## Mechanisms: Exercise Selection and Specificity
 
-**Core idea:** The more native the exercise is to the goal muscle, the greater the stimulus for growth in that area.
+**Core idea:** The more specific the exercise is to the goal, the greater the adaptation in that area.
 
-- Hypertrophy goals require stability, tension, manageable fatigue, and progression.
-- Stability makes it possible to accumulate less fatiuge as secondary stabilizers are not having to work as hard.
-- Each excersize should isolate the target muscle so that it can output more without stability being an issue. 
-
+- Strength goals require heavy, stable movements.
+- Hypertrophy goals require consistent tension and manageable fatigue.
+- Performance goals require power and speed emphasis.
 
 ## Why It Matters: Long-Term Progress
 
 - **Clear progression** avoids stagnation.
-- **Planned fatiuge management** prevent overtraining.
-- **Specific exercise choices** drive the right adaptation and isolation of target muscle.
+- **Planned deloads** prevent overtraining.
+- **Specific exercise choices** drive the right adaptation.
 
 **Takeaway:** Programming is applied physiology. Structure determines results.
 
-Programming is the practical application of physiology. Overload creates a signal, but the pattern of that overload determines the adaptation. High intensity improves neural efficiency and maximal strength, while higher volume improves hypertrophy through cumulative tension. The reason frequency matters is that each session creates a short-lived signal; increasing frequency gives more opportunities to trigger growth. 
+Programming is the practical application of physiology. Overload creates a signal, but the pattern of that overload determines the adaptation. High intensity improves neural efficiency and maximal strength, while higher volume improves hypertrophy through cumulative tension. The reason frequency matters is that each session creates a short-lived signal; increasing frequency gives more opportunities to trigger growth.
 
-Fatigue is another variable limiter to growth. High volume accumulates both peripheral and central fatigue, which lowers movement quality and increases injury risk. Fatigue management can restore performance by reducing accumulated fatigue while preserving the skill and neural adaptations. Periodization is the strategy that keeps those fatigue cycles controlled rather than random.
+Fatigue is the silent limiter. High volume accumulates both peripheral and central fatigue, which lowers movement quality and increases injury risk. Deloads restore performance by reducing accumulated fatigue while preserving the skill and neural adaptations. Periodization is the strategy that keeps those fatigue cycles controlled rather than random.
 
-Exercise selection is specificity. The more targeted a movement is to your target muscle, the better you can push that muscle to failure and therefore the better the stimulus. If the goal is hypertrophy, prioritize stable, heavy lifts. Use consistent tension and manageable fatigue. Programming works when each variable has a reason: load, volume, frequency, and exercise choice all point toward the same outcome. Growth.
+Exercise selection is specificity. The closer a movement is to your goal, the larger the adaptation. If the goal is strength, prioritize stable, heavy lifts. If the goal is hypertrophy, prioritize consistent tension and manageable fatigue. Programming works when each variable has a reason—load, volume, frequency, and exercise choice all point toward the same outcome.
 
 ## Applications and Examples
 
