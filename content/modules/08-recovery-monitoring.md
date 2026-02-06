@@ -2,7 +2,7 @@
 id: module-recovery-monitoring
 title: Recovery Monitoring and Load Management
 level: advanced
-estimated_minutes: 70
+estimated_minutes: 25
 summary: Build data-informed recovery practices using readiness, HRV, and workload metrics.
 objectives:
   - Interpret HRV, resting heart rate, and subjective readiness.

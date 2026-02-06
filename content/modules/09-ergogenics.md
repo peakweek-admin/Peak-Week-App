@@ -2,7 +2,7 @@
 id: module-ergogenics
 title: Supplementation and Ergogenic Aids
 level: advanced
-estimated_minutes: 65
+estimated_minutes: 35
 summary: Analyze evidence for supplements, dosing, and performance effects.
 objectives:
   - Evaluate supplement efficacy using evidence tiers.

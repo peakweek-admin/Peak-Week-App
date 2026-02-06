@@ -2,7 +2,7 @@
 id: module-biomechanics
 title: Foundations of Lifting Biomechanics
 level: foundational
-estimated_minutes: 75
+estimated_minutes: 30
 summary: Understand how lever arms, joint torque, stability, and movement constraints shape exercise selection.
 objectives:
   - Explain how moment arms change across a range of motion.

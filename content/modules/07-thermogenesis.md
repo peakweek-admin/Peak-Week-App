@@ -2,7 +2,7 @@
 id: module-thermogenesis
 title: Energy Systems, Thermogenesis, and Metabolism
 level: advanced
-estimated_minutes: 70
+estimated_minutes: 30
 summary: Explain ATP systems, thermogenesis, metabolic adaptation, and how diet shifts energy expenditure.
 objectives:
   - Explain ATP-PC, glycolytic, and oxidative systems.
