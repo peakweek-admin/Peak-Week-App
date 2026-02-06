@@ -2,7 +2,7 @@
 id: module-anatomy
 title: Applied Anatomy and Movement Physiology
 level: intermediate
-estimated_minutes: 45
+estimated_minutes: 35
 summary: Study joint anatomy, muscle actions, and stabilizing systems that drive exercise execution.
 objectives:
   - Map muscle origins and insertions to movement outcomes.

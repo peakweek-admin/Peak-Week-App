@@ -2,7 +2,7 @@
 id: module-recovery
 title: Recovery, Hormones, and Lifestyle
 level: intermediate
-estimated_minutes: 40
+estimated_minutes: 30
 summary: Integrate sleep, stress, and hormonal considerations into training.
 objectives:
   - Build a recovery checklist for weekly planning.

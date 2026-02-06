@@ -2,7 +2,7 @@
 id: module-hypertrophy
 title: Muscle Growth From Cell to System
 level: foundational
-estimated_minutes: 25
+estimated_minutes: 35
 summary: Explore cellular signals, tissue remodeling, and systemic drivers of hypertrophy.
 objectives:
   - Describe the primary cellular triggers of hypertrophy.
